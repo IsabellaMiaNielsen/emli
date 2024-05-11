@@ -1,0 +1,13 @@
+{
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435514"
+  },
+  "File Name": "121501_556.jpg",
+  "Create Date": "2024-05-11 12:15:03.556+02:00",
+  "Create Seconds Epoch": "1715436903.556",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
