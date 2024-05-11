@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with circular elements that appear to be lighting fixtures. These fixtures are mounted on a patterned ceiling that has a gray color scheme, with the lighting fixtures providing a contrasting color due to their lightbulbs. Below the ceiling, there is a partial view of a structure or frame, suggesting this might be an architectural detail of a building's interior design. The overall style of the image seems to be taken from a low angle, possibly from someone standing directly under the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435509"
+  },
+  "File Name": "120501_136.jpg",
+  "Create Date": "2024-05-11 12:05:02.136+02:00",
+  "Create Seconds Epoch": "1715436302.136",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "379"
+}
