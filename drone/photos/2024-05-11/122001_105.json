@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the ceiling of a building, which appears to be a structure made of metal or other industrial materials. It has a patterned design with what looks like circular elements arranged in rows and columns. The ceiling is supported by ribs that create a lattice-like effect. There are also circular lights embedded within the structure, likely for illumination. The floor beneath the ceiling is not visible as it would be directly under this perspective. The overall style of the image suggests an indoor space, possibly part of a commercial or industrial building. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435516"
+  },
+  "File Name": "122001_105.jpg",
+  "Create Date": "2024-05-11 12:20:02.105+02:00",
+  "Create Seconds Epoch": "1715437202.105",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "400"
+}
