@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph of a ceiling with various design elements. It features a patterned metal paneling, which is supported by what looks like a structural framework, possibly part of an architectural design or a false ceiling system. The ceiling has a modern aesthetic with visible gridlines and a monochromatic color scheme, predominantly in shades of gray. There are circular light fixtures mounted on the panels, providing illumination. Additionally, there is a small, circular object, possibly a speaker or another type of installation, situated centrally within the design. The background suggests an indoor setting, but specific details about the location or context are not clearly visible. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435511"
+  },
+  "File Name": "121001_324.jpg",
+  "Create Date": "2024-05-11 12:10:02.324+02:00",
+  "Create Seconds Epoch": "1715436602.324",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
