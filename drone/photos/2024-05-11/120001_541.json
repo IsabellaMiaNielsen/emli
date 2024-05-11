@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a room with a ceiling that appears to be made up of hexagonal tiles. There are small, round objects mounted at various points on the ceiling. These could possibly be light fixtures or speakers. The wall behind has a patterned design, and there is a large circular object near the top center of the image which might be another light source or decorative element. The floor is not visible in this section of the image. There are no people or moving objects present in the frame. The overall color scheme of the room is neutral with shades of grey, white, and off-white. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435506"
+  },
+  "File Name": "120001_541.jpg",
+  "Create Date": "2024-05-11 12:00:03.541+02:00",
+  "Create Seconds Epoch": "1715436003.541",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "400"
+}
