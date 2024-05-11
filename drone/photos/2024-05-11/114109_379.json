@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with a pattern of hexagonal tiles. There are visible circular objects on the ceiling, possibly lighting fixtures or speakers. The ceiling appears to be part of an interior space, possibly within a building like a museum or exhibition hall, given the high ceiling and the type of ceiling tiles, which are commonly used for acoustical purposes in such spaces. The angle at which the photo is taken suggests it was taken from below, looking up towards the ceiling. There is no text present on the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715420510"
+  },
+  "File Name": "114109_379.jpg",
+  "Create Date": "2024-05-11 11:41:10.379+02:00",
+  "Create Seconds Epoch": "1715434870.379",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
