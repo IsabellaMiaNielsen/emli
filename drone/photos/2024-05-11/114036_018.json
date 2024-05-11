@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows a view from an interior space, looking up at the ceiling. The ceiling appears to be made of corrugated metal panels that are painted white or light gray, creating a grid-like pattern across the entire ceiling. There are four circular objects embedded in this material; these could be lights, vents, or access points. The lighting in the room is such that it casts shadows on the ceiling, indicating some type of artificial lighting. The floor is also visible but not as prominently featured. The overall impression is of a clean, industrial space with a focus on modern design elements. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715420504"
+  },
+  "File Name": "114036_018.jpg",
+  "Create Date": "2024-05-11 11:40:37.018+02:00",
+  "Create Seconds Epoch": "1715434837.018",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
