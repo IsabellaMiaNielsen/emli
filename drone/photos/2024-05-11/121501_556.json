@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling in a room that appears to be a public space or commercial area. The ceiling has a grid-like pattern and is made up of what looks like acoustic tiles, commonly used for sound absorption in spaces with high reverberation times. There are circular recessed lighting fixtures installed within the tiles, providing illumination. Above this area, there's another section of the ceiling that seems to have a different design, featuring a series of rectangular panels arranged vertically. The overall color scheme of the room is neutral, with darker tones on the ceiling and lighter shades in other areas, possibly indicating the use of light-colored wall finishes or flooring. The photo has an overlay with what appears to be some form of digital distortion or error, which could indicate a technical glitch during image capture or processing. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435514"
+  },
+  "File Name": "121501_556.jpg",
+  "Create Date": "2024-05-11 12:15:03.556+02:00",
+  "Create Seconds Epoch": "1715436903.556",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
