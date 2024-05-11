@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from an interior space, specifically a ceiling view. The ceiling has a grid-like pattern, which could suggest it is made of metal or similar material. It is divided into several sections with visible screws or bolts, and each section may contain a panel for acoustic purposes or other functional uses. There are circular elements that could be lights, speakers, or some form of ceiling access point. The background shows an area with what appears to be tiles on the walls and a patterned floor. There is a single object in the center, which seems to be a small spherical object, possibly an item for cleaning or maintenance. The overall impression is that of a well-maintained public space, such as a shopping mall or an office area with modern design elements. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435499"
+  },
+  "File Name": "114501_451.jpg",
+  "Create Date": "2024-05-11 11:45:03.451+02:00",
+  "Create Seconds Epoch": "1715435103.451",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "376"
+}
