@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely the underside of a ceiling or roof, given the perspective. The surface appears to be made up of interlocking tiles in a metallic color scheme, possibly resembling corrugated metal sheets. There are circular light fixtures installed on this surface at regular intervals, providing illumination. The lighting is soft and evenly distributed across the area, suggesting an indoor setting. No people or distinctive objects can be seen from this angle, making it difficult to provide a detailed description of the surroundings beyond the ceiling tiles and the lights. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715420501"
+  },
+  "File Name": "114017_613.jpg",
+  "Create Date": "2024-05-11 11:40:19.613+02:00",
+  "Create Seconds Epoch": "1715434819.613",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
