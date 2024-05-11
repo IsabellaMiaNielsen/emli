@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the underside of a ceiling, which appears to be a metallic structure with perforated tiles. These tiles are typically used for acoustical purposes to distribute sound evenly across the room. There is also what looks like an integrated lighting system visible, consisting of circular light fixtures embedded within the ceiling panels. The design suggests this could be an interior space, possibly within a commercial or institutional building such as a school, library, or office. There is no text present in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435502"
+  },
+  "File Name": "115001_071.jpg",
+  "Create Date": "2024-05-11 11:50:02.071+02:00",
+  "Create Seconds Epoch": "1715435402.071",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
