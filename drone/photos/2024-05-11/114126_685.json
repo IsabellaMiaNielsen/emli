@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to show a blurred view of an indoor environment. In the foreground, there is a blurred object that looks like a metal structure or possibly a piece of equipment with a control panel on it. Behind this object, we see what seems to be a building interior featuring a patterned ceiling and what might be a sign or noticeboard in the background. The overall quality of the image is low due to the camera shake or motion blur, making it difficult to discern specific details. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715420515"
+  },
+  "File Name": "114126_685.jpg",
+  "Create Date": "2024-05-11 11:41:28.685+02:00",
+  "Create Seconds Epoch": "1715434888.685",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "372"
+}
