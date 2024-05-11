@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a low-resolution photo, possibly taken with a wide-angle lens or from a distance. It shows an interior space with what looks like a drop ceiling and perforated acoustic tiles. There are circular patterns that might represent light fixtures or decorative elements on the ceiling. The room's floor is not visible due to the angle of the photograph. If you have any specific questions about the image, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715420513"
+  },
+  "File Name": "114114_060.jpg",
+  "Create Date": "2024-05-11 11:41:15.060+02:00",
+  "Create Seconds Epoch": "1715434875.060",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
