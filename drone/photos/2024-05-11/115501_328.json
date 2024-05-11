@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling of what appears to be a public building, possibly a train station or a similar structure. The ceiling is composed of metal panels with perforations, allowing light to filter through and giving it an industrial aesthetic. There are circular lights mounted on the ceiling, illuminating the space below. In the foreground, there's a glimpse of a person, but their identity isn't clear from this angle. The color palette is quite neutral, with tones of grey and white dominating the scene. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435504"
+  },
+  "File Name": "115501_328.jpg",
+  "Create Date": "2024-05-11 11:55:02.328+02:00",
+  "Create Seconds Epoch": "1715435702.328",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "390"
+}
