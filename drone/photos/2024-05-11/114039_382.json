@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a close-up view of a ceiling, which appears to be made of corrugated metal panels. There are several circular light fixtures recessed into the panels. The color of the ceiling is gray, and it has a grid-like pattern due to the nature of the materials. The lighting in the area is artificial and does not seem to have a natural source, such as windows, as no natural light is visible in this image. There are no people or distinguishable objects in the foreground that would provide scale or context for the location. The style of the image is candid and unstylized, capturing a simple architectural detail with little attention to composition or artistic expression. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715420507"
+  },
+  "File Name": "114039_382.jpg",
+  "Create Date": "2024-05-11 11:40:40.382+02:00",
+  "Create Seconds Epoch": "1715434840.382",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
