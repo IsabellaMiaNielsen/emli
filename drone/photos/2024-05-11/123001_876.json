@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a high ceiling. The ceiling appears to have a pattern of tiles or panels that might be part of the ceiling's design. There are some circular objects hanging from the ceiling, possibly lights or other ceiling fixtures, but they are not illuminated in this photo. Below the ceiling, there is a large, open space with what looks like a tiled floor and an architectural feature that could be a column or pillar. The overall color scheme of the room includes shades of gray, with the darkest areas at the bottom and the lighter ones at the top, suggesting that light is coming from above. There are no people or distinctive objects in the visible part of the image, giving it an abstract quality. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435715"
+  },
+  "File Name": "123001_876.jpg",
+  "Create Date": "2024-05-11 12:30:03.876+02:00",
+  "Create Seconds Epoch": "1715437803.876",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
