@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling with a pattern of small, light-colored dots. The ceiling appears to be made of perforated metal or composite material, and it is supported by visible structural elements at the corners. There are no other objects or decorations in the photo, and the focus is solely on the ceiling itself. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435732"
+  },
+  "File Name": "125001_552.jpg",
+  "Create Date": "2024-05-11 12:50:02.552+02:00",
+  "Create Seconds Epoch": "1715439002.552",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "345"
+}
