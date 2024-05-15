@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely taken from within a building. The ceiling appears to be made up of interlocking metal panels that create a grid-like pattern, and it is a light color. There are circular openings scattered across the ceiling, suggesting an architectural design with some degree of transparency or accessibility. Below the ceiling, there is a floor with a similar grid pattern, and the wall is not fully visible in this view but seems to be a smooth surface. The lighting is artificial, casting shadows on the metal panels, indicating the use of overhead lights. There are no people or objects that can provide context or scale in this particular image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435724"
+  },
+  "File Name": "124009_989.jpg",
+  "Create Date": "2024-05-11 12:40:11.989+02:00",
+  "Create Seconds Epoch": "1715438411.989",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "390"
+}
