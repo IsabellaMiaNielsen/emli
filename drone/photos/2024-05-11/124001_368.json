@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph of an interior space, likely a ceiling with some architectural features. The photo is taken from a low angle looking up towards the ceiling. It shows what appears to be metal panels or tiles arranged in a grid-like pattern, and there are circular elements that could be lights or fixtures embedded into the surface. Additionally, there are small round objects that might serve as ventilation ducts or other building services. The image itself is slightly distorted due to the camera's angle and perspective, which creates a slight warping effect on the lines of the ceiling panels. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435722"
+  },
+  "File Name": "124001_368.jpg",
+  "Create Date": "2024-05-11 12:40:03.368+02:00",
+  "Create Seconds Epoch": "1715438403.368",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "396"
+}
