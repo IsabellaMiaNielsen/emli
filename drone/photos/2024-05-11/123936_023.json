@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely taken from a window or an opening. There's a metal ceiling with circular cutouts and a few round lights mounted on it. On the floor, there are large gray tiles. The lighting in the room appears to be diffused, creating soft shadows that do not reveal specific details about the room's contents. The photo has a low resolution, making textures and smaller details difficult to discern. There is no visible text or branding within the image provided. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435720"
+  },
+  "File Name": "123936_023.jpg",
+  "Create Date": "2024-05-11 12:39:37.023+02:00",
+  "Create Seconds Epoch": "1715438377.023",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "389"
+}
