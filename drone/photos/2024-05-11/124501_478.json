@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with a series of circular openings. Through these holes, you can see the underside of what appears to be a white structure or object, possibly part of an interior architecture design. The ceiling itself is textured and seems to have a patterned appearance. There are no visible people or items in the image, giving it a minimalist or abstract quality. The lighting is artificial, casting shadows on the ceiling below the openings. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435727"
+  },
+  "File Name": "124501_478.jpg",
+  "Create Date": "2024-05-11 12:45:03.478+02:00",
+  "Create Seconds Epoch": "1715438703.478",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "358"
+}
