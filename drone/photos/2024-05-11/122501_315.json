@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows the interior of a building with an open-air atrium. The ceiling features a grid of metal panels with circular lights embedded in them, providing illumination from above. There is no visible furniture or decorations on the floor, suggesting the space might be under construction or being prepared for use. The photo has been taken with the camera at an angle, and there are several small objects that look like circles on the ceiling, which could be lights or some form of design element. The walls appear to be made of a textured material, and the overall color scheme is neutral with grey tones dominating the space. There is no visible text or distinctive brands in this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435713"
+  },
+  "File Name": "122501_315.jpg",
+  "Create Date": "2024-05-11 12:25:03.315+02:00",
+  "Create Seconds Epoch": "1715437503.315",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "372"
+}
