@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is an image of a computer screen displaying an interior environment, specifically what appears to be the interior of a building, possibly a museum or library given the structure and layout. The view is from a high angle, showing a spacious area with walls that have text or information on them, indicating it could be an exhibit or informational space. There are no people visible in this image. The graphics are stylized with simple shapes and shading, suggesting it may be a screenshot from a video game or a 3D visualization tool. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715437403"
+  },
+  "File Name": "125321_491.jpg",
+  "Create Date": "2024-05-11 12:53:22.491+02:00",
+  "Create Seconds Epoch": "1715439202.491",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "365"
+}
