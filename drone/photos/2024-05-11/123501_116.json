@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling with several circular recessed lights. These lights appear to be flush-mounted, providing a modern and unobtrusive look. The ceiling itself is tiled, suggesting that the space might be a public building such as a shopping mall or a museum. There are no visible people or items in this section of the image. The lighting pattern is uniform across the tiles, indicating a well-planned design for illumination. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435718"
+  },
+  "File Name": "123501_116.jpg",
+  "Create Date": "2024-05-11 12:35:02.116+02:00",
+  "Create Seconds Epoch": "1715438102.116",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "400"
+}
