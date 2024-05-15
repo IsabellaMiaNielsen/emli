@@ -12,11 +12,11 @@ while connected; do
     if [ -n "$folders" ]; then
         remaining_folders=$(echo "$folders" | tail -n +$number_of_folders)
         for folder in $remaining_folders; do
+            if [ ! -d  "/home/mia/emli/emli/drone/photos/$(basename $folder)" ]; then
+                mkdir "/home/mia/emli/emli/drone/photos/$(basename $folder)"
+            fi
             files=$(ssh -i .ssh/id_ed25519_rpi group7@192.168.10.1 "ls $folder")
             for file in $files; do
-                if [ ! -d  "/home/mia/emli/emli/drone/photos/$(basename $folder)" ]; then
-                    mkdir "/home/mia/emli/emli/drone/photos/$(basename $folder)"
-                fi
                 if [ ! -f "/home/mia/emli/emli/drone/photos/$(basename $folder)/$file" ]; then
                     if [[ $file == *.json ]]; then
                             # Add section to the JSON file on the camera
@@ -32,8 +32,10 @@ while connected; do
             done
         done
         echo "All files copied. No new files to copy."
+        sleep 5 # Sleep to allow new images to be taken before trying again
     else
         echo "No folders found"
+        sleep 5 # Sleep to allow new images to be taken before trying again
     fi
 done
 
