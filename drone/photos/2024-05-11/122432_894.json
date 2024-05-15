@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a vaulted ceiling. The ceiling has a ribbed structure, possibly made of metal or composite materials, and appears to be painted in shades of gray and silver, which gives the impression of a metallic or futuristic design. There are several circular lights embedded into the ceiling, providing illumination. In the foreground, there is a surface with a pattern that might suggest it's part of a flooring system or perhaps an acoustic panel. The perspective of the image suggests it was taken from below, as the viewer looks up towards the vaulted ceiling. There are no visible texts, brands, or distinctive marks that provide additional context about the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435711"
+  },
+  "File Name": "122432_894.jpg",
+  "Create Date": "2024-05-11 12:24:34.894+02:00",
+  "Create Seconds Epoch": "1715437474.894",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "355"
+}
