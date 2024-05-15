@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior space with a high ceiling that has exposed ductwork or panels. The ceiling features a pattern of white and dark rectangles, possibly tiles or acoustic foam panels, which give the appearance of a textured ceiling. There are also circular objects on the ceiling, which could be light fixtures or ventilation elements. The floor appears to be tiled as well, and there is a wall with what looks like an opening or doorway. The image has been edited to have a split effect, showing two different perspectives: one side of the room (left) and another side (right). "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435729"
+  },
+  "File Name": "124510_507.jpg",
+  "Create Date": "2024-05-11 12:45:11.507+02:00",
+  "Create Seconds Epoch": "1715438711.507",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "350"
+}
