@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken in an indoor setting, possibly a public building such as a museum or convention center. There are several elements in the picture:  1. Flooring - The flooring is not fully visible due to perspective and angle, but it seems to be a non-slip surface, likely a safety feature in areas where there might be movement of people, such as an escalator area.  2. Ceiling - The ceiling has a patterned design, which could indicate a themed environment or a specific architectural style.  3. Lighting - There are light fixtures visible on the right side of the image, which suggest that this space is well-lit to ensure visitor comfort and visibility of exhibits or installations.  4. Background - In the background, there's a darker area with what appears to be an exhibit or display, but it's not clear enough to make out any specific details about the content.  5. Color Scheme - The overall color scheme seems neutral and muted, which could indicate a professional or educational environment.  6. Perspective - The perspective of the photo suggests that it was taken from an angle where the focus is on the exhibit area rather than the flooring or ceiling.  Please note that due to the angle and quality of the image, specific details about the exhibit or the exact nature of the building are not discernible. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435518"
+  },
+  "File Name": "122008_913.jpg",
+  "Create Date": "2024-05-11 12:20:10.913+02:00",
+  "Create Seconds Epoch": "1715437210.913",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "400"
+}

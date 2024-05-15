@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling that has several circular elements. These could be lights, ventilation units, or decorative fixtures. There appears to be a patterned design on the surface of the ceiling. Below the ceiling, there is a wall with what looks like tiles or panels, and the bottom of the image seems to show an elevated floor, possibly within a building such as a commercial or institutional space. The overall color scheme consists of dark tones, which could be due to the lighting conditions in the room. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1715435521"
+  },
+  "File Name": "122303_417.jpg",
+  "Create Date": "2024-05-11 12:23:05.417+02:00",
+  "Create Seconds Epoch": "1715437385.417",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
