@@ -33,6 +33,7 @@ while connected; do
         done
         echo "All files copied. No new files to copy."
         sleep 5 # Sleep to allow new images to be taken before trying again
+        number_of_folders=$(ls -l /home/mia/emli/emli/drone/photos | grep -c '^d')
     else
         echo "No folders found"
         sleep 5 # Sleep to allow new images to be taken before trying again
