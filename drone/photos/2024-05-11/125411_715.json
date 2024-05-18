@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows a ceiling with perforated tiles, allowing for a patterned appearance. The photo has been edited to include two circular elements on the right side that look like they could be light fixtures or perhaps part of an art installation. There is no visible activity or people in the room; it appears to be empty. The left side of the image is a standard solid color wall, and there's a subtle reflection at the bottom of the ceiling. The photo seems to have been taken with a wide-angle lens, as indicated by the distortion that makes the edges of the image curve inward. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036964"
+  },
+  "File Name": "125411_715.jpg",
+  "Create Date": "2024-05-11 12:54:13.715+02:00",
+  "Create Seconds Epoch": "1715439253.715",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "367"
+}
