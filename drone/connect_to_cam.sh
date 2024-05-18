@@ -31,10 +31,6 @@ while true; do
 done
 
 echo "Connected to Camera's access point."
-echo "Syncing camera's time to our time"
-date=$(date +"%Y-%m-%d %H:%M:%S")
-ssh -t -i /home/mia/emli/emli/drone/.ssh/id_ed25519_rpi group7@192.168.10.1 "sudo date -s '$date'"
 echo "Logging wifi connection..."
 ./log_wifi_connection.sh &
-echo "Starting to download photos..."
-./download_photos.sh
+./sync_time.sh
