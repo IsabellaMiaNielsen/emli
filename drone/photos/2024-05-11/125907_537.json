@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a space, which appears to be the ceiling of a large room. It has a textured, corrugated surface that resembles metal or a similar material. Two circular light fixtures are visible in the ceiling. The space seems to have some sort of acoustic treatment or tiles installed to absorb sound or for thermal insulation purposes. The lighting is low, with only two small spots illuminating the area. On the bottom left corner of the image, there's a watermark that reads 'Shutterstock,' indicating that the image is sourced from the Shutterstock stock photo library. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037056"
+  },
+  "File Name": "125907_537.jpg",
+  "Create Date": "2024-05-11 12:59:08.537+02:00",
+  "Create Seconds Epoch": "1715439548.537",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
