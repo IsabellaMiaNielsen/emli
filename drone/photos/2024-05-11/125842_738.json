@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to show an interior view of a ceiling, likely inside a building. The ceiling has a patterned texture and is supported by visible beams or columns. There are circular features that could be lights or fixtures on the ceiling. In the foreground, there is a person's arm holding what looks like a phone or camera, suggesting that someone might be taking a picture of this area. The perspective of the photo suggests it was taken with a wide-angle lens or from a lower angle, which distorts the lines and gives a sense of depth to the ceiling's pattern. There is no text or distinctive features in the image that allow for specific identification or context about the location. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037049"
+  },
+  "File Name": "125842_738.jpg",
+  "Create Date": "2024-05-11 12:58:44.738+02:00",
+  "Create Seconds Epoch": "1715439524.738",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
