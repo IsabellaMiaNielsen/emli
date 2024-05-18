@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view from a high angle. It features a patterned tile design, which appears to be in shades of brown and tan. There is a circular light fixture centered on the ceiling, providing illumination to the area below. The ceiling itself has a grid-like structure that may serve as a support system or an access point for maintenance. In the foreground, there is a partial view of what looks like a white wall with several small circles or holes, possibly decorative elements or part of a larger design. The photo's composition and perspective suggest it was taken by someone standing on the floor looking up towards the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036961"
+  },
+  "File Name": "125403_436.jpg",
+  "Create Date": "2024-05-11 12:54:04.436+02:00",
+  "Create Seconds Epoch": "1715439244.436",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "367"
+}
