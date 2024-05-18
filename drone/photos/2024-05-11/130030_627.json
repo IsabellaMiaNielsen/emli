@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with a grid-like pattern. In the foreground, there is a gray floor that appears to be made of tiles or panels. On the ceiling, there are several circular elements, possibly light fixtures or speakers, at various heights and positions. There is also a small white circular object in the lower center area, which could be a spotlight or another type of illumination system. The overall impression is of a modern indoor space, possibly a room designed for acoustical purposes, given the patterned ceiling and the presence of what looks like an amplification or lighting setup. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037124"
+  },
+  "File Name": "130030_627.jpg",
+  "Create Date": "2024-05-11 13:00:32.627+02:00",
+  "Create Seconds Epoch": "1715439632.627",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
