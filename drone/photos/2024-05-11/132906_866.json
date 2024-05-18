@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, which is tiled and appears to be in a room with a large open space. There are two round objects, possibly lights or ventilation fixtures, visible on the ceiling. The tiles have a pattern that looks like small hexagonal shapes, creating a grid-like appearance. The lighting in the room suggests it's an artificial light source, and there is a reflection of some light fixtures on the bottom left corner, indicating there might be a reflective surface below. There are no visible people or activity, so the focus is on the ceiling structure itself. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037171"
+  },
+  "File Name": "132906_866.jpg",
+  "Create Date": "2024-05-11 13:29:08.866+02:00",
+  "Create Seconds Epoch": "1715441348.866",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
