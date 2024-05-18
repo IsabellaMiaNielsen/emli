@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a high-angle view of an interior space with a patterned ceiling and what appears to be an industrial or modern design. There are circular light fixtures distributed across the ceiling, providing illumination. In the foreground, there is a large open area with a grid-like pattern on the ceiling, which could be made of acoustic tiles or other types of ceiling panels. The photo seems to have been taken with a wide-angle lens, as the distortion at the edges suggests. There are no people or objects of significance in the image; it is purely an architectural photograph focusing on the ceiling design and the acoustical properties of the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037071"
+  },
+  "File Name": "125957_636.jpg",
+  "Create Date": "2024-05-11 12:59:59.636+02:00",
+  "Create Seconds Epoch": "1715439599.636",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "367"
+}
