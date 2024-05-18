@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling with acoustic tiles. The tiles appear to be a light grey color and are designed for sound absorption, which is common in spaces like offices or conference rooms to reduce echoes and improve speech clarity. There are two circular lighting fixtures visible on the ceiling. To the right, there's an open space that seems to lead towards another area, possibly an office or a hallway, given the presence of what looks like a wall divider or partition. The floor is covered with a grey carpet, and there's no clear indication of the room's function beyond its general purpose as a communal or work space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037159"
+  },
+  "File Name": "132001_267.jpg",
+  "Create Date": "2024-05-11 13:20:03.267+02:00",
+  "Create Seconds Epoch": "1715440803.267",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "377"
+}
