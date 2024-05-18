@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the underside of a ceiling with various features. There are circular openings, possibly for lighting or ventilation. The ceiling appears to have a pattern that could be textured acoustic tiles or similar materials designed to reduce noise levels. A series of circular lights is evenly spaced along the edge where the ceiling meets the walls. The image has been rotated 90 degrees clockwise, which results in an upside-down perspective as if looking at the underside of a typical ceiling from above. There are no people or other objects visible in this view. The background is blurred but suggests it could be the interior of a building with a high ceiling and some structural elements partially visible around the edges. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037130"
+  },
+  "File Name": "130047_473.jpg",
+  "Create Date": "2024-05-11 13:00:48.473+02:00",
+  "Create Seconds Epoch": "1715439648.473",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "372"
+}
