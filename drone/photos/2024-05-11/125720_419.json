@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a high ceiling featuring several circular elements that appear to be light fixtures. The ceiling is supported by exposed beams and is partially covered by a perforated material, possibly for acoustic purposes or as a design feature. The floor is not fully visible but seems to be tiled or textured in some way. There are no people present in the image. The photograph has been taken from an angle that captures both the ceiling and part of the floor. The lighting in the room casts shadows on the ceiling, indicating a source of light from above. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037025"
+  },
+  "File Name": "125720_419.jpg",
+  "Create Date": "2024-05-11 12:57:21.419+02:00",
+  "Create Seconds Epoch": "1715439441.419",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "372"
+}
