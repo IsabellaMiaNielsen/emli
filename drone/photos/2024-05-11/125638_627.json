@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image displays an interior space with a focus on the ceiling. There is a pattern of acoustic tiles that appear to be made from wood or a similar material, giving them a natural finish. The ceiling is large and spans across most of the frame.  On the right side of the image, there are four circular objects hanging from the ceiling. These could be light fixtures or decorative elements, but their exact purpose is not clear from the image alone.  The flooring is not fully visible, but it seems to be a darker color than the ceiling tiles, providing a contrast with the lighter tones of the ceiling.  The lighting in the space appears to be even and diffused, suggesting that there might be additional light sources outside the frame. The overall impression is one of a well-lit interior space, possibly an office or a large communal area, designed with acoustical considerations in mind. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037012"
+  },
+  "File Name": "125638_627.jpg",
+  "Create Date": "2024-05-11 12:56:40.627+02:00",
+  "Create Seconds Epoch": "1715439400.627",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
