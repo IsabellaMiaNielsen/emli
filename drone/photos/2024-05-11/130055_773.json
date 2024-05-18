@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view, where you can see a series of circular elements that appear to be light fixtures or speakers. These elements are evenly spaced and recessed into the ceiling material, which has a metallic finish and is textured to provide acoustical properties for sound absorption or distribution. The ceiling has a grid-like pattern with tiles of different sizes, creating an interesting geometric design. The image also includes a vertical strip that seems to be part of the structure, possibly a beam or a pillar, which is painted in white and stands out against the dark ceiling. There are no visible people or objects that can provide context for the setting; it appears to be a public space such as an auditorium, conference room, or a similar type of building with acoustic considerations. The image itself has a low resolution and seems to have been taken with a camera in a landscape mode orientation, rather than a dedicated interior photography setup. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037132"
+  },
+  "File Name": "130055_773.jpg",
+  "Create Date": "2024-05-11 13:00:57.773+02:00",
+  "Create Seconds Epoch": "1715439657.773",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
