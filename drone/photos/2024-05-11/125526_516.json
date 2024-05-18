@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view with a pattern of acoustic tiles. There are circular fixtures that likely serve as lights or speakers, and there are no people visible in this angle. The perspective is from below looking up at the ceiling structure. The lighting appears to be natural light coming through a skylight or window on the left side, which illuminates the patterned tile surface. There is a small circular object that could be a light or speaker installed within one of these tiles. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036986"
+  },
+  "File Name": "125526_516.jpg",
+  "Create Date": "2024-05-11 12:55:27.516+02:00",
+  "Create Seconds Epoch": "1715439327.516",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "375"
+}
