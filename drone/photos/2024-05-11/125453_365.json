@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space that appears to be a ceiling. The ceiling is segmented into grid-like panels, each of which has small circular cutouts, likely for lighting or ventilation purposes. There are no visible objects in the image, and it seems to be taken from a low angle looking up at the ceiling, with a wide view of the pattern. The lighting in the space casts soft shadows on the ceiling, suggesting that the photograph was taken during the day under ambient light conditions. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036977"
+  },
+  "File Name": "125453_365.jpg",
+  "Create Date": "2024-05-11 12:54:54.365+02:00",
+  "Create Seconds Epoch": "1715439294.365",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "364"
+}
