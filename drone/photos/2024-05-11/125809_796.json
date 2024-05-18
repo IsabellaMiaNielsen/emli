@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling with a patterned design, possibly a false or dropped ceiling. There are three circular lights in the ceiling. Below the ceiling, there is a view of a ceiling that appears to be a perforated metal surface, which could indicate an architectural feature or a part of the building's design for acoustics or aesthetic purposes. The bottom edge of the image shows what appears to be a large circular object, possibly a light fixture or a decorative piece, but it is cut off by the image's border, so its full context isn't clear. The style of the image is a standard photograph with no visible filters or artistic effects applied to it. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037039"
+  },
+  "File Name": "125809_796.jpg",
+  "Create Date": "2024-05-11 12:58:11.796+02:00",
+  "Create Seconds Epoch": "1715439491.796",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
