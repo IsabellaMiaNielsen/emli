@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared appears to be a photograph of the interior ceiling view, likely taken from a lower angle. It shows a patterned acoustic ceiling with several circular light fixtures embedded in it. The lighting is even and diffused, suggesting a well-lit space, possibly an office or conference room due to the presence of circular recessed lights which are often used for such purposes. The color scheme of the ceiling appears to be a combination of dark and lighter tones, which could suggest a patterned design intended to improve acoustics in the room. There is no text present in the image, and the surrounding area seems to be out of focus, indicating that the camera was focused on the ceiling itself. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037044"
+  },
+  "File Name": "125826_242.jpg",
+  "Create Date": "2024-05-11 12:58:27.242+02:00",
+  "Create Seconds Epoch": "1715439507.242",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "368"
+}
