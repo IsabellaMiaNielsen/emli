@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from an overhead perspective, showing the underside of a building or ceiling. There are several circular objects that look like lights or fixtures, and one of them has a small circle inside it, which could indicate an area for special lighting or perhaps an access point.  The ceiling is constructed with what seems to be a perforated metal panel, through which there may be wiring or ductwork running across the span of the ceiling. The flooring below looks like a dark-colored surface that could be made from wood or similar material.  No windows are visible in this angle, and the image is taken in daylight, as indicated by the lighting and shadows on the ceiling. It's difficult to determine more specific details about the room due to the unique perspective provided by the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037035"
+  },
+  "File Name": "125753_307.jpg",
+  "Create Date": "2024-05-11 12:57:54.307+02:00",
+  "Create Seconds Epoch": "1715439474.307",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
