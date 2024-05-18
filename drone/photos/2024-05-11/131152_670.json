@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a view of the interior ceiling of a room. It features a patterned design with circular elements, including what appears to be light fixtures and possibly speakers or other equipment. The ceiling is textured with a dark-colored material that resembles perforated metal or fiberglass. There are no visible windows or openings in the image that would provide a view of the outside environment. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037152"
+  },
+  "File Name": "131152_670.jpg",
+  "Create Date": "2024-05-11 13:11:54.670+02:00",
+  "Create Seconds Epoch": "1715440314.670",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "359"
+}
