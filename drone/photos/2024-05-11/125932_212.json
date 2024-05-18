@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image features an interior view of a ceiling with a pattern of raised panels. The ceiling appears to have circular cutouts, possibly for ventilation or lighting purposes. The surface of the ceiling is white, and there are no visible objects in the space beneath it. The surrounding walls are not fully visible due to the angle from which the photo was taken. There seems to be a transition between two different materials or finishes on the ceiling, with one part looking like a metal panel while the other appears to be a textured surface, but this detail is not clear enough to discern further. The overall style of the image is candid and it captures a common architectural element in modern buildings. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037065"
+  },
+  "File Name": "125932_212.jpg",
+  "Create Date": "2024-05-11 12:59:33.212+02:00",
+  "Create Seconds Epoch": "1715439573.212",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
