@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph of the interior ceiling of a building. It features a patterned design with what looks like perforations or holes, possibly for ventilation or an acoustic ceiling finish. There are circular objects that could be light fixtures or air conditioning vents. The photo is taken from below and offers a view of the underside of the ceiling, which seems to be made of metal or a composite material with a metallic appearance. The lighting in the room casts shadows on the ceiling, indicating natural light coming from above. There are no texts visible in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037002"
+  },
+  "File Name": "125605_603.jpg",
+  "Create Date": "2024-05-11 12:56:07.603+02:00",
+  "Create Seconds Epoch": "1715439367.603",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
