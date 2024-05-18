@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with acoustic panels installed. These panels are designed to absorb sound and improve the acoustics in the space. There's a patterned design on the panels, which could be for aesthetic purposes as well as functionality. The lighting appears to be dim, suggesting that the photo may have been taken during the day when artificial lighting is off or with natural light from outside the frame, such as through windows not visible in this view. On the right side of the image, there's a strip of color that seems out of place with the rest of the image, possibly due to an issue with color balancing or post-processing. The rest of the interior is not fully visible, and no distinct features can be identified. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037069"
+  },
+  "File Name": "125949_009.jpg",
+  "Create Date": "2024-05-11 12:59:50.009+02:00",
+  "Create Seconds Epoch": "1715439590.009",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
