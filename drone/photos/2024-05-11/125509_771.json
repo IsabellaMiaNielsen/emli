@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, which appears to be in a public or commercial building. The ceiling has a grid-like design with visible acoustic tiles, commonly used for sound absorption and distribution in such spaces. There is a patterned design across the tiles, but it's hard to discern specific details from this angle.  The ceiling also features a series of circular objects that could be either speakers or lighting fixtures. The perspective of the photo suggests it might have been taken from a low angle, possibly from the floor looking upwards towards the ceiling.  There is no distinct text or other identifiable elements in the image to provide additional context about the location or purpose of the space. The color palette is muted, with the predominant colors being shades of gray and beige. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036981"
+  },
+  "File Name": "125509_771.jpg",
+  "Create Date": "2024-05-11 12:55:11.771+02:00",
+  "Create Seconds Epoch": "1715439311.771",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
