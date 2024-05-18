@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows the underside of a ceiling with what appears to be acoustic ceiling tiles. The ceiling is designed with perforations that allow for sound diffusion and absorption, which is common in spaces where reverberation needs to be controlled, such as auditoriums, lecture halls, or rooms with high noise levels.  There are circular light fixtures installed at intervals across the ceiling, providing illumination. The lighting system seems to be designed for energy efficiency, as suggested by the shape of the fixtures which typically minimize light distribution in unoccupied areas.  The tiles themselves have a textured surface that could serve an aesthetic purpose or help absorb sound. There are also two circular objects, possibly light fixtures or fire sprinklers, at different positions within the ceiling structure, suggesting that the ceiling is designed for functionality as well as aesthetics.  The image appears to be taken from an angle where the ceiling's design and function are visible but the overall aesthetic is not fully captured. There are no people or objects in the immediate vicinity of the camera, which provides a clear view of the ceiling structure. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037155"
+  },
+  "File Name": "131206_313.jpg",
+  "Create Date": "2024-05-11 13:12:07.313+02:00",
+  "Create Seconds Epoch": "1715440327.313",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "360"
+}
