@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with a pattern of what appears to be acoustic foam panels. There are several circular holes in the pattern, which could serve as recessed lighting or vents. Below the patterned ceiling, there is another layer that might be made up of tiles or panels as well. The photo has a watermark indicating it may have been taken with a phone or digital camera, as evidenced by the 'iPhone' logo. There are no visible objects on the ceiling that would indicate the photo was taken from below. The angle and framing of the photo give a perspective view of the ceiling design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037007"
+  },
+  "File Name": "125622_139.jpg",
+  "Create Date": "2024-05-11 12:56:23.139+02:00",
+  "Create Seconds Epoch": "1715439383.139",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
