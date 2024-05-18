@@ -36,7 +36,7 @@ capture() {
 	iso=$(awk -v iso="$iso" 'BEGIN {printf "%.2f\n", iso / 100}')
 
 	if [[ $auto = "1" ]]; then
-        	rpicam-still -t "0.01" -r -o "$output" > /dev/null 2>&1
+        	rpicam-still -t "0.01" -r -o "$output" # > /dev/null 2>&1
     	else
         	rpicam-still -t "0.2" --shutter "$exposure" -r --gain "$iso" -o "$output" > /dev/null 2>&1
     	fi
