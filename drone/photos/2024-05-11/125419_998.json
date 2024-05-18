@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a unique ceiling design. The ceiling is constructed of what appears to be acoustic panels arranged in a pattern, providing a textured surface. There are circular lights recessed into the panels, which could serve as downlights for lighting. The flooring is not clearly visible, but it seems to be a hard surface floor. There is no discernable activity or objects on the floor that would suggest current use of the space, and no people are present in the frame. The overall appearance suggests an architectural setting designed with acoustics in mind for sound absorption or reflection. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036966"
+  },
+  "File Name": "125419_998.jpg",
+  "Create Date": "2024-05-11 12:54:21.998+02:00",
+  "Create Seconds Epoch": "1715439261.998",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "368"
+}
