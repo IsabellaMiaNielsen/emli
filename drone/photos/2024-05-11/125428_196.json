@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view that has a pattern of small, square tiles. These tiles appear to be made of acoustic material, which is commonly used in ceilings to absorb sound and reduce reverberations. The ceiling itself is supported by metal framework and is painted in a dark color that contrasts with the lighter hue of the acoustic tiles. There are no visible decorative elements or other architectural features on the ceiling.  At the bottom edge of the image, there is a strip of white space followed by a line of text. The text seems to be a product description or a company name, but it is too small and blurry to read clearly. The style of the photograph is straightforward and utilitarian, likely taken for documentation purposes or to showcase the ceiling design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036968"
+  },
+  "File Name": "125428_196.jpg",
+  "Create Date": "2024-05-11 12:54:29.196+02:00",
+  "Create Seconds Epoch": "1715439269.196",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "365"
+}
