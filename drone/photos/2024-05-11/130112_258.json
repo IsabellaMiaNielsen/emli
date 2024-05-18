@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is a composite of two different photos. On the left side, there is an interior view of a room with a high ceiling and visible metal gridwork on the ceiling. The right side shows an exterior view of what appears to be a roof or ceiling of a building, possibly from a satellite or drone perspective given the angle and composition. There are no people or distinct objects in either section that would allow for a detailed description. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037138"
+  },
+  "File Name": "130112_258.jpg",
+  "Create Date": "2024-05-11 13:01:13.258+02:00",
+  "Create Seconds Epoch": "1715439673.258",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
