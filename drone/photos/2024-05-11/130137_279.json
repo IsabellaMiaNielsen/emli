@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from an angle that looks up at a ceiling with various elements. There are circular light fixtures, possibly recessed into the ceiling, and what seems to be a textured ceiling material which could be acoustic foam or similar insulation used for sound absorption. The photo is slightly tilted, as it's not perfectly level with the horizon, giving a slightly distorted perspective. It looks like an interior space, perhaps a lobby or a large room within a building. The image resolution isn't high enough to discern more specific details about the location or the materials used in the ceiling design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037144"
+  },
+  "File Name": "130137_279.jpg",
+  "Create Date": "2024-05-11 13:01:38.279+02:00",
+  "Create Seconds Epoch": "1715439698.279",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
