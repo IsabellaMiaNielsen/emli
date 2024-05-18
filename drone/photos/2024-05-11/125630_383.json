@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with acoustic tiles. There are circular elements that appear to be speakers or other audio equipment mounted within the ceiling structure. The lighting in the space is diffused, suggesting a large room or hall designed for reverberation control and sound enhancement. The lower part of the image shows a small section of what looks like a metal beam or support, which may be part of the building's structural framework. There are no visible people or distinctive features that allow for specific identification of the location. The style of the photograph is straightforward and seems to serve as documentation or a reference for construction, sound system installation, or design purposes. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037010"
+  },
+  "File Name": "125630_383.jpg",
+  "Create Date": "2024-05-11 12:56:31.383+02:00",
+  "Create Seconds Epoch": "1715439391.383",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
