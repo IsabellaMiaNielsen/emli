@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely taken from within a building looking up towards the ceiling. The ceiling is made up of a series of metal panels with a patterned design. There are circular lights embedded into these panels, and it appears there might be some type of ventilation system or ductwork running across the ceiling. Below this ceiling, there's a row of small, white circular objects that could be light fixtures or diffusers. The floor is not visible in the image. The perspective gives a sense of height and the design of the ceiling structure. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036953"
+  },
+  "File Name": "125338_447.jpg",
+  "Create Date": "2024-05-11 12:53:39.447+02:00",
+  "Create Seconds Epoch": "1715439219.447",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "368"
+}
