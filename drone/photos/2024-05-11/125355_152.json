@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a high angle view of an interior space, possibly a ceiling or the underside of a large structure. There are three visible circular elements, which could be decorative, functional, or part of a ventilation system. They appear to have a metallic surface with a pattern that might be for acoustic purposes. The surrounding area has a textured white finish, and there are no visible texts or markings on the structure itself. The style of the image is straightforward, without any noticeable artistic effects or filters applied. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036959"
+  },
+  "File Name": "125355_152.jpg",
+  "Create Date": "2024-05-11 12:53:56.152+02:00",
+  "Create Seconds Epoch": "1715439236.152",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "375"
+}
