@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a building, specifically focusing on the underside of a ceiling. This area has a patterned with hexagonal tiles that appear to be made from corrugated metal or a similar material. In the center of the photo is a circular light fixture, and two small, round lights are mounted at different heights along the right edge. The walls of the space are not visible; instead, we see the underside of what seems to be a canopy or ceiling structure. There is no text or additional objects that provide context or information about the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036983"
+  },
+  "File Name": "125518_268.jpg",
+  "Create Date": "2024-05-11 12:55:19.268+02:00",
+  "Create Seconds Epoch": "1715439319.268",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
