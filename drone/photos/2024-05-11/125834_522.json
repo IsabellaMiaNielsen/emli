@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely taken from above a room with a perforated ceiling. The ceiling has circular openings, allowing for visibility into the space above. It appears to be a room used for presentations or events, as indicated by the presence of circular lights, possibly used for projection. The walls are painted in a light color and there's no visible text or branding. The floor is not fully visible due to the perspective and angle from which the photo was taken. The lighting suggests it could be daylight coming through windows not seen in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037046"
+  },
+  "File Name": "125834_522.jpg",
+  "Create Date": "2024-05-11 12:58:35.522+02:00",
+  "Create Seconds Epoch": "1715439515.522",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
