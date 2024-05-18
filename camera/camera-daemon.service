@@ -1,0 +1,10 @@
+[Unit]
+Description=Start Camera Daemon
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/group7/emli/camera/camera/camera-daemon.sh
+
+[Install]
+WantedBy=graphical.target
