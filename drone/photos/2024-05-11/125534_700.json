@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image is a photograph of a ceiling, specifically one that resembles the underside of an airplane. The ceiling features perforations for lights and vents, with several circular objects, which could be light fixtures or vents, evenly distributed across its surface. There are no people or objects in this view, emphasizing the mechanical aspect of the design. The color palette is a mix of blue and gray tones. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036988"
+  },
+  "File Name": "125534_700.jpg",
+  "Create Date": "2024-05-11 12:55:36.700+02:00",
+  "Create Seconds Epoch": "1715439336.700",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "376"
+}
