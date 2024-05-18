@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling, which appears to be made up of rectangular panels that could be either tiles or perhaps acoustic foam. The ceiling is patterned and has several circular elements, possibly lights or vents, scattered across it. In the foreground, there's a portion of what looks like a metal frame or structure, suggesting this photo may have been taken from an elevated angle such as a balcony overlooking a room or area below. The photo is somewhat distorted due to either the angle of the shot or a lens effect, giving the edges of the image a warped appearance. There's no text visible in this portion of the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037015"
+  },
+  "File Name": "125646_795.jpg",
+  "Create Date": "2024-05-11 12:56:48.795+02:00",
+  "Create Seconds Epoch": "1715439408.795",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
