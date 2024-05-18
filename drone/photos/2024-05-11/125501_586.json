@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is an image of a ceiling with a geometric pattern and several circular elements that appear to be light fixtures or speakers. The ceiling has a modern design with ribs that create a grid-like pattern, giving it a somewhat industrial look. Below the ceiling, there's a section of wall that seems to be a darker shade of gray compared to the lighter tone of the ceiling. There are no people or distinguishable objects in the image. The photo is taken from below, which provides a perspective looking up at the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036979"
+  },
+  "File Name": "125501_586.jpg",
+  "Create Date": "2024-05-11 12:55:02.586+02:00",
+  "Create Seconds Epoch": "1715439302.586",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "372"
+}
