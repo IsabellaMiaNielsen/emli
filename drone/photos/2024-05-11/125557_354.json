@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image displays a view from below, looking up at a ceiling. The ceiling appears to have a patterned design and is supported by beams that are parallel to each other. There are circular objects attached to the ceiling, possibly speakers or lights. The background suggests an indoor space with walls that seem to be part of a larger structure, and the lighting in the room creates shadows on the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036997"
+  },
+  "File Name": "125557_354.jpg",
+  "Create Date": "2024-05-11 12:55:58.354+02:00",
+  "Create Seconds Epoch": "1715439358.354",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
