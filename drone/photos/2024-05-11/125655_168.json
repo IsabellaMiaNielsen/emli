@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a room with a high ceiling. The ceiling has multiple round elements that could be part of the building's design or architectural features. There is natural light coming through what appears to be a skylight or large window at the top center, casting shadows across the ceiling. On the right side of the image, there are white circles and a pattern of lines or grooves, which might be part of the ceiling material or an acoustic panel design. The flooring is not clearly visible due to the angle and perspective of the photo. There is no text present in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037017"
+  },
+  "File Name": "125655_168.jpg",
+  "Create Date": "2024-05-11 12:56:56.168+02:00",
+  "Create Seconds Epoch": "1715439416.168",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
