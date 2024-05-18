@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image is a composite of two separate photographs. In the top half, there is an interior view looking up at a ceiling with multiple acoustic panels, which are designed to reduce sound reverberation and improve audio quality in spaces such as concert halls or large meeting rooms. The acoustic panels have a textured surface that appears to be made of a material like perforated metal or wood.  In the bottom half of the image, there is an exterior view showing a ceiling with what appears to be a translucent ceiling panel. This panel has several small holes through it, which likely serve to allow light to pass through while still providing some level of sound dampening. The design of this ceiling panel suggests that it may also have an aesthetic function in addition to its acoustic properties.  The two halves of the image are separated by a vertical line, and there is no context provided about how they relate or the nature of the building or space they represent. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037030"
+  },
+  "File Name": "125736_825.jpg",
+  "Create Date": "2024-05-11 12:57:38.825+02:00",
+  "Create Seconds Epoch": "1715439458.825",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
