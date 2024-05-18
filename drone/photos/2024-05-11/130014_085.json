@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling that appears to have acoustic panels or tiles. These panels are often used in public spaces, such as offices or conference rooms, to improve sound insulation and reduce reverberation. The photo seems to be taken with a wide-angle lens, as indicated by the distortion at the edges of the frame. There is also a visible ceiling light fixture located centrally in the image. The lighting conditions suggest this could be a photograph taken during daylight hours under artificial lighting, given that no natural light sources are immediately identifiable from this perspective. The composition of the photo focuses on the acoustic ceiling and not much else can be discerned about the room itself. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037119"
+  },
+  "File Name": "130014_085.jpg",
+  "Create Date": "2024-05-11 13:00:15.085+02:00",
+  "Create Seconds Epoch": "1715439615.085",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
