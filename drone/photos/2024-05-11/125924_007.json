@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a building, focusing on the ceiling. The ceiling appears to be made of perforated metal panels with several circular lights embedded in it. These lights are off and not illuminating the space. There is no visible activity or people in this area of the photo. The photo has been edited to include two rectangular shapes that resemble speech bubbles, one on each side of the ceiling. These speech bubble-like elements seem out of place, as if they have been superimposed onto the image for a purpose not immediately clear from the photograph alone. There is no text visible in the image. The overall style of the photo suggests it may be a screenshot or a manipulated image intended to draw attention to something in the room or on the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037062"
+  },
+  "File Name": "125924_007.jpg",
+  "Create Date": "2024-05-11 12:59:25.007+02:00",
+  "Create Seconds Epoch": "1715439565.007",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
