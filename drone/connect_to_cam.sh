@@ -1,17 +1,14 @@
 #!/bin/bash
 
-# Camera's access point SSID
-CAM_SSID="EMLI-TEAM-7"
-CAM_PASSWORD="group7group7"
 
-# Function to check if Camera's access point is detected
+CAM_SSID="EMLI-TEAM-7" # Camera's access point SSID
+
 check_cam_ap() {
     nmcli device wifi list | grep -q "$CAM_SSID" # Returns true if detected, otherwise false
 }
 
-# Function to connect to Camera's access point
 connect_to_cam_ap() {
-    nmcli device wifi connect "$CAM_SSID" password "$CAM_PASSWORD"
+    nmcli con up "$CAM_SSID" 
 }
 
 check_if_connected_to_cam() {
