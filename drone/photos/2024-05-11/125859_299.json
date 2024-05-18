@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely from a security or surveillance camera, given the wide-angle perspective and the presence of what appears to be a ceiling track lighting system. The photo captures a section of a ceiling with a patterned design that might be made of acoustic panels or a similar material used for sound absorption in large spaces such as conference rooms or theaters. There are no visible people or activity in this area, and the focus is on the ceiling itself. The bottom of the image contains a watermark indicating it's a 'Sample' photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037054"
+  },
+  "File Name": "125859_299.jpg",
+  "Create Date": "2024-05-11 12:59:00.299+02:00",
+  "Create Seconds Epoch": "1715439540.299",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
