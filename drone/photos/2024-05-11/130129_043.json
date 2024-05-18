@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image is split into two parts. On the left, there's an interior view of a ceiling with acoustic tiles that appear to be made from a composite material with a textured surface. There are three circular insets within these tiles. Below the ceiling, the structure looks like a metal framework or trusses supporting a suspended ceiling system. The lighting is diffused and appears to be ambient.  On the right side of the image, there's a small portion showing what seems to be the outside of a building with a facade that has a patterned design, possibly made of tiles or metal panels. There are no distinguishable features or details from this angle and distance. The lighting outside appears to be natural light.  The color palette in both sections is muted, with neutral tones dominating the scene. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037142"
+  },
+  "File Name": "130129_043.jpg",
+  "Create Date": "2024-05-11 13:01:30.043+02:00",
+  "Create Seconds Epoch": "1715439690.043",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
