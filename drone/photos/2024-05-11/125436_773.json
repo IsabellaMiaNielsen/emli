@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling interior of what appears to be an airplane or similar large indoor space. There are circular light fixtures installed on the ceiling, which provide illumination to the area below them. The ceiling itself has a patterned design that could suggest a specific acoustic purpose for absorbing sound. The lighting in the room casts shadows on the ceiling, indicating the presence of light sources from above. There is no visible text or branding within the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036971"
+  },
+  "File Name": "125436_773.jpg",
+  "Create Date": "2024-05-11 12:54:38.773+02:00",
+  "Create Seconds Epoch": "1715439278.773",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "364"
+}
