@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a high-angle view of the interior ceiling of what appears to be an auditorium or lecture hall. The ceiling is covered with acoustic tiles, which are designed to improve sound quality within the space by absorbing and diffusing sound waves. There is a pattern of square tiles in various shades, likely intended to provide visual interest while maintaining acoustical properties. In the center, there are circular structures that could be lighting fixtures or speakers. The lighting in the room casts shadows on the ceiling, indicating a source of light from above or behind the camera's viewpoint. The space seems well-lit and is currently unoccupied. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036950"
+  },
+  "File Name": "125329_982.jpg",
+  "Create Date": "2024-05-11 12:53:31.982+02:00",
+  "Create Seconds Epoch": "1715439211.982",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "365"
+}
