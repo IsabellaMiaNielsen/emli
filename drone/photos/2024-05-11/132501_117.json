@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a view of the ceiling from below, which is a perforated metal panel with several circular cutouts. Above the cutouts, there appear to be air vents or diffusers, which are part of an HVAC system for distributing air throughout the space. There's no visible content in the image; it seems to be taken from an angle where nothing of interest is present. The lighting suggests this could be an indoor space with artificial illumination, and there is a reflection on the ceiling that might indicate a light source or another reflective surface in the room. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037164"
+  },
+  "File Name": "132501_117.jpg",
+  "Create Date": "2024-05-11 13:25:03.117+02:00",
+  "Create Seconds Epoch": "1715441103.117",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
