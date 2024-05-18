@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a close-up view of a ceiling with a distinctive pattern. It features multiple circular lights or fixtures arranged in an orderly manner, which may be part of a design for aesthetics or lighting. There's no text present in the image. The background is out of focus and appears to be an interior space with what might be a pillar visible. The overall impression is that of a modern architectural interior. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036995"
+  },
+  "File Name": "125553_231.jpg",
+  "Create Date": "2024-05-11 12:55:54.231+02:00",
+  "Create Seconds Epoch": "1715439354.231",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
