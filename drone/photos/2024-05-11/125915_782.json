@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling from below. The ceiling has several recessed lights and what appears to be a patterned surface, possibly tiles or panels, which is common in architectural ceilings for aesthetic purposes. The lighting fixtures are round and appear to be either in the on position (as evidenced by their bright state) or off (indicated by the dimmer appearance of some fixtures).  The lower portion of the image shows a floor with a pattern that matches the ceiling's design, suggesting a consistent interior aesthetic. The flooring appears to be a dark-colored material with lighter stripes or accents, which is complementary to the overall color scheme of the space.  There are no visible people or objects in this part of the image, and the focus seems to be on the ceiling's design and lighting setup. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037059"
+  },
+  "File Name": "125915_782.jpg",
+  "Create Date": "2024-05-11 12:59:17.782+02:00",
+  "Create Seconds Epoch": "1715439557.782",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
