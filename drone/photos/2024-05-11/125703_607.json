@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely from a security or surveillance camera given the angle and the visible ceiling tiles. The ceiling appears to be made of perforated metal panels, creating a pattern of small openings across the surface. There is one prominent circular object, possibly a light fixture or an air duct, near the center of the image. The photo quality is low, with graininess and a faded appearance, which might indicate the camera's age or the conditions under which the picture was taken. There are no people or distinctive features visible in this angle of view from the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037020"
+  },
+  "File Name": "125703_607.jpg",
+  "Create Date": "2024-05-11 12:57:05.607+02:00",
+  "Create Seconds Epoch": "1715439425.607",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
