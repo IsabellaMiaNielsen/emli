@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely from a security camera due to the perspective and angle. In the foreground, there's a ceiling with multiple circular elements that could be light fixtures or some other type of equipment. The ceiling appears to have a patterned design, possibly made of plastic or another translucent material.  In the background, we see what looks like an exterior view through a window, as indicated by the framing and the brightness of the light. It's not possible to discern specific details about the location outside due to the angle and quality of the image. The overall color palette is muted with greys and browns dominating the scene, which suggests an industrial or institutional setting.  The image has a low resolution and appears to be taken from a mobile device screen, as indicated by the small circular icons that could represent phone signal strength or other connectivity statuses at the top of the image. The bottom part of the image is cropped, indicating it was likely intended for social media or to capture just a section of the scene. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037037"
+  },
+  "File Name": "125801_570.jpg",
+  "Create Date": "2024-05-11 12:58:02.570+02:00",
+  "Create Seconds Epoch": "1715439482.570",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
