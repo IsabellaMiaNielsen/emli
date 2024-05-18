@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a ceiling that appears to be made of perforated metal panels. These panels are arranged in a pattern, creating a grid-like structure. There is no visible texture on the surface of the panels, but they have circular holes at regular intervals.  The photo seems to have been taken from a low angle looking upwards towards the ceiling. The room is dimly lit with diffused artificial light, which casts soft shadows on the ceiling and walls.  At the bottom of the image, there is a horizontal line that divides the image into two distinct halves. On the left side, you can see what appears to be a carpeted floor, and on the right side, there are two circular objects with a reflective surface that resemble ceiling lights or fixtures.  The style of the photograph is straightforward and unembellished, likely taken with the intent to document the space without any artistic embellishment. The color palette is muted, emphasizing the colors of the metal panels and the ambient lighting in the room. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037052"
+  },
+  "File Name": "125850_913.jpg",
+  "Create Date": "2024-05-11 12:58:52.913+02:00",
+  "Create Seconds Epoch": "1715439532.913",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
