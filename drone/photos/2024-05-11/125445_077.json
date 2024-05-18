@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, likely from the perspective of someone standing inside. It is an overhead shot showing a series of circular objects that appear to be acoustic panels or ceiling tiles. These panels are typically used in spaces such as auditoriums and meeting rooms to improve sound quality by reducing reverberation and echoes. The lighting in the room is bright, with the light source appearing to be above the camera's line of sight. There's a darker area on the right side of the image where more detail is not visible due to the angle at which the photo was taken. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036974"
+  },
+  "File Name": "125445_077.jpg",
+  "Create Date": "2024-05-11 12:54:46.077+02:00",
+  "Create Seconds Epoch": "1715439286.077",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "365"
+}
