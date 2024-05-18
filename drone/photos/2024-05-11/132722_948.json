@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the underside of a ceiling, likely from a room or building. The ceiling is composed of metal panels with a textured surface, which could be for acoustic purposes or to improve the aesthetic of the space. There are several circular objects that appear to be lighting fixtures recessed into the ceiling panels. The color of the ceiling is a neutral tone, possibly gray or white, which contrasts with the metallic finish of the ceiling tiles. The perspective of the photo is from below, looking up at the underside of the ceiling. There are no visible texts, logos, or other distinguishing marks on the ceiling that would indicate a specific location or brand. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037167"
+  },
+  "File Name": "132722_948.jpg",
+  "Create Date": "2024-05-11 13:27:24.948+02:00",
+  "Create Seconds Epoch": "1715441244.948",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "379"
+}
