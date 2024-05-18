@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a room with a ceiling that appears to be made of acoustic tiles. These tiles are designed to absorb sound and are often used in conference rooms, lecture halls, or other spaces where echoes or reverberations need to be minimized. The photograph is taken from a low angle looking up at the ceiling, emphasizing the pattern and texture of the acoustic material. There's also an object that looks like a white satellite dish or a large circular light fixture on the ceiling. The wall in the foreground is white with a slight reflection of the room's interior on its surface. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036993"
+  },
+  "File Name": "125545_943.jpg",
+  "Create Date": "2024-05-11 12:55:47.943+02:00",
+  "Create Seconds Epoch": "1715439347.943",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
