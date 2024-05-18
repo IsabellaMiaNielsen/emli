@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be a composite of two different photographs, with the top half showing an interior view of a building, likely a ceiling, with what looks like tiles or panels. It's a close-up shot that captures textural details.  The bottom half of the image shows an exterior view, possibly of the same structure, given the consistency in the design elements and materials. This portion shows an architectural feature that seems to be part of a facade, featuring a patterned metal surface with perforations. The photo is taken at an angle, which allows for a glimpse of the building's structure.  The two photos are separated by a visible dividing line in the middle, indicating that they are meant to be viewed as separate parts or that they represent different states of a project (e.g., before and after completion). "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036955"
+  },
+  "File Name": "125346_766.jpg",
+  "Create Date": "2024-05-11 12:53:48.766+02:00",
+  "Create Seconds Epoch": "1715439228.766",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
