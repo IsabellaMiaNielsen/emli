@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided shows the interior of a building, specifically what appears to be the underside of a ceiling or an inverted perspective. The ceiling is patterned with small tiles or panels that are uniformly distributed across the area. There are no visible windows or openings suggesting it could be inside an airplane or perhaps within a large enclosed space.  The image is taken from a low angle, looking up towards the center of the pattern where the light source is located. This gives the impression that we're viewing the ceiling from below and in reverse, as if we were standing on the floor looking up. The perspective makes it difficult to discern specific details about the ceiling or the environment beyond this central area, as it seems to be a wide open space with no other features in view. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716036990"
+  },
+  "File Name": "125541_904.jpg",
+  "Create Date": "2024-05-11 12:55:43.904+02:00",
+  "Create Seconds Epoch": "1715439343.904",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
