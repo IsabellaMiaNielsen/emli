@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a high-ceilinged space with a patterned ceiling. The ceiling appears to have multiple circular vents, and the structure is supported by metal beams visible in the corners of the photo. There are no visible people or moving objects. In the lower part of the image, there is a gray surface that could be an interior wall or flooring of another room. The lighting suggests an indoor environment with artificial lighting, and there appears to be a recessed light fixture on one of the ceiling vents. The overall atmosphere is modern and minimalistic. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037032"
+  },
+  "File Name": "125745_032.jpg",
+  "Create Date": "2024-05-11 12:57:46.032+02:00",
+  "Create Seconds Epoch": "1715439466.032",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
