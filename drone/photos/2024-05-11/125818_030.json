@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the interior of a building, specifically a ceiling. The ceiling is covered with acoustic tiles, which appear to be in shades of gray and black. There are circular ventilation units visible on the left side of the photo. These units are typically used for air circulation within a building, often found in ceilings. The structure and design suggest an institutional or commercial building, possibly an office space given the style of the ceiling tiles and the presence of what looks like a light fixture mounted to the acoustic ceiling. The lighting is bright and evenly distributed across the area. There are no people or moving objects visible in this view, which gives it a static appearance. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037041"
+  },
+  "File Name": "125818_030.jpg",
+  "Create Date": "2024-05-11 12:58:19.030+02:00",
+  "Create Seconds Epoch": "1715439499.030",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "368"
+}
