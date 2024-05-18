@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a ceiling that appears to be made of large, acoustic panels. These panels are commonly used in buildings for sound absorption and to improve the acoustical properties of a room. On the floor, there is a patterned carpet with a geometric design. The lighting in the room is diffused, providing soft illumination, which suggests that the room might be designed for comfort or for reducing glare on screens or other surfaces. The photo appears to be taken from an angle and does not include any visible people or objects that could provide context or scale. There's a watermark at the bottom of the image with a logo and some text, but it's partially obscured; however, it seems like it's related to a company or organization's name. The overall setting looks modern and is likely within an office building or a similar type of workspace. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037005"
+  },
+  "File Name": "125613_890.jpg",
+  "Create Date": "2024-05-11 12:56:15.890+02:00",
+  "Create Seconds Epoch": "1715439375.890",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "369"
+}
