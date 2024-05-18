@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, which appears to be a ceiling with acoustic panels or tiles. These panels are designed to improve sound insulation and reduce reverberation time in spaces like offices, classrooms, or auditoriums. They are typically made from materials that absorb sound waves well. Below the ceiling is another image that shows a pattern of circular lights mounted on what looks like a raised floor structure. The contrast between the two images, with the top showing solid acoustic tiles and the bottom showing recessed lighting fixtures, highlights the difference between the ceiling surface in terms of acoustics and the functional aspect of providing artificial light from below. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037027"
+  },
+  "File Name": "125728_608.jpg",
+  "Create Date": "2024-05-11 12:57:30.608+02:00",
+  "Create Seconds Epoch": "1715439450.608",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "373"
+}
