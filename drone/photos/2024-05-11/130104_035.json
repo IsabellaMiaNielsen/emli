@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior ceiling view with a grid-like pattern. The ceiling appears to have acoustic tiles that are designed for sound absorption, indicated by the visible dimples and possibly a perforated design. In the bottom left corner of the image, there's a small circular object, which could be a light or speaker fixture. Below this, on the right side of the image, is a blurred view of another space with different ceiling materials, suggesting a comparison between different acoustic solutions in different environments. The two areas are separated by a white line, which indicates that the image might have been digitally divided to compare the two views. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037135"
+  },
+  "File Name": "130104_035.jpg",
+  "Create Date": "2024-05-11 13:01:05.035+02:00",
+  "Create Seconds Epoch": "1715439665.035",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "372"
+}
