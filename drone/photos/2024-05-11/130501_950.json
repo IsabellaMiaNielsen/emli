@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior space with a vaulted ceiling. The ceiling features a grid of panels, possibly part of a ceilinging system or architectural design. In the foreground, there's a close-up view of several circular objects, which could be lights or air vents, embedded in the ceiling. These are evenly spaced and appear to have a metallic finish. The photo has been edited or filtered to give it a high-contrast look, with warm tones predominantly in the lower half of the image and cooler tones at the top. In the background, there's a glimpse of what appears to be a staircase leading upwards into the vaulted space. The overall style of the space seems modern and minimalist. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037147"
+  },
+  "File Name": "130501_950.jpg",
+  "Create Date": "2024-05-11 13:05:03.950+02:00",
+  "Create Seconds Epoch": "1715439903.950",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "365"
+}
