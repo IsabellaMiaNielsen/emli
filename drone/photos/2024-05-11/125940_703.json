@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a dark ceiling that appears to have a pattern of recessed lights or panels. Below the ceiling, there is a raised area that has a textured finish, possibly as part of the building's design or for acoustical purposes. To the right side of the photo, there is a section of wall where two small circular objects are mounted at the same height. The lighting in the space suggests it could be an office or a public building with a modern architectural style. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037066"
+  },
+  "File Name": "125940_703.jpg",
+  "Create Date": "2024-05-11 12:59:42.703+02:00",
+  "Create Seconds Epoch": "1715439582.703",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "368"
+}
