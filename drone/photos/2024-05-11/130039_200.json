@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with a patterned design, which appears to be made up of small, rectangular tiles. There are also several circular lights installed at regular intervals across the surface. The perspective is from below, and it's taken in a room with a high ceiling, as indicated by the visible structure that supports the ceiling above. The bottom part of the image shows a gray wall, suggesting this could be an unfinished or undecorated space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037127"
+  },
+  "File Name": "130039_200.jpg",
+  "Create Date": "2024-05-11 13:00:40.200+02:00",
+  "Create Seconds Epoch": "1715439640.200",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "372"
+}
