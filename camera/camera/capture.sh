@@ -46,7 +46,8 @@ capture() {
     	fi
 }
 
-folder=$(date +"%Y-%m-%d")
+workdir="/var/www/html/pictures"
+folder="$workdir/$(date +"%Y-%m-%d")"
 picture="$(date +"%H%M%S_%3N").jpg"
 output="$folder/$picture"
 mkdir -p "$folder"

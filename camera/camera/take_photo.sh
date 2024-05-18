@@ -10,7 +10,8 @@ validate_trigger() {
 
 trigger=$1
 validate_trigger "$trigger"
-picture_file="$($(pwd)/capture.sh)"
-picture_path="$(pwd)/$picture_file"
+picture_path="$(/home/group7/emli/camera/camera/capture.sh)"
 dng_path="${picture_path%.*}.dng"
-$(pwd)/dng_to_json.sh -t "$trigger" -d "$dng_path" -p "$picture_path"
+/home/group7/emli/camera/camera/dng_to_json.sh -t "$trigger" -d "$dng_path" -p "$picture_path"
+#rm $dng_path
+/home/group7/emli/camera/logger/log_message.sh "Picture taken. Trigger $trigger."
