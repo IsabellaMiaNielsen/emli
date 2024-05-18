@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with a grid pattern, likely metal panels. There are circular cutouts in the grid where recessed lighting or speakers might be installed. The color of the ceiling is dark, possibly a dark grey or black. The bottom edge of the photo appears to show the floor, which seems to be a lighter shade of gray, contrasting with the ceiling. There are no visible texts, brand logos, or other distinguishing features in this image that would provide additional context about the location or purpose of the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037022"
+  },
+  "File Name": "125711_891.jpg",
+  "Create Date": "2024-05-11 12:57:13.891+02:00",
+  "Create Seconds Epoch": "1715439433.891",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "376"
+}
