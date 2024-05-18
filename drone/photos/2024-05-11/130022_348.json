@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling with acoustic tiles. The tiles are designed to absorb sound and reduce reverberations, which is particularly useful in public spaces like auditoriums or conference rooms. The pattern on the tiles appears to be a grid, a common design for such panels due to its effectiveness at sound absorption. There's also a circular object in the center of the ceiling, which could be a light fixture or a speaker, but it's not clear from this angle what it is. The photo has a wide-angle perspective, as indicated by the distortion effect on the edges of the image, and there are no visible people or objects in the foreground. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037121"
+  },
+  "File Name": "130022_348.jpg",
+  "Create Date": "2024-05-11 13:00:23.348+02:00",
+  "Create Seconds Epoch": "1715439623.348",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "371"
+}
