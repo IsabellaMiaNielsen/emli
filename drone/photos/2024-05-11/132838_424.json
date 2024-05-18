@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling from below. The ceiling is tiled, and there are several circular light fixtures embedded in the tiles at regular intervals. The space appears to be a public area such as a shopping mall or a similar venue, given the grid-like pattern of the ceiling and the presence of lights for illumination. There are no visible people or objects that require attention in this particular image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037169"
+  },
+  "File Name": "132838_424.jpg",
+  "Create Date": "2024-05-11 13:28:39.424+02:00",
+  "Create Seconds Epoch": "1715441319.424",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "380"
+}
