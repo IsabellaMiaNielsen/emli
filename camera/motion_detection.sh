@@ -38,5 +38,5 @@ fi
 # Main loop
 while true; do
     /home/group7/emli/camera/camera/send_command_to_camera_daemon.sh "Motion"
-    sleep 5
+    sleep 3
 done
