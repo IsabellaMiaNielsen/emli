@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to show a view of the interior ceiling of a building, specifically what looks like an airplane cabin. There are no visible people in this section of the aircraft. The ceiling is tiled with a pattern that could be for insulation or aesthetic purposes. The lighting fixtures and emergency equipment such as fire extinguishers can be seen mounted on the ceiling. The image seems to have been taken from a low angle, possibly by someone standing below, looking up at the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037696"
+  },
+  "File Name": "145335_975.jpg",
+  "Create Date": "2024-05-11 14:53:37.975+02:00",
+  "Create Seconds Epoch": "1715446417.975",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
