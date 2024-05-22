@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the interior ceiling of a room. It has a patterned design with circular and rectangular shapes, creating a geometric pattern across the surface. The ceiling appears to be made from panels that could be part of an acoustic system or for aesthetic purposes. In the center, there are three round elements that might be lighting fixtures. The room itself is not fully visible due to the angle of the photograph and the focus on the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037976"
+  },
+  "File Name": "154948_830.jpg",
+  "Create Date": "2024-05-11 15:49:50.830+02:00",
+  "Create Seconds Epoch": "1715449790.830",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
