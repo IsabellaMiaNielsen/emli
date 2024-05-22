@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space that appears to be a room with a tiled ceiling. There are circular features on the ceiling, possibly lighting fixtures or vents. The walls and floor have a metallic finish, and there is a small object that could be a piece of equipment or furniture in the middle of the room. The photo is taken from an angle looking up, and it has a watermark or digital artifact overlaying the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037868"
+  },
+  "File Name": "153910_670.jpg",
+  "Create Date": "2024-05-11 15:39:12.670+02:00",
+  "Create Seconds Epoch": "1715449152.670",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "347"
+}
