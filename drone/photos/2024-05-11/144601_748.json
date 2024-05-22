@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photo of the interior ceiling of a room. The ceiling appears to be made of metal panels with various insulation materials in between, which could indicate a commercial or industrial building where heat or sound insulation is important. There are circular objects that might be vents or access points. The lighting fixtures are visible through the openings in the ceiling panels. The image does not show any people or activity, so it gives a static view of what the room's ceiling looks like. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037511"
+  },
+  "File Name": "144601_748.jpg",
+  "Create Date": "2024-05-11 14:46:03.748+02:00",
+  "Create Seconds Epoch": "1715445963.748",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
