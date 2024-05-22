@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior ceiling of a building. The ceiling has several small circular lights, which appear to be track lighting fixtures, spaced evenly across the ceiling. The pattern and alignment suggest that the lights could be used for spotlighting or other focused lighting needs. There's also a visible grid pattern on the ceiling, which is typical in ceilings with exposed ductwork or structural framework. The image quality seems to be of a lower resolution, possibly due to the angle and distance from which the photo was taken. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037577"
+  },
+  "File Name": "144848_706.jpg",
+  "Create Date": "2024-05-11 14:48:50.706+02:00",
+  "Create Seconds Epoch": "1715446130.706",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
