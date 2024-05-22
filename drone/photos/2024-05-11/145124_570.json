@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an indoor ceiling with a patterned tile design. The tiles appear to be white, and there are several circular lights or fixtures embedded within them. The photograph is taken from below, looking up towards the ceiling. There is no activity or people in sight; it seems to capture a quiet moment or space. The lighting suggests that this area is well-lit, possibly a public or commercial building given the style of the ceiling design and the presence of lights for illumination. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037659"
+  },
+  "File Name": "145124_570.jpg",
+  "Create Date": "2024-05-11 14:51:25.570+02:00",
+  "Create Seconds Epoch": "1715446285.570",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
