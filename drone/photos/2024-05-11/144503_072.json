@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior ceiling of a building with several features. There are four circular, recessed lights mounted on the ceiling; each light has a white shade and is surrounded by a metal frame. The lighting fixtures appear to be designed for even illumination across the area. Below the lights, there's a patterned ceiling that looks like a metal mesh or paneling system. It seems to be an industrial-style ceiling, which might suggest that this building could be a commercial or institutional facility. The image is taken from below, providing a view looking up at the ceiling and lighting fixtures. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037493"
+  },
+  "File Name": "144503_072.jpg",
+  "Create Date": "2024-05-11 14:45:04.072+02:00",
+  "Create Seconds Epoch": "1715445904.072",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
