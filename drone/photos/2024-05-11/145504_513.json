@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an overhead view of a ceiling, which appears to be the interior side of a corrugated metal deck. There are three circular objects on the deck: two that look like they could be vents or access points, and one that might be a light source or a speaker. The ceiling is supported by horizontal metal beams, and there's a white wall visible in the foreground. The lighting in the area seems to be artificial, possibly fluorescent lights. There are no texts or distinctive markings on the ceiling that would provide additional context about the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037711"
+  },
+  "File Name": "145504_513.jpg",
+  "Create Date": "2024-05-11 14:55:05.513+02:00",
+  "Create Seconds Epoch": "1715446505.513",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
