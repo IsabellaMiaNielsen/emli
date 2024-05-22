@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view from the perspective of someone standing under a ceiling. The ceiling appears to be a light-colored, tiled structure that is not entirely visible due to the angle of the photo and the curvature of the roof. Below the ceiling, there are several circular lights or fixtures, possibly for lighting. To the right, part of an object or structure with cylindrical shapes and what looks like small holes or openings is visible. The floor is not fully visible but seems to be a solid surface, possibly concrete or other durable material. There are no people in the image, so it does not depict human activity or presence. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037706"
+  },
+  "File Name": "145425_006.jpg",
+  "Create Date": "2024-05-11 14:54:26.006+02:00",
+  "Create Seconds Epoch": "1715446466.006",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
