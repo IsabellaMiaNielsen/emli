@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior ceiling with a patterned design, possibly made of acoustic tiles. In the center, there is what appears to be a smoke detector or fire alarm system installed on the ceiling. The ceiling itself seems to have several layers or panels, suggesting it might be designed for both aesthetics and sound absorption. The background is nondescript, with no distinguishing features that would identify the location or the purpose of the space. There are also two circular objects attached to the ceiling, one in the foreground and another further away, but their functions are unclear from this angle. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037842"
+  },
+  "File Name": "153738_522.jpg",
+  "Create Date": "2024-05-11 15:37:39.522+02:00",
+  "Create Seconds Epoch": "1715449059.522",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "337"
+}
