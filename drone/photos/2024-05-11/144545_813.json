@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to show the ceiling of a room, possibly a public space such as a lobby or an indoor sports area. The ceiling is composed of white tiles with several circular lights embedded within them, providing illumination for the space below. There are also what seem to be fire sprinklers mounted on the ceiling, suggesting that this is a place where safety measures against fires are in place. The ceiling design has a grid-like pattern, which is common in modern architectural spaces, aiming for both aesthetic appeal and functional efficiency. The image itself seems to have been taken with an intentional angle, possibly to showcase the design of the ceiling or to capture a specific feature within the room. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037499"
+  },
+  "File Name": "144545_813.jpg",
+  "Create Date": "2024-05-11 14:45:47.813+02:00",
+  "Create Seconds Epoch": "1715445947.813",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
