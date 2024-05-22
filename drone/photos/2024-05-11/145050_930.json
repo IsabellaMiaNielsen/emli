@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from a high angle, showing the ceiling of an interior space. There are three objects visible on the ceiling:  1. A round white object that resembles a light fixture or a decorative element. 2. A circular yellow object that could be a light bulb or a decorative sphere. 3. Another circular white object, similar in appearance to the first one, though it's not possible to determine its function from this image alone.  The space looks like it might be part of a building with a grid-like structure, possibly for ventilation or acoustical purposes. The color palette is neutral, with shades of grey and white dominating the scene. There are no texts or additional context provided within the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037641"
+  },
+  "File Name": "145050_930.jpg",
+  "Create Date": "2024-05-11 14:50:52.930+02:00",
+  "Create Seconds Epoch": "1715446252.930",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
