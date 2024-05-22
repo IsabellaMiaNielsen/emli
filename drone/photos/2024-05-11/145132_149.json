@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling of a room with an irregular pattern. There are several circular objects hanging from the ceiling, possibly fire sprinklers or similar fixtures. The ceiling appears to be made of white tiles arranged in a grid-like pattern. The image is taken from below, looking up at the ceiling. There's a small watermark on the lower right corner which seems to contain a URL or a domain name, suggesting that this may be an image from a website or a digital photograph. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037661"
+  },
+  "File Name": "145132_149.jpg",
+  "Create Date": "2024-05-11 14:51:33.149+02:00",
+  "Create Seconds Epoch": "1715446293.149",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
