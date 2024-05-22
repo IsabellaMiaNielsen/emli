@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a view of the ceiling and part of the floor from inside an office or building with a grid-like pattern. The ceiling is tiled in what appears to be metal, and there are recessed lighting fixtures visible. On the left side of the photo, there's a partial view of the ceiling, which looks like it could be made of perforated metal panels, allowing for ventilation or acoustic properties. The lighting fixtures are mounted at regular intervals within the grid pattern. In the bottom right corner, there is a small section of the floor that is visible, showing a white tile pattern similar to the ceiling. There are no people or objects in the foreground that would give context to the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037181"
+  },
+  "File Name": "133100_292.jpg",
+  "Create Date": "2024-05-11 13:31:02.292+02:00",
+  "Create Seconds Epoch": "1715441462.292",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "386"
+}
