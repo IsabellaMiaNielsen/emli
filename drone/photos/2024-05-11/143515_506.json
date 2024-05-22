@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is quite small and of low resolution, making it difficult to discern details clearly. However, I can tell you that there are multiple ceiling tiles visible in the photo, suggesting that this is likely an interior space with a tiled ceiling. There appear to be some round objects on the ceiling, which might be lights or smoke detectors. The image seems to have been taken from below, given the perspective of looking up towards the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037286"
+  },
+  "File Name": "143515_506.jpg",
+  "Create Date": "2024-05-11 14:35:16.506+02:00",
+  "Create Seconds Epoch": "1715445316.506",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
