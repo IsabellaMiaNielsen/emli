@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph of an interior space that looks like it might be the ceiling or underside of a floor, given the pattern and design. The image shows a grid-like structure with various shapes and what appear to be circular elements attached to it. These could be lighting fixtures or other ceiling features. There are also three round objects in different positions on this grid. The overall color scheme is neutral, consisting mainly of grayscale tones. The style of the image is straightforward, likely taken to document an architectural detail or a section of a building's interior design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037643"
+  },
+  "File Name": "145058_161.jpg",
+  "Create Date": "2024-05-11 14:50:59.161+02:00",
+  "Create Seconds Epoch": "1715446259.161",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
