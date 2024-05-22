@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, specifically a ceiling with acoustic panels. There's a person standing in the foreground of the photo; they are taking a selfie and appear to be indoors, possibly in a public building or event space given the presence of circular lighting fixtures on the ceiling. The ceiling is white and features a patterned design, likely for sound dampening purposes. There's a watermark across the image with text that seems to be a placeholder or a logo, but it's not clear enough to read. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038147"
+  },
+  "File Name": "155215_644.jpg",
+  "Create Date": "2024-05-11 15:52:17.644+02:00",
+  "Create Seconds Epoch": "1715449937.644",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
