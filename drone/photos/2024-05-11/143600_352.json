@@ -1,0 +1,13 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph of the underside of a ceiling, which appears to be made of metal panels with a patterned design. There are circular elements on the panels that could be lights or other fixtures embedded in the material. The ceiling spans across the frame of the image, suggesting it's a wide-angle shot. The photo is taken from below and directly beneath one of these circular elements, which is likely a light source given its positioning and the presence of light fixtures elsewhere on the ceiling. The lighting in the room casts shadows onto the underside of the ceiling, indicating the source of light is coming from above. "
+  },
+  "File Name": "143600_352.jpg",
+  "Create Date": "2024-05-11 14:36:01.352+02:00",
+  "Create Seconds Epoch": "1715445361.352",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
