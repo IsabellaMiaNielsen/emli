@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling. It appears to be a high-ceiling room, possibly part of an industrial or commercial building due to the presence of what looks like a fire sprinkler system. The ceiling is divided into panels and includes several circular objects that could be light fixtures or some type of access points. The lighting in the room casts shadows on the ceiling, suggesting natural light coming from above. The image is taken with an upward perspective, and there are no people visible in this view. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037540"
+  },
+  "File Name": "144741_279.jpg",
+  "Create Date": "2024-05-11 14:47:42.279+02:00",
+  "Create Seconds Epoch": "1715446062.279",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
