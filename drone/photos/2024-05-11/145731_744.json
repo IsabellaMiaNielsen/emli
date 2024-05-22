@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be taken from a high angle, showing the underside of a ceiling with various tiles and materials. There are circular objects that could possibly be light fixtures or air vents. The ceiling is supported by visible metal framework, which suggests it might be in a building with an exposed structure, such as a warehouse or an industrial facility. The flooring is not visible in this shot, but the space seems to be large and open, without any specific details that allow for further description. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037713"
+  },
+  "File Name": "145731_744.jpg",
+  "Create Date": "2024-05-11 14:57:33.744+02:00",
+  "Create Seconds Epoch": "1715446653.744",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
