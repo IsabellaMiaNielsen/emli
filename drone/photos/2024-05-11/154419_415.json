@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows a close-up view of a ceiling that appears to be made of acoustic tiles, which are used to absorb and diffuse sound in indoor spaces. The tiles have a dimpled texture and are a uniform color, likely intended for aesthetic purposes or to provide a cohesive look within the space. In the foreground, there are three circular light fixtures recessed into the ceiling, providing illumination from below. There is also an area of the ceiling that seems to be a different material or texture, possibly indicating a change in design or function. The background is indistinct, focusing attention on the ceiling and its features. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037880"
+  },
+  "File Name": "154419_415.jpg",
+  "Create Date": "2024-05-11 15:44:20.415+02:00",
+  "Create Seconds Epoch": "1715449460.415",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "341"
+}
