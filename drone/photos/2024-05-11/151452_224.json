@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with what appears to be acoustic tiles. There are small, circular light fixtures distributed across the tiles. The lights are off in the photo, and the ceiling is illuminated by ambient or overhead lighting outside the frame of the picture. The walls surrounding the ceiling seem to have a metallic finish. The image has a watermark or overlay text that reads 'NOTHING TO SEE HERE,' which suggests that the content of this particular view is not significant or noteworthy in any way. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037756"
+  },
+  "File Name": "151452_224.jpg",
+  "Create Date": "2024-05-11 15:14:53.224+02:00",
+  "Create Seconds Epoch": "1715447693.224",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
