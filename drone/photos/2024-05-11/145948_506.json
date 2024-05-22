@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the underside of a ceiling, which appears to be in an office or institutional setting. There are circular light fixtures mounted on the grid-like structure, and two cylindrical objects that resemble spotlights, one located nearer to the center of the image and the other closer to the edge. The surface of the ceiling is covered with tiles, and there's a visible pattern or design in the background, which looks like a repeating motif or possibly a branding element, but it's not entirely clear from this angle. The overall color scheme of the space is neutral, with shades of white, gray, and beige dominating the scene. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037720"
+  },
+  "File Name": "145948_506.jpg",
+  "Create Date": "2024-05-11 14:59:49.506+02:00",
+  "Create Seconds Epoch": "1715446789.506",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
