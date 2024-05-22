@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an overhead view of a ceiling with what appears to be three circular objects mounted on it. These could be lights or speakers, but the specific details are not clear due to the angle and the image's resolution. The background is a neutral gray color, which suggests that the photo might have been taken in an interior space such as a commercial building or a public facility. There is no text present in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037708"
+  },
+  "File Name": "145442_287.jpg",
+  "Create Date": "2024-05-11 14:54:43.287+02:00",
+  "Create Seconds Epoch": "1715446483.287",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
