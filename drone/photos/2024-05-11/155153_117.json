@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a screenshot from a video platform, specifically what looks like the YouTube interface. It shows a thumbnail for a video that includes a blurred image of a scene with a large body of water and some structure or object in the foreground on the left side. There is also some text visible, but it's not clear enough to read the words accurately. The overall quality of the image is low due to the small size and possibly the compression from being a thumbnail. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038129"
+  },
+  "File Name": "155153_117.jpg",
+  "Create Date": "2024-05-11 15:51:54.117+02:00",
+  "Create Seconds Epoch": "1715449914.117",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
