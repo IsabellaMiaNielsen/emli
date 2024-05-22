@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view of a room with a tiled design, which is common in commercial or industrial buildings. There are several circular light fixtures mounted on the tiles, likely providing illumination for the space below. The lighting appears to be evenly distributed across the ceiling, suggesting it's designed for general use rather than any specific tasks that require more focused light sources. The color of the tiles and the color of the walls are not distinguishable in this image, but it looks like a modern or contemporary design. There is no visible text or branding in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037571"
+  },
+  "File Name": "144831_075.jpg",
+  "Create Date": "2024-05-11 14:48:32.075+02:00",
+  "Create Seconds Epoch": "1715446112.075",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
