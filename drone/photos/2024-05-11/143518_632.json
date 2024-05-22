@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a room with a ceiling that has multiple circular lights. The ceiling is made up of panels that appear to be acoustic or decorative in nature. There are three visible lighting fixtures mounted on the ceiling. The floor seems to be a light-colored hard surface, and the overall color palette of the space is muted and neutral, with shades of gray dominating the scene. The perspective of the photo suggests it was taken from a low angle, possibly by someone standing or sitting at the bottom of the frame. There are no visible people in this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037289"
+  },
+  "File Name": "143518_632.jpg",
+  "Create Date": "2024-05-11 14:35:20.632+02:00",
+  "Create Seconds Epoch": "1715445320.632",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
