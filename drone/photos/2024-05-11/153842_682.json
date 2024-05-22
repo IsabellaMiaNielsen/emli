@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " In the image, there are two individuals seated at a desk. The person on the left is smiling and appears to be looking away from the camera, while the person on the right is wearing a cap and seems to be engaged with the other individual or something on their lap, possibly a device like a phone or tablet. Behind them, there's a window that allows natural light into the room, and a building can be seen through the glass, suggesting an urban office environment. The photo has been taken from a low angle, and the image appears to have been taken with a camera tilted back slightly, resulting in a distorted perspective of the scene. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037855"
+  },
+  "File Name": "153842_682.jpg",
+  "Create Date": "2024-05-11 15:38:44.682+02:00",
+  "Create Seconds Epoch": "1715449124.682",
+  "Trigger": "External",
+  "Subject Distance": "1.153204799 m",
+  "Exposure Time": "1/47",
+  "ISO": "112"
+}
