@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image appears to be taken from a distance, possibly from another floor, showing an interior ceiling. The ceiling has visible ventilation grates and some circular recessed lights. Below the ceiling, there's a person who seems to be seated or standing in front of a screen displaying what looks like a video or presentation content. The bottom part of the image is cut off, so it's not possible to provide more context about the surroundings or any additional details. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037506"
+  },
+  "File Name": "144555_445.jpg",
+  "Create Date": "2024-05-11 14:45:56.445+02:00",
+  "Create Seconds Epoch": "1715445956.445",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
