@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a ceiling or the underside of a structure. There is a patterned metal ceiling with two circular light fixtures visible from below. The background is mostly white and indistinct, but there appears to be some sort of grid or paneling on the walls or ceiling. The photo seems to have been taken with a wide-angle lens, causing distortion at the edges, making it difficult to discern the exact nature of the room or structure. There are no visible texts or distinguishing marks that provide additional context. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037274"
+  },
+  "File Name": "143421_992.jpg",
+  "Create Date": "2024-05-11 14:34:23.992+02:00",
+  "Create Seconds Epoch": "1715445263.992",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
