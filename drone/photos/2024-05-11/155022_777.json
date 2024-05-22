@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is a photograph of an indoor space, possibly a room with a ceiling. The ceiling appears to have a patterned design and several circular features that could be lights or fixtures. There are no visible people in the photo. If there is text on the image, it is not legible in this description. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038011"
+  },
+  "File Name": "155022_777.jpg",
+  "Create Date": "2024-05-11 15:50:24.777+02:00",
+  "Create Seconds Epoch": "1715449824.777",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
