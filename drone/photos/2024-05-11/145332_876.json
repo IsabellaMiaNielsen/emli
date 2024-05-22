@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph of the interior of a building. The ceiling appears to be tiled with a lighter color, possibly white or gray. There are three circular lights affixed to the ceiling at different points: one closer to the center of the image and two further away, aligned horizontally from left to right. The wall adjacent to the ceiling is also tiled but in a darker shade, providing a contrast with the lighter tiles on the ceiling. The photo has a neutral tone and is taken from an angle that captures part of the ceiling and a portion of the wall. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037694"
+  },
+  "File Name": "145332_876.jpg",
+  "Create Date": "2024-05-11 14:53:34.876+02:00",
+  "Create Seconds Epoch": "1715446414.876",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
