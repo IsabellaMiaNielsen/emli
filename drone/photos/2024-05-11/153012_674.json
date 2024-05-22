@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, possibly from a surveillance camera or a security camera given the angle and perspective. It features a ceiling that appears to be made of metal tiles, with what seems to be a small object or fixture on one of the tiles, which is a common feature for smoke detectors in commercial or institutional buildings. The floor below is not fully visible due to the angle, but it looks like it might be a polished concrete surface. There are no people or moving objects in this frame, suggesting a static scene. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037781"
+  },
+  "File Name": "153012_674.jpg",
+  "Create Date": "2024-05-11 15:30:14.674+02:00",
+  "Create Seconds Epoch": "1715448614.674",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "392"
+}
