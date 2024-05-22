@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a low-resolution or high-angle photo of an interior space, likely the underside of a ceiling. There are several circular objects in the image that could be light fixtures, smoke detectors, or other types of equipment installed on the ceiling. The background is indistinct and does not provide any additional context about the location or purpose of this space. If you have specific questions about the elements in the photo or if there's something else you'd like to know, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037610"
+  },
+  "File Name": "144948_947.jpg",
+  "Create Date": "2024-05-11 14:49:50.947+02:00",
+  "Create Seconds Epoch": "1715446190.947",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
