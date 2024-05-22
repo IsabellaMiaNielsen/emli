@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a person standing in the foreground, captured from the waist down. They are wearing a red top and their head is not visible in the frame. Above them, there's a ceiling with circular fixtures, and part of a glass wall or partition can be seen on the left side of the photo, providing a glimpse into another space. The lighting in this area appears bright, suggesting an indoor setting possibly within a building like a mall or office. The focus is not sharp enough to discern details about the person or the surroundings beyond what's described above. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037998"
+  },
+  "File Name": "155006_387.jpg",
+  "Create Date": "2024-05-11 15:50:07.387+02:00",
+  "Create Seconds Epoch": "1715449807.387",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
