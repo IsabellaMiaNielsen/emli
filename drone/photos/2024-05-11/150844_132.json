@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is an image of a ceiling with a patterned design. It features circular shapes that appear to be light fixtures or ceiling tiles, arranged in a symmetrical manner. The color of the tiles is neutral, likely white or grey, and they are placed against what seems to be a darker background. There's no text or additional context provided within this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037733"
+  },
+  "File Name": "150844_132.jpg",
+  "Create Date": "2024-05-11 15:08:45.132+02:00",
+  "Create Seconds Epoch": "1715447325.132",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
