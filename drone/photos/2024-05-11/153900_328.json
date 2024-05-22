@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a ceiling from the perspective of someone standing on the floor. It features a grid-like pattern, which is common in architectural design for large open spaces, possibly to provide sound insulation or aesthetic appeal. There are several circular elements that appear to be lights or some form of ceiling fixtures, but they are not illuminated at this time, as evidenced by the dark state of the image. The lighting conditions suggest it might be taken during a time when artificial lighting is off or in a space where no one is currently present. There is no text visible within the image. The style of the photograph seems to be a standard digital camera capture with natural lighting, possibly from windows not visible in the frame. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037863"
+  },
+  "File Name": "153900_328.jpg",
+  "Create Date": "2024-05-11 15:39:01.328+02:00",
+  "Create Seconds Epoch": "1715449141.328",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "337"
+}
