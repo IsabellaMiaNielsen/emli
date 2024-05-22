@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior space with a ceiling composed of parallel, translucent panels. The panels appear to be made of a material that allows for some level of transparency, as it's difficult to see through the entire surface. On this ceiling, there are several circular objects, possibly lights or fixtures, mounted at varying heights and orientations. These objects stand out against the uniformity of the panels.  The space itself is not fully visible; it looks like a corridor or passageway, as suggested by the presence of what seems to be a door at one end and an open area that could lead into another room or hallway. The flooring is also not clearly seen due to the angle of the photograph. There are no people or objects in motion within this frame. The lighting in the space is not visible, so it's unclear what kind of illumination is present. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037237"
+  },
+  "File Name": "142527_577.jpg",
+  "Create Date": "2024-05-11 14:25:29.577+02:00",
+  "Create Seconds Epoch": "1715444729.577",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
