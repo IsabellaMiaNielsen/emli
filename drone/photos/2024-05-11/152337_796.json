@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely the underside of a ceiling or roof due to the orientation and pattern of what appears to be tiles or panels. There are circular objects attached to these panels at various heights; these could be lights or vents. The color scheme is neutral with gray tones, and there's a small amount of detail that suggests some sort of insulation material or possibly an acoustic paneling system. The image has a low resolution and is taken from a high angle, making it difficult to discern specific details about the objects or their purpose. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037774"
+  },
+  "File Name": "152337_796.jpg",
+  "Create Date": "2024-05-11 15:23:39.796+02:00",
+  "Create Seconds Epoch": "1715448219.796",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
