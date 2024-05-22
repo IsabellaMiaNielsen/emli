@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with several circular elements that are likely light fixtures or air vents. The ceiling appears to be made of a metal material, possibly steel or aluminum, and it is supported by structural members, suggesting it might be in a commercial or industrial building. On the right side of the image, there seems to be a vertical surface with a rectangular pattern, which could be part of an architectural detail or another piece of equipment or machinery. The lighting conditions are dim, indicating that the photo may have been taken in low light or at nighttime. There is no text or distinctive features visible in this section of the ceiling, making it difficult to discern any specific details about the location or purpose of the building. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037870"
+  },
+  "File Name": "153920_168.jpg",
+  "Create Date": "2024-05-11 15:39:21.168+02:00",
+  "Create Seconds Epoch": "1715449161.168",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "335"
+}
