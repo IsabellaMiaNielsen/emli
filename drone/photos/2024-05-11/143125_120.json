@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be of a ceiling view from an interior perspective, possibly in a building with a high ceiling and an open layout. However, the resolution is low, making it difficult to discern specific details or features. If there are any distinctive patterns or objects on the ceiling that could provide more information, they are not clearly visible due to the image's quality. The photo seems to be taken in a space with artificial lighting and a white ceiling, but no additional context or elements are distinguishable from this angle. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037248"
+  },
+  "File Name": "143125_120.jpg",
+  "Create Date": "2024-05-11 14:31:26.120+02:00",
+  "Create Seconds Epoch": "1715445086.120",
+  "Trigger": "Motion",
+  "Subject Distance": "0.2273024768 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
