@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared shows a ceiling of what appears to be a building, possibly an office or public space. The ceiling is tiled with white tiles that have a metallic finish on the edges, creating a grid-like pattern. There are circular elements at the intersection points between the tiles, which could be lights or speakers mounted within the structure.  The photo is taken from a low angle, looking up towards the ceiling, and it captures the perspective of someone standing under this structure. The ceiling seems to be made of a durable material, possibly steel, given its industrial appearance and the robust nature of such structures in commercial or public spaces.  There's no text visible in the image, and the surrounding area is not clearly distinguishable due to the angle of the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037548"
+  },
+  "File Name": "144750_924.jpg",
+  "Create Date": "2024-05-11 14:47:52.924+02:00",
+  "Create Seconds Epoch": "1715446072.924",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
