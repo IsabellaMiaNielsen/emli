@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the interior view of a ceiling. It features a patterned with white tiles, creating a grid-like appearance. There are multiple circular lights embedded in the ceiling at different intervals, providing illumination. Additionally, there is a ventilation grille near the center of the ceiling, suggesting that this area might be part of an air conditioning or heating system. The floor appears to be tiled as well, with a darker color than the ceiling tiles. There are no visible people or objects in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037894"
+  },
+  "File Name": "154536_163.jpg",
+  "Create Date": "2024-05-11 15:45:37.163+02:00",
+  "Create Seconds Epoch": "1715449537.163",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "321"
+}
