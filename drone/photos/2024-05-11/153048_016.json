@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling with a pattern of tiles, possibly in a commercial building such as a hotel or conference center. There are two circular objects visible on the ceiling: one is closer to the camera and appears to be a fire sprinkler system, and the other is further away and is a light fixture. The ceiling itself is white and has a grid-like pattern of tiles, which gives it a modern and clean aesthetic. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037793"
+  },
+  "File Name": "153048_016.jpg",
+  "Create Date": "2024-05-11 15:30:49.016+02:00",
+  "Create Seconds Epoch": "1715448649.016",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "389"
+}
