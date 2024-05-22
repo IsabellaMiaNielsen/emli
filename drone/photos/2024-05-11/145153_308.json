@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, specifically a ceiling view of what appears to be a public building or room. The ceiling is covered with metal panels and there are several circular light fixtures installed on the surface. Below the ceiling, there are visible acoustic tiles that reflect sound around the area. There are also small circular objects which could be recessed lighting or decorative elements on the wall, but they are not clearly discernible in this image. The style of the image is a standard photograph with no artistic effects applied. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037670"
+  },
+  "File Name": "145153_308.jpg",
+  "Create Date": "2024-05-11 14:51:54.308+02:00",
+  "Create Seconds Epoch": "1715446314.308",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
