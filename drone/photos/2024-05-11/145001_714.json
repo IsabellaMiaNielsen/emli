@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with three circular lights. These lights are recessed into the ceiling and appear to be illuminated. In addition, there is a large speaker grille above the lights. The speaker grille has several rectangular openings that suggest it's designed for acoustical purposes. The ceiling itself appears to be made of tiles, which could indicate an indoor space like a room or a hall in a building. There are no visible texts or distinguishing marks on the ceiling that might provide more context about the location or purpose of the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037619"
+  },
+  "File Name": "145001_714.jpg",
+  "Create Date": "2024-05-11 14:50:03.714+02:00",
+  "Create Seconds Epoch": "1715446203.714",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
