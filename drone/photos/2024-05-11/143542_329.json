@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be an overhead view of a ceiling with acoustic tiles. There are circular objects that look like fire sprinklers or some form of ceiling-mounted equipment, such as lights or speakers. Below the tiles, there is visible insulation material. The overall quality and angle of the photo make it difficult to discern specific details or context about the location or purpose of the space. If you have any questions about this image, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037291"
+  },
+  "File Name": "143542_329.jpg",
+  "Create Date": "2024-05-11 14:35:43.329+02:00",
+  "Create Seconds Epoch": "1715445343.329",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
