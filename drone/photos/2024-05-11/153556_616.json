@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling of what appears to be a public building or space, possibly with some kind of acoustic tiles or panels. There are three round objects that could be light fixtures or speakers mounted on the ceiling. The ceiling is supported by metal beams and has a grid-like pattern, which might suggest it's part of a larger architectural structure like a stadium, conference hall, or other public space where acoustics are important for sound distribution.  On the bottom left corner of the image, there is another image that shows a partial view of the same ceiling, with a different angle and focus on the metal beams supporting it. The lighting in both images suggests an indoor environment, possibly a room with ambient lighting. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037829"
+  },
+  "File Name": "153556_616.jpg",
+  "Create Date": "2024-05-11 15:35:58.616+02:00",
+  "Create Seconds Epoch": "1715448958.616",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "339"
+}
