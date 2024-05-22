@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph of an interior space that appears to be a room with a ceiling consisting of metal panels. The photo is taken from a perspective below the ceiling, looking up, and the viewpoint seems to be from a distance in the room. There are three circular objects on the ceiling that could be light fixtures or decorative elements; however, it's not clear what they are intended for based on this image alone. The wall behind these objects is not clearly visible due to the angle of the photograph and the lighting conditions within the space. The color palette of the room is quite muted with neutral tones. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037593"
+  },
+  "File Name": "144915_234.jpg",
+  "Create Date": "2024-05-11 14:49:16.234+02:00",
+  "Create Seconds Epoch": "1715446156.234",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
