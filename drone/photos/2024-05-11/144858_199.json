@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, possibly a room in a building. From the perspective of the photo, we are looking up towards the ceiling, which appears to be white or light-colored. There is a row of circular lights mounted on the ceiling, which suggest that this could be a public area like a shopping mall or a similar commercial space. The ceiling has a grid of tiles or panels, which might serve an acoustic purpose or for lighting.  There are no visible objects in the foreground due to the angle and perspective of the photo, but it seems that the photo is taken from a lower vantage point looking upwards, possibly from within a vehicle parked in this area. The image is slightly blurred, which indicates that it may have been taken with a camera moving or not focused sharply on the ceiling.  The lower edge of the photo shows the top of a car door, which suggests that the person who took the photo was likely standing in a car that was parked at this location. The red reflections and other objects visible in the bottom right corner are part of the car's interior, indicating that the camera was pointed towards the ceiling while the vehicle was stopped or stationary.  There is no text or distinct brands visible within the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037584"
+  },
+  "File Name": "144858_199.jpg",
+  "Create Date": "2024-05-11 14:48:59.199+02:00",
+  "Create Seconds Epoch": "1715446139.199",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
