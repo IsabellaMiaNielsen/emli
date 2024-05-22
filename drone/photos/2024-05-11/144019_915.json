@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from a high angle, possibly looking down at a ceiling. However, the content of the image is quite blurry and indistinct, which makes it difficult to describe in detail. It seems like there might be some objects or features on the ceiling that are not clearly visible due to the low resolution and angle of the photo. If you have any specific questions about this image or if there's a particular aspect you'd like me to focus on, please let me know! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037487"
+  },
+  "File Name": "144019_915.jpg",
+  "Create Date": "2024-05-11 14:40:21.915+02:00",
+  "Create Seconds Epoch": "1715445621.915",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
