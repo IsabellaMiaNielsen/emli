@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the ceiling of a room. It appears to be a space with acoustic panels that are designed to improve sound quality within a given area by reducing reverberation and noise buildup. These panels are typically used in venues like auditoriums, conference rooms, or recording studios where acoustical performance is critical. The ceiling is tiled, and there seems to be a circular pattern in the center of the space, possibly a lighting fixture or an architectural design feature. There's also some light refraction visible on one side, which could suggest the presence of a light source or a reflective surface. The color scheme of the ceiling is neutral, with shades of gray and beige, enhancing the acoustical properties of the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037764"
+  },
+  "File Name": "151814_224.jpg",
+  "Create Date": "2024-05-11 15:18:15.224+02:00",
+  "Create Seconds Epoch": "1715447895.224",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
