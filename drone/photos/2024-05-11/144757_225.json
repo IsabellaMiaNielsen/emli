@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with several white circular lights installed. These lights are evenly spaced and appear to be flush-mounted fixtures. The ceiling is covered in what looks like acoustic tiles or panels, which are commonly used in interiors for sound absorption. There are no visible texts, brands, or other distinguishing marks within the image itself. The photograph has a plain and simple composition without any people or additional objects present. The lighting in the room casts a soft reflection on the ceiling, which adds to the uniform appearance of the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037553"
+  },
+  "File Name": "144757_225.jpg",
+  "Create Date": "2024-05-11 14:47:58.225+02:00",
+  "Create Seconds Epoch": "1715446078.225",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
