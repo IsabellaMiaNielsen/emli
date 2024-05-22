@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be a photograph of the interior ceiling of a building, possibly taken from an aerial view or with a tilted angle. The ceiling is made up of large, dark tiles and features what looks like small, round recessed lighting fixtures. There's also a white grate or panel visible in the top right corner, which may be part of an air ventilation system. The wall or surface next to the ceiling is not fully visible, but it seems to be painted or finished with a dark material that matches the ceiling tiles. The image has a flat and uniform color, possibly due to the lighting conditions or because it was taken from a position where the light source is in front of the camera, casting shadows on the ceiling and creating an even illumination. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037821"
+  },
+  "File Name": "153539_057.jpg",
+  "Create Date": "2024-05-11 15:35:40.057+02:00",
+  "Create Seconds Epoch": "1715448940.057",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "341"
+}
