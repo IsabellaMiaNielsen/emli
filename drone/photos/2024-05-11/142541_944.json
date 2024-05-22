@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph taken from an interior space, possibly looking up at a ceiling. The ceiling is white and seems to have some type of tiles or panels, which are common in architectural designs for acoustic absorption or as part of the structural framework.  There are two circular objects visible; these could be fire sprinklers or light fixtures mounted to the ceiling. They are spaced apart and both have a white or cream-colored finish. The lighting in the image is bright, suggesting that there might be natural or artificial light coming from sources not visible in this view.  The photograph has been taken at an angle, which gives us a diagonal perspective of the ceiling area. There's no text or additional context provided within the image to offer further information about the location or its use. The style of the photograph seems straightforward and documentary, capturing the interior environment without any particular focus on artistic elements. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037242"
+  },
+  "File Name": "142541_944.jpg",
+  "Create Date": "2024-05-11 14:25:43.944+02:00",
+  "Create Seconds Epoch": "1715444743.944",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
