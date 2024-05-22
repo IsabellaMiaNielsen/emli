@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared shows an interior space, likely the underside of a ceiling or roof. There are several circular objects hanging from what appears to be a central beam. These objects could be light fixtures, ventilation grates, or other types of equipment. The flooring is not fully visible, but it seems to be a flat surface with a grid-like pattern, which might suggest a structural design.  The image itself has a watermark that reads 'DALL·E 2023,' indicating the use of an AI-generated text prompt to create this image. This suggests that the image is not a photograph of a real place but rather a digital creation based on a specific description provided in the prompt. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037677"
+  },
+  "File Name": "145214_972.jpg",
+  "Create Date": "2024-05-11 14:52:16.972+02:00",
+  "Create Seconds Epoch": "1715446336.972",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
