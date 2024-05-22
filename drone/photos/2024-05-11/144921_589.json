@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor ceiling with several visible features:  1. There are circular, patterned tiles or panels that cover the main part of the ceiling. 2. In the center of the image, there is a round, yellow object hanging from the ceiling. It's not entirely clear what this object is due to its small size in relation to the rest of the photo. 3. There are three small, circular objects that resemble fire sprinklers, which are located near the yellow object in the center. These are typically used for fire suppression systems and are often found in buildings as a safety measure. 4. The ceiling itself is composed of metal or steel panels or beams that support the weight of the structure above them. 5. There appears to be some sort of ventilation or air handling system, with round, cylindrical objects attached to the ceiling. 6. The image has a watermark across it which reads 'DO NOT USE OR REPRODUCE,' indicating restrictions on its use without permission. 7. The style of the photo is realistic and it seems to be taken in an environment that could be part of a building's infrastructure, such as a ceiling in a large industrial or commercial space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037598"
+  },
+  "File Name": "144921_589.jpg",
+  "Create Date": "2024-05-11 14:49:23.589+02:00",
+  "Create Seconds Epoch": "1715446163.589",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
