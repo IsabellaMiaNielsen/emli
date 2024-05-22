@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the ceiling of a room with a patterned design. It appears to be a public space, possibly an airport or train station given the scale and structure of the ceiling. There are circular elements that could be lighting fixtures or some other type of decorative feature. The ceiling is predominantly black with white accents, creating a contrast against the grey flooring. There is no visible text or distinguishing marks in the image. The overall style of the image is straightforward and documentary, capturing an architectural detail without any additional context or embellishment. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037816"
+  },
+  "File Name": "153516_757.jpg",
+  "Create Date": "2024-05-11 15:35:18.757+02:00",
+  "Create Seconds Epoch": "1715448918.757",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "342"
+}
