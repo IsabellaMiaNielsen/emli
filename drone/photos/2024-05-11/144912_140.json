@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared shows an interior view from a high angle. In the foreground, there are three circular objects that appear to be ceiling-mounted lights or fixtures, which look like they could be part of a track lighting system. The space is covered with what seems to be a grid of metal panels, suggesting this might be a ceiling of a commercial or industrial building. The lighting in the image indicates it may have been taken at night or during low light conditions. The bottom right corner of the image shows a small portion of a door, possibly an exit door, which is slightly ajar. There's no text visible in the image to provide additional context. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037591"
+  },
+  "File Name": "144912_140.jpg",
+  "Create Date": "2024-05-11 14:49:13.140+02:00",
+  "Create Seconds Epoch": "1715446153.140",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
