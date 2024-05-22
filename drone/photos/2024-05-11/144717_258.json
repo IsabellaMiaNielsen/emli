@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a view of a ceiling from an angle, looking up. There are several circular light fixtures evenly spaced across the surface of the ceiling. The ceiling itself appears to be made of tiles or panels that are white and uniform in appearance. The lighting fixtures have a metallic finish and are not illuminated at the moment the image was taken. The photo is taken indoors, as suggested by the artificial lighting and the presence of the ceiling structure. There is no visible activity in the space shown, indicating that it might be an unoccupied or quiet area. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037529"
+  },
+  "File Name": "144717_258.jpg",
+  "Create Date": "2024-05-11 14:47:18.258+02:00",
+  "Create Seconds Epoch": "1715446038.258",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
