@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared appears to show a person taking a photograph from the perspective of another individual. The angle is such that we see one person's torso and arm, with the camera facing towards their back. The person is holding a phone close to their face, suggesting they are capturing a selfie or a photo of the space in front of them.  The room has a ceiling mounted speaker system, and the floor is visible as it appears to be a tiled surface. There's also an object with a hole in the center on the ceiling, which might be part of the room's lighting setup. The image quality suggests it may have been taken from a moving vehicle or under low light conditions, given the blurriness and lack of focus. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038047"
+  },
+  "File Name": "155051_644.jpg",
+  "Create Date": "2024-05-11 15:50:53.644+02:00",
+  "Create Seconds Epoch": "1715449853.644",
+  "Trigger": "External",
+  "Subject Distance": "0.4065465033 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
