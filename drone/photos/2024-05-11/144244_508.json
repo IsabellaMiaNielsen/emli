@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling view of an indoor area. The ceiling is covered with gray tiles, and there are several circular objects that appear to be light fixtures or ceiling-mounted equipment. Additionally, there is a rectangular grid pattern in the center of the ceiling which might be a part of the building's structure or mechanical system. The photograph seems to have been taken from an angle looking up, possibly through a glass panel, given the reflections visible on the ceiling and walls. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037491"
+  },
+  "File Name": "144244_508.jpg",
+  "Create Date": "2024-05-11 14:42:45.508+02:00",
+  "Create Seconds Epoch": "1715445765.508",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
