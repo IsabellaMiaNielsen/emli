@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a high angle view of a ceiling with exposed ductwork and tiles. The color of the tiles is gray, and there are three circular objects that appear to be lights or vents embedded in the ductwork. The photo has a perspective distortion on the right side, making it difficult to perceive the true proportions and layout of the room. There is no visible activity or movement, suggesting the image might have been taken during a period of low activity or from an angle that does not capture human subjects. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037184"
+  },
+  "File Name": "133117_403.jpg",
+  "Create Date": "2024-05-11 13:31:18.403+02:00",
+  "Create Seconds Epoch": "1715441478.403",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
