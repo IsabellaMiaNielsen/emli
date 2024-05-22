@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the interior of a building, likely a large room with a high ceiling. The ceiling features what appears to be acoustic panels or ceiling tiles, and there are circular objects mounted on these panels at regular intervals. These could be lighting fixtures or some other type of equipment. The walls are tiled, and the floor is not visible in this section of the image. There is a grayish tone to the color palette of the room, which may suggest the use of neutral colors for the walls and ceiling tiles. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037617"
+  },
+  "File Name": "144958_592.jpg",
+  "Create Date": "2024-05-11 14:50:00.592+02:00",
+  "Create Seconds Epoch": "1715446200.592",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
