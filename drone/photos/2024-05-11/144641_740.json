@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph taken from an interior space looking up towards the ceiling. It shows a patterned tiled ceiling with several circular lights embedded in it, providing illumination to the area below. There are three visible light fixtures on the ceiling, and the tiles seem to be in a color that contrasts with the surroundings, possibly gray or silver. The space looks like an interior room, perhaps part of a commercial building or a large public facility, due to the scale and design of the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037516"
+  },
+  "File Name": "144641_740.jpg",
+  "Create Date": "2024-05-11 14:46:43.740+02:00",
+  "Create Seconds Epoch": "1715446003.740",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
