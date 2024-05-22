@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with acoustic panels, which are used to reduce noise reverberation in spaces like offices or conference rooms. There are small circular lighting fixtures visible on the panels. The tiles appear to be a light-colored material with a pattern that enhances acoustics. In the background, there is a view into another room where there is a whiteboard and what appears to be a ceiling-mounted projector. The overall setting suggests this might be a meeting or presentation space within an office environment. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037622"
+  },
+  "File Name": "145009_025.jpg",
+  "Create Date": "2024-05-11 14:50:10.025+02:00",
+  "Create Seconds Epoch": "1715446210.025",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
