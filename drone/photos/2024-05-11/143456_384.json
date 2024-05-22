@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a ceiling that appears to be made of metal panels. There are small, circular lights mounted at intervals along the ceiling, providing illumination to the area below. The photograph seems to have been taken from a low angle, as we can see the underside of what might be a table or shelf structure in the lower left corner. There is no visible text or distinguishing features that would provide additional context about the location or purpose of this space. The image has a slightly tilted perspective and there are no people or other identifiable objects present. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037281"
+  },
+  "File Name": "143456_384.jpg",
+  "Create Date": "2024-05-11 14:34:57.384+02:00",
+  "Create Seconds Epoch": "1715445297.384",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
