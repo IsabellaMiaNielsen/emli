@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor environment with a ceiling that has an unusual pattern. Instead of the typical grid or square tiles, this ceiling features irregular shapes in shades of gray and white, creating a unique and somewhat abstract design. In the foreground, there is a light fixture embedded within one of these irregular shapes. The photo appears to be taken with a fisheye lens, as indicated by the curvature along the edges of the image, giving it a distorted perspective. There are also two circular objects hanging from the ceiling; however, their purpose or type is not clear from this angle. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037722"
+  },
+  "File Name": "150001_574.jpg",
+  "Create Date": "2024-05-11 15:00:02.574+02:00",
+  "Create Seconds Epoch": "1715446802.574",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
