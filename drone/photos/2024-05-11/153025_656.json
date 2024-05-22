@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from an angle looking up, likely towards the ceiling of a room or space. There are several light fixtures visible, which seem to be embedded in the ceiling. The background is mostly black with what looks like perforated panels, suggesting this could be the interior of a building such as a shopping mall, a conference center, or a large public space. There's also a small detail that resembles a light fixture or circular object located near the edge of the image on the right side. The overall quality of the image is low resolution and seems to have been taken quickly, possibly with a smartphone, as indicated by the angle of the shot. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037791"
+  },
+  "File Name": "153025_656.jpg",
+  "Create Date": "2024-05-11 15:30:27.656+02:00",
+  "Create Seconds Epoch": "1715448627.656",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "390"
+}
