@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows a view from the ceiling of an interior space, likely a room in a building. The perspective is looking down at what appears to be a tile or paneled floor and a ceiling with circular tiles that could be acoustic panels or decorative elements. There are also three small items visible: two round objects on the left side and one larger circular object on the right. These objects might be light fixtures, fire sprinklers, or other ceiling-mounted equipment. The space looks clean and well-maintained, with a uniform design across the tiles. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037631"
+  },
+  "File Name": "145029_842.jpg",
+  "Create Date": "2024-05-11 14:50:31.842+02:00",
+  "Create Seconds Epoch": "1715446231.842",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
