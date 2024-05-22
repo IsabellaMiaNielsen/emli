@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling view of what appears to be the underside of a restaurant or cafeteria ceiling. It features a patterned with rectangular tiles, and there are circular lighting fixtures evenly spaced across the ceiling. There's also a central area that seems to be a ventilation grille. The photo is taken from a wide-angle perspective looking upwards, providing an interesting architectural detail view. The quality of the image is not high, with visible graininess and distortion, which suggests it might have been taken with a low-quality camera or there may have been movement blurring the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037551"
+  },
+  "File Name": "144754_147.jpg",
+  "Create Date": "2024-05-11 14:47:55.147+02:00",
+  "Create Seconds Epoch": "1715446075.147",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
