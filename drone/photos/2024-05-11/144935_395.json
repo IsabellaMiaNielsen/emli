@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with several circular lights. The lighting fixtures appear to be mounted on the underside of what looks like a metal grid or panel, which suggests that this might be part of a modern building's infrastructure for lighting. There is a camera lens at the bottom right corner of the image, indicating that the photo may have been taken by a security camera or surveillance system. The ceiling is white, and there are no visible texts or distinctive features that provide additional context about the location or purpose of this space. The style of the image is a standard, unembellished photograph commonly used for documentation purposes. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037604"
+  },
+  "File Name": "144935_395.jpg",
+  "Create Date": "2024-05-11 14:49:36.395+02:00",
+  "Create Seconds Epoch": "1715446176.395",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
