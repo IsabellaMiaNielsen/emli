@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to show an interior space, possibly a ceiling of a room. There are several features visible:  1. Tiles: The ceiling is tiled with what seems to be a perforated material, likely for acoustic purposes or to allow for light to pass through. 2. Recessed Lighting: There are circular recesses in the tiles that suggest the presence of lighting fixtures. 3. Access Panels: There are two rectangular panels on the ceiling with what could be handles or locks, indicating they might serve as access points. 4. Insulation Material: The tiles themselves appear to have a textured surface, which may be used for thermal insulation. 5. Fire Sprinkler: In one of the recesses, there is a visible fire sprinkler head, suggesting that this space has some level of fire protection. 6. The image is taken from a low angle, giving a perspective view upward towards the ceiling. 7. There are no visible objects or items on the ceiling, and it looks relatively clean and uncluttered.  Please note that without additional context, such as the purpose of the room or the specific location, I can only provide a descriptive overview based on the visual information present in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037253"
+  },
+  "File Name": "143139_877.jpg",
+  "Create Date": "2024-05-11 14:31:41.877+02:00",
+  "Create Seconds Epoch": "1715445101.877",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
