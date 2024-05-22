@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is very small and has a low resolution, making it difficult to discern specific details. It appears to be an interior space with a patterned ceiling and what looks like a ventilation system on the floor. There are also some circular objects on the ceiling that could be lighting fixtures or sprinklers. If you need more detailed information about this image, please provide a higher resolution version. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037834"
+  },
+  "File Name": "153611_284.jpg",
+  "Create Date": "2024-05-11 15:36:12.284+02:00",
+  "Create Seconds Epoch": "1715448972.284",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "341"
+}
