@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a view of the ceiling. There are several circular, possibly light fixtures or speakers hanging from what appears to be a grid-like structure that serves as a ceiling panel. The panels are connected by visible metal struts and are painted in a shade of grey, providing a modern, industrial aesthetic. There is no text present in the image, and the lighting suggests it may be daytime, given the natural light coming through. The perspective of the photo indicates it was taken from below, looking up at the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037744"
+  },
+  "File Name": "151005_153.jpg",
+  "Create Date": "2024-05-11 15:10:06.153+02:00",
+  "Create Seconds Epoch": "1715447406.153",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
