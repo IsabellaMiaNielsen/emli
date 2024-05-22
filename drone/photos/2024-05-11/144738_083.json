@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared shows an interior ceiling of a room, likely a public space such as a lobby or waiting area. The ceiling has several elements:  1. **Tiles**: The ceiling is covered with large tiles that appear to be made of a light-colored material, possibly metal or acoustic foam. 2. **Ceiling Mounts**: There are two round, metallic fixtures attached to the tiles. These could be lighting fixtures, sprinklers, or some other type of equipment. 3. **Stickers or Decorations**: The tiles have some stickers or decorations on them, which add a personal touch or indicate that the space is used by individuals. 4. **Wires or Cables**: There are what appear to be wires or cables running across the ceiling. These could be for lighting, air conditioning, or other electronic systems. 5. **Suspended Ceiling Panels**: The tiles seem to be suspended from a grid-like system on the underside of the ceiling, which is common in many modern buildings for easy maintenance and accessibility.  The image quality is not high enough to provide more specific details about the room or its usage. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037538"
+  },
+  "File Name": "144738_083.jpg",
+  "Create Date": "2024-05-11 14:47:39.083+02:00",
+  "Create Seconds Epoch": "1715446059.083",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
