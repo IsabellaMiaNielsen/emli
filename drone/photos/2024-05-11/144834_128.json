@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph taken from an elevated position, looking down at the ceiling of what seems to be a public space, possibly a building with a grid-like pattern. The ceiling is composed of white tiles, and there are round light fixtures distributed across it. These fixtures have a modern design and appear to be recessed into the ceiling, providing illumination for the area below. The lighting in this room is quite bright, suggesting that it might be an indoor space designed for visibility, such as a shopping mall or a well-lit office building.  The image quality is not high due to its size and low resolution, making finer details difficult to discern. However, the overall impression is of a contemporary interior design with a focus on functionality and cleanliness. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037573"
+  },
+  "File Name": "144834_128.jpg",
+  "Create Date": "2024-05-11 14:48:35.128+02:00",
+  "Create Seconds Epoch": "1715446115.128",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
