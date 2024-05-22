@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " In the image, there is a person taking a selfie in what appears to be an indoor setting. The individual is holding up their phone to take the photo, which captures the reflection of them and their surroundings in the phone's screen. They are wearing a cap on their head.  The background features a ceiling with acoustic panels, and there are round recessed lights evenly spaced across it. There's also a wall with a patterned design, but most of this is obscured by the person's reflection in the phone screen. The focus of the image is on the selfie-taking moment rather than the background details. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038135"
+  },
+  "File Name": "155200_965.jpg",
+  "Create Date": "2024-05-11 15:52:02.965+02:00",
+  "Create Seconds Epoch": "1715449922.965",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
