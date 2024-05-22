@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a person sitting at a desk. They are wearing a red top and are facing away from the camera, looking toward something outside the frame of the image. The individual appears to be using a computer or engaging with some digital content on a screen, as indicated by their posture and hand position.  The setting seems to be an office or workspace, given the presence of a desk, a computer monitor or TV, and what looks like ceiling tiles. There are also circular light fixtures visible in the ceiling above the person's head. The image has a low resolution, making it difficult to discern finer details.  The text overlay at the top right corner seems to be an error message or some sort of notification, but without more context, its exact nature is unclear. The overall tone of the photo suggests a candid moment captured during a workday. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037258"
+  },
+  "File Name": "143158_636.jpg",
+  "Create Date": "2024-05-11 14:32:00.636+02:00",
+  "Create Seconds Epoch": "1715445120.636",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
