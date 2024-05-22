@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be an aerial or bird's-eye view of a ceiling. It shows a patterned design that could be made up of tiles or panels, and there are some circular objects in the center which might be light fixtures or decorative elements. The ceiling has a grayish color, and there is no visible flooring or walls, which gives the impression that the image is taken from a high angle looking down. There's also a small white dot on the lower left side of the image, but it's unclear what that represents without additional context. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037261"
+  },
+  "File Name": "143206_264.jpg",
+  "Create Date": "2024-05-11 14:32:07.264+02:00",
+  "Create Seconds Epoch": "1715445127.264",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
