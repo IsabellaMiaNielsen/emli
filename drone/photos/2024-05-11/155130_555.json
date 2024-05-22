@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared is quite small and blurry, making it difficult to provide a detailed description. However, I can tell that the photo appears to be taken indoors with artificial lighting, possibly in a public space such as an airport or a mall. There are some light fixtures visible on the ceiling, which suggests a modern and well-lit environment. In the foreground, there is a person holding up their phone, perhaps trying to capture the image of the room or another individual present in the photo. The focus and clarity of the image are not sufficient for providing more specific details about the setting or the individuals present. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038075"
+  },
+  "File Name": "155130_555.jpg",
+  "Create Date": "2024-05-11 15:51:31.555+02:00",
+  "Create Seconds Epoch": "1715449891.555",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
