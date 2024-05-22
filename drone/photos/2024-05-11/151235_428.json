@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the ceiling of an indoor space, which appears to be a public building such as a museum or gallery. There are two circular objects visible, one of which is closer and more detailed, and the other is further away. Both of these circular objects are likely light fixtures with round, white covers that diffuse the light evenly across the ceiling. The background is out of focus, suggesting a high ISO camera was used to capture the image from below the ceiling. There's no visible text or branding in this part of the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037748"
+  },
+  "File Name": "151235_428.jpg",
+  "Create Date": "2024-05-11 15:12:36.428+02:00",
+  "Create Seconds Epoch": "1715447556.428",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
