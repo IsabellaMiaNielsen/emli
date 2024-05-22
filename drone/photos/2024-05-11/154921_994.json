@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely taken from a person standing on the floor below. The perspective is angled upward, looking at the ceiling of a room that has a ribbed metal framework. The ceiling appears to have circular light fixtures and there are at least three visible. There's also a round vent or object in the center. In the foreground, there is a human figure wearing a red and black hat, and what seems like a pair of legs, possibly belonging to someone standing or sitting on the floor. The background shows an open area with a grayish-white color scheme, suggesting this might be a public space like a lobby or waiting room. The lighting in the room is subdued. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037957"
+  },
+  "File Name": "154921_994.jpg",
+  "Create Date": "2024-05-11 15:49:23.994+02:00",
+  "Create Seconds Epoch": "1715449763.994",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
