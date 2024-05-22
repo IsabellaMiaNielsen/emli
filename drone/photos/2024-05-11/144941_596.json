@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling of a room with various elements. There are multiple light fixtures, some of which appear to be in operation while others are not. In the center, there is a fire sprinkler visible on the ceiling. The ceiling itself has a patterned design, and it's made up of panels that might be acoustic tiles or part of a drop ceiling system. There's also a circular object hanging from the ceiling in the top right corner, which could be a decorative item or some type of security camera. The room has a modern and functional aesthetic. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037608"
+  },
+  "File Name": "144941_596.jpg",
+  "Create Date": "2024-05-11 14:49:43.596+02:00",
+  "Create Seconds Epoch": "1715446183.596",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
