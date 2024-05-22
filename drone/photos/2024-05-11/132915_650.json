@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph of a ceiling from the perspective looking down. The ceiling appears to be a grid of lightweight panels or tiles, creating a pattern that suggests it might be made of acoustic foam, which is often used for noise absorption in large spaces such as offices or event halls. There are three round objects on the left side of the image; they look like recessed lighting fixtures with circular covers, likely to provide ambient illumination. The ceiling itself has a textured surface that could be designed to diffuse light evenly. There is also a horizontal panel at the bottom, possibly part of the acoustic treatment, which is perforated for the same purpose. No people or additional context are visible in this view, keeping the focus on the ceiling structure and design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037174"
+  },
+  "File Name": "132915_650.jpg",
+  "Create Date": "2024-05-11 13:29:17.650+02:00",
+  "Create Seconds Epoch": "1715441357.650",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
