@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view of a building. There are several round light fixtures recessed into the ceiling, which appears to be made of metal panels. The lighting creates a pattern on the ceiling. In the bottom right corner of the image, there is a small text overlay that seems to be part of a larger image or document, but it's not entirely clear from this cropped section. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038173"
+  },
+  "File Name": "155245_109.jpg",
+  "Create Date": "2024-05-11 15:52:46.109+02:00",
+  "Create Seconds Epoch": "1715449966.109",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
