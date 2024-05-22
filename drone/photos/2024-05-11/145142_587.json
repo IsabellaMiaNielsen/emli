@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph taken from a high angle, looking down towards the center of the frame. There is an unusual object in the center that looks like a floating donut. Surrounding this central object are three smaller circular objects, similar in appearance but with different lighting conditions, suggesting they might be lights or possibly decorative items. The room has a tiled ceiling and appears to be quite spacious, with a high ceiling and no visible floor, which creates an intriguing visual illusion due to the perspective of the photograph. The image has a muted color palette, with shades of gray dominating the scene, which contributes to its abstract and surreal quality. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037666"
+  },
+  "File Name": "145142_587.jpg",
+  "Create Date": "2024-05-11 14:51:44.587+02:00",
+  "Create Seconds Epoch": "1715446304.587",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
