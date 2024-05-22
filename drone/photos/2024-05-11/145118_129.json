@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph taken from an interior space, looking upward toward the ceiling. The ceiling appears to be composed of large metal panels with visible screws and bolts. There are several circular objects in the ceiling, which could be lights or fixtures of some sort. The lighting in the room is diffused and the photo has been edited to include a grid overlaying the image, which suggests that this may be an example of a 'grid view' or a digital manipulation technique applied during post-processing. There are no people or distinctive items visible within the frame. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037654"
+  },
+  "File Name": "145118_129.jpg",
+  "Create Date": "2024-05-11 14:51:19.129+02:00",
+  "Create Seconds Epoch": "1715446279.129",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
