@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is an image showing the underside of a ceiling. The ceiling appears to be made up of metal tiles that have a ribbed pattern, creating a textured surface. There are four circular fixtures attached to this ceiling, which might be for lighting or air circulation purposes. Additionally, there is a small, white object protruding from one of the tiles, which could possibly be a speaker or an access panel. The photo is taken in a room that has a darker color scheme on the walls and floor, contrasting with the lighter tones of the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037789"
+  },
+  "File Name": "153022_451.jpg",
+  "Create Date": "2024-05-11 15:30:23.451+02:00",
+  "Create Seconds Epoch": "1715448623.451",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "390"
+}
