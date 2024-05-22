@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely taken from a ceiling camera looking up at a ceiling. There are several objects in the picture:  1. A fire sprinkler, which is round and mounted on the ceiling, typically used for fire safety in buildings. 2. Two circular air vents or diffusers that appear to be part of an HVAC system, providing ventilation. 3. Tiles or panels on the ceiling, likely made of metal or other durable material. 4. The background is a plain wall with no discernible features, which might indicate a functional or industrial space. 5. There appears to be some sort of object or equipment mounted on the ceiling at the top left corner, but it's not clear what its purpose is.  The photo has a grainy quality and seems to have been taken in low light conditions due to the darkness surrounding these objects. The image doesn't provide any context or information about the location or purpose of the space shown. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037682"
+  },
+  "File Name": "145221_209.jpg",
+  "Create Date": "2024-05-11 14:52:22.209+02:00",
+  "Create Seconds Epoch": "1715446342.209",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
