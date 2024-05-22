@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling, which appears to be the underside of a structure. The ceiling is composed of white tiles or panels, and it has some architectural features such as recessed areas for lighting fixtures. There are three visible circular objects that could be fire sprinklers or decorative elements, but their exact function isn't clear from the image alone. The photograph is taken from a perspective looking up towards the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037284"
+  },
+  "File Name": "143504_064.jpg",
+  "Create Date": "2024-05-11 14:35:05.064+02:00",
+  "Create Seconds Epoch": "1715445305.064",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
