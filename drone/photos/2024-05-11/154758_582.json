@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " In the image, there is a person taking a selfie with a smartphone. The individual appears to be standing in an indoor space, as indicated by the ceiling tiles and what looks like air conditioning ducts visible behind them. They are wearing a maroon-colored hat and a long-sleeve shirt with a dark top and lighter bottom. The person is also holding a small object that could be a bag or case in their other hand. There's no text visible in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037900"
+  },
+  "File Name": "154758_582.jpg",
+  "Create Date": "2024-05-11 15:47:59.582+02:00",
+  "Create Seconds Epoch": "1715449679.582",
+  "Trigger": "Motion",
+  "Subject Distance": "0.4374981225 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
