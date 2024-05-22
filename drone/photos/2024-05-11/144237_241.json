@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with a patterned design, possibly made of tiles or similar material. There is a person taking the photo from below; their face is not visible in this angle but the camera lens is reflected on the surface above them. The floor beneath is a light color, and there appears to be a ventilation system visible, consisting of ducts running along the ceiling. The overall lighting suggests an indoor environment with artificial lighting. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037489"
+  },
+  "File Name": "144237_241.jpg",
+  "Create Date": "2024-05-11 14:42:38.241+02:00",
+  "Create Seconds Epoch": "1715445758.241",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
