@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor space that appears to be a ceiling with tiles, possibly in the context of a building such as a commercial or industrial facility. There are several circular light fixtures installed on the ceiling. These fixtures have a circular shape and may be part of the lighting system for the room. The photo is taken from a low angle, looking up at the ceiling, which suggests that the photographer might be standing on the floor of the space. There is no text or distinctive features that provide additional context about the location or purpose of this room. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037656"
+  },
+  "File Name": "145121_236.jpg",
+  "Create Date": "2024-05-11 14:51:22.236+02:00",
+  "Create Seconds Epoch": "1715446282.236",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
