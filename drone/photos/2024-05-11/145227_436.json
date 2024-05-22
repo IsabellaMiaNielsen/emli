@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an overhead view of a ceiling with several elements. There is a patterned tile flooring, which appears to be made of interlocking white tiles. The central part of the ceiling features a series of circular lighting fixtures that provide illumination. Between these lights, there are three small, white objects that could be decorative or functional items.  The ceiling itself is not entirely visible as there seems to be a horizontal line at the bottom of the image that cuts off any information about the material and structure of the ceiling above this line. The perspective of the photo suggests it was taken from below, looking up towards the ceiling. The style of the image is candid and utilitarian, focusing on the details of the ceiling rather than artistic composition or subject matter. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037687"
+  },
+  "File Name": "145227_436.jpg",
+  "Create Date": "2024-05-11 14:52:28.436+02:00",
+  "Create Seconds Epoch": "1715446348.436",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
