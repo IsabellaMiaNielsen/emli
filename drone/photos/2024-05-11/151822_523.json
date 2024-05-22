@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling with an interesting pattern. The ceiling is made up of multiple panels, each covered in what appears to be a metallic material, possibly aluminum or steel, which has been cut and shaped into diamond-like shapes. There are also circular recesses or lights embedded within the ceiling's structure. The lighting fixtures are not visible in this shot, but they might be located at the intersections of the panels.  The color palette is monochromatic with a blend of gray tones that gives the ceiling an industrial look. The floor beneath the ceiling is out of focus and not clearly visible, which makes it difficult to describe its details. There are no visible texts or distinctive branding in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037766"
+  },
+  "File Name": "151822_523.jpg",
+  "Create Date": "2024-05-11 15:18:23.523+02:00",
+  "Create Seconds Epoch": "1715447903.523",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
