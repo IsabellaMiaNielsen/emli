@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a ceiling that appears to be made of corrugated metal panels. There are three circular objects visible on the ceiling: one is closer and looks like a fire sprinkler, another is further away and seems to be a light fixture, and the third, at the far end of the room, could possibly be a speaker or another type of ceiling-mounted device. The room has a neutral color palette with shades of gray and beige. There is no text visible in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037575"
+  },
+  "File Name": "144841_505.jpg",
+  "Create Date": "2024-05-11 14:48:42.505+02:00",
+  "Create Seconds Epoch": "1715446122.505",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
