@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " In the image, there is a person standing in front of a gray ceiling with small white circular light fixtures. The individual appears to be taking a photograph or recording a video, as indicated by their hand holding a device. The person is wearing a dark-colored top and has short hair. They are looking slightly upward, which could suggest they are looking at the camera lens or another point of interest. There are no distinguishable features that would provide further information about the location or context of the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038141"
+  },
+  "File Name": "155208_410.jpg",
+  "Create Date": "2024-05-11 15:52:09.410+02:00",
+  "Create Seconds Epoch": "1715449929.410",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
