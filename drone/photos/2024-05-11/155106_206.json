@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a building with a high ceiling and a large area of gray tiles. There's a person taking the photo from below, indicated by the angle and perspective. The lighting in the room is bright, suggesting it might be well-lit or sunny outside. On the right side of the image, there appears to be a door leading to another area, which is slightly visible with what looks like a red object near it. The overall atmosphere is neutral and utilitarian, possibly indicating an office or a public building. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038062"
+  },
+  "File Name": "155106_206.jpg",
+  "Create Date": "2024-05-11 15:51:07.206+02:00",
+  "Create Seconds Epoch": "1715449867.206",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
