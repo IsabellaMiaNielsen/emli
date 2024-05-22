@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with a pattern of metallic panels, possibly in an interior space such as a building or a room. On the left side of the image, there is a circular object that appears to be an air vent or diffuser. On the right side, there are two circular lights mounted on the ceiling. The lighting is not turned on, and the overall color scheme suggests an industrial or modern design with a focus on durability and cleanliness. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037691"
+  },
+  "File Name": "145329_815.jpg",
+  "Create Date": "2024-05-11 14:53:31.815+02:00",
+  "Create Seconds Epoch": "1715446411.815",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
