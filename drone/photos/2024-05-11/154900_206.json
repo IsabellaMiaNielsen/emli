@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " In the image, there's a person standing in front of a ceiling with white tiles and some circular elements. The individual appears to be holding a phone close to their face, which suggests they might be engaged in a video call or taking a selfie. They are wearing a red cap, which is visible against the neutral background. The image has an overlay with a pattern that resembles a wall, and there's a watermark on the right side of the image, but it's not clear what the watermark says. The overall scene seems to be taken from a public space like a waiting room or a lobby, as indicated by the design of the ceiling and the presence of the person using their phone. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037937"
+  },
+  "File Name": "154900_206.jpg",
+  "Create Date": "2024-05-11 15:49:01.206+02:00",
+  "Create Seconds Epoch": "1715449741.206",
+  "Trigger": "Motion",
+  "Subject Distance": "0.7327872515 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
