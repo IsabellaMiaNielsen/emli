@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the interior of a building with a ceiling covered in hexagonal tiles. There are several circular fixtures, which appear to be lights or possibly speakers, embedded within this patterned ceiling. The perspective of the photo is from below, looking up towards these fixtures and the ceiling tiles. The lighting in the room suggests an artificial setting, potentially a public space such as a lobby or waiting area. There are no people visible in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037878"
+  },
+  "File Name": "154041_995.jpg",
+  "Create Date": "2024-05-11 15:40:43.995+02:00",
+  "Create Seconds Epoch": "1715449243.995",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "326"
+}
