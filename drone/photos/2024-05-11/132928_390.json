@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, which appears to be the underside of a raised floor or a false ceiling. It's hard to discern specific details due to the angle and perspective of the photo. However, we can see some patterned tiles or panels on the ceiling that might serve as a ventilation system or insulation material. There are also circular elements that could be lights or other fixtures. The floor below is not visible in this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037176"
+  },
+  "File Name": "132928_390.jpg",
+  "Create Date": "2024-05-11 13:29:29.390+02:00",
+  "Create Seconds Epoch": "1715441369.390",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "382"
+}
