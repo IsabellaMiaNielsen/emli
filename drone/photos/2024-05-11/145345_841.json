@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph of the ceiling of an indoor space, which appears to be an area with a white tiled surface. There are several circular objects that could be fire sprinklers or light fixtures. The perspective of the photo suggests it was taken from a low angle, possibly by someone standing below the ceiling. The image has been edited to remove any distracting elements, resulting in a plain, undecorated view. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037704"
+  },
+  "File Name": "145345_841.jpg",
+  "Create Date": "2024-05-11 14:53:47.841+02:00",
+  "Create Seconds Epoch": "1715446427.841",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
