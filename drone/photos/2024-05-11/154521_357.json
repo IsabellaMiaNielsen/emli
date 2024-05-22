@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with square tiles, creating a grid pattern. There are three circular objects visible: two that appear to be light fixtures and one that could be a sprinkler or a similar device for fire protection. The ceiling is part of an interior space, possibly a room where people gather or work. The wall in the foreground is gray with horizontal lines, contributing to a modern aesthetic. There are no texts or distinctive features visible that would provide more information about the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037887"
+  },
+  "File Name": "154521_357.jpg",
+  "Create Date": "2024-05-11 15:45:22.357+02:00",
+  "Create Seconds Epoch": "1715449522.357",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "316"
+}
