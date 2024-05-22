@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph taken inside a room with a domed ceiling. The ceiling has circular lighting fixtures and what seems like an insulated or tiled surface, which could indicate a structural design feature or perhaps the interior of a vehicle. In the foreground, there is a partial view of a person's arm and shoulder, but their face is not visible in this image. The focus seems to be on the ceiling rather than on the individual. There are no texts or distinguishable brands present in the photo. If you have any questions about the composition or elements within this image, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037508"
+  },
+  "File Name": "144558_550.jpg",
+  "Create Date": "2024-05-11 14:45:59.550+02:00",
+  "Create Seconds Epoch": "1715445959.550",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
