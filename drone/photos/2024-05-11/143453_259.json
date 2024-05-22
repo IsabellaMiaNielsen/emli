@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided shows an indoor ceiling that appears to be a large metal grid with some small, round objects attached to it. These objects could possibly be light fixtures or air vents, but without more context or details, it's difficult to determine their exact purpose. The background of the photo is blurred out, which suggests that the focus is on this particular ceiling feature. There are no people or discernible activities happening in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037279"
+  },
+  "File Name": "143453_259.jpg",
+  "Create Date": "2024-05-11 14:34:54.259+02:00",
+  "Create Seconds Epoch": "1715445294.259",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
