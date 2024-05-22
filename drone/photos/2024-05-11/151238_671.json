@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view from the perspective of someone standing below. It features a patterned tiled design that covers the entire ceiling, creating a grid-like pattern. The tiles appear to be white or off-white in color and are evenly distributed across the surface. There is a small circular object on the right side near the center of the image, which could be an emergency sprinkler or a light fixture, but it's not clear from this angle what its exact function is. The ceiling itself is likely part of the infrastructure for a building, providing insulation and possibly serving as a decorative element in the space below. There are no visible texts or distinctive marks that would provide additional information about the location or purpose of this room. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037751"
+  },
+  "File Name": "151238_671.jpg",
+  "Create Date": "2024-05-11 15:12:40.671+02:00",
+  "Create Seconds Epoch": "1715447560.671",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
