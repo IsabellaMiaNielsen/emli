@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling of a room, which appears to be made of metal tiles. There are no visible objects or decorations on the ceiling. The ceiling has several round vents or ductwork openings, suggesting an active or exposed HVAC (heating, ventilation, and air conditioning) system. The floor is not fully visible but seems to have a patterned design. The image itself has a watermark across it that obscures the original content of the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037531"
+  },
+  "File Name": "144724_515.jpg",
+  "Create Date": "2024-05-11 14:47:25.515+02:00",
+  "Create Seconds Epoch": "1715446045.515",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
