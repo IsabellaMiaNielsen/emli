@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, specifically a ceiling, viewed from below. The ceiling features multiple circular elements that could be lights or decorative fixtures, arranged in a grid-like pattern. There's also a visible tile design on the lower part of the ceiling. The lighting is subdued, suggesting an indoor setting with artificial light sources. The photograph seems to have been taken from a low angle, possibly for the purpose of documenting or inspecting the ceiling structure. The image quality appears to be standard, without any noticeable distortions or filters applied. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037269"
+  },
+  "File Name": "143359_131.jpg",
+  "Create Date": "2024-05-11 14:34:00.131+02:00",
+  "Create Seconds Epoch": "1715445240.131",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
