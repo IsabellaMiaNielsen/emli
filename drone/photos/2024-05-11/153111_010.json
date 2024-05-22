@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image depicts an interior view of a ceiling with a patterned tile design. The tiles are black with a lighter, possibly white or gray, center. On the right side of the image, there is a close-up view of two circular light fixtures mounted to the ceiling, with one being obscured by the perspective angle and the other clearly visible. There appears to be a slight distortion in the image due to the camera's fish-eye effect, which causes the edges to curve outward. The overall impression is that of an industrial or institutional setting, possibly a public building or an office space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037809"
+  },
+  "File Name": "153111_010.jpg",
+  "Create Date": "2024-05-11 15:31:12.010+02:00",
+  "Create Seconds Epoch": "1715448672.010",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "386"
+}
