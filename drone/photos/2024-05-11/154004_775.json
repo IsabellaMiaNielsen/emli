@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared appears to be taken from a high angle, looking down at a ceiling. The ceiling has a pattern of tiles and there are circular objects that could be recessed lighting fixtures. There is also a small section in the upper right corner that seems to be a different material or color compared to the rest of the ceiling, which could indicate a change in design or materials. The image quality is low, which makes it difficult to discern fine details. If you have any specific questions about this image or need information related to its content, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037875"
+  },
+  "File Name": "154004_775.jpg",
+  "Create Date": "2024-05-11 15:40:06.775+02:00",
+  "Create Seconds Epoch": "1715449206.775",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "330"
+}
