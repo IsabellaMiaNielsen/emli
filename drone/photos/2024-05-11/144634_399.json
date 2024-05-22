@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling from the perspective of someone standing on the floor. The ceiling is made up of white tiles, and there are several circular light fixtures mounted at different heights throughout the area. There's also some patterned material, possibly carpet or wallpaper, visible in the bottom right corner of the image. The overall impression is that of a well-lit, modern space, possibly an office or institutional building due to the style of the ceiling and the presence of light fixtures commonly used for such environments. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037513"
+  },
+  "File Name": "144634_399.jpg",
+  "Create Date": "2024-05-11 14:46:35.399+02:00",
+  "Create Seconds Epoch": "1715445995.399",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
