@@ -1,0 +1,13 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a close-up view of what appears to be an indoor space with a patterned floor and a ceiling that has recessed lighting. There is also an object in the foreground, possibly part of a table or countertop, which obscures some of the background details. It seems to be taken from an angle where the camera's lens hood is partially visible, as suggested by the circular shape on the left side of the image. The lighting is subdued and evenly distributed, indicating that the space might be well-lit but the focus is on something in the foreground. There are no distinguishable features or objects that would allow for a clearer description of the scene. "
+  },
+  "File Name": "142451_942.jpg",
+  "Create Date": "2024-05-18 14:24:53.942+02:00",
+  "Create Seconds Epoch": "1716049493.942",
+  "Trigger": "Motion",
+  "Subject Distance": "0.2569001019 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
