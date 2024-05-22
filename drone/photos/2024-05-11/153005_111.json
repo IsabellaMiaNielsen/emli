@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a vaulted ceiling. The ceiling appears to be made of metal panels, giving it a textured look. On the left side of the image, there's a visible air vent, commonly found in buildings for circulation purposes. In the middle of the ceiling, there are two circular objects that seem to be lights or possibly speakers. The space looks like an empty room with a gray color scheme, and it is captured from an angle where you can see part of the floor, which also has a tiled design, though not clearly visible due to the perspective of the photo. There's no text or any distinguishable items in the image that provide further context about the location or purpose of the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037779"
+  },
+  "File Name": "153005_111.jpg",
+  "Create Date": "2024-05-11 15:30:06.111+02:00",
+  "Create Seconds Epoch": "1715448606.111",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "392"
+}
