@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the underside of a ceiling, which appears to be tiled and in need of repair. There are visible damage areas where the tiles have come loose or are missing entirely. These damaged sections expose the underlying structure that might consist of beams or other support materials. In the center, there is a round, light-colored object, possibly an access point or an installed device like a sprinkler or a fire alarm system. The lighting in the room casts shadows on the ceiling, indicating that the photo was taken with natural light coming from above. There are no texts or distinguishing features that provide additional context about the location or purpose of this ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037633"
+  },
+  "File Name": "145032_889.jpg",
+  "Create Date": "2024-05-11 14:50:34.889+02:00",
+  "Create Seconds Epoch": "1715446234.889",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
