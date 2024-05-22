@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling view from an interior space, likely an industrial or institutional building. The ceiling appears to have a metal panel with perforations, possibly for acoustic reasons or as a design element. There are two round objects on the ceiling, one of which looks like a camera or light fixture. In the foreground, there is a view from the floor looking up at the ceiling, providing a perspective that includes a portion of the wall and some kind of object in the distance. The image has a low resolution, which makes it difficult to discern specific details about the objects or their purpose. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037799"
+  },
+  "File Name": "153058_371.jpg",
+  "Create Date": "2024-05-11 15:30:59.371+02:00",
+  "Create Seconds Epoch": "1715448659.371",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "390"
+}
