@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image appears to show a room with a mirror reflecting the interior. The reflection is blurred and distorted, making it difficult to discern specific details about the room or any objects within it. The lower part of the image shows a reflection that is less distorted than the upper part, but still quite blurry. There are no distinct features or objects visible due to the quality of the mirror's surface. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037857"
+  },
+  "File Name": "153845_762.jpg",
+  "Create Date": "2024-05-11 15:38:47.762+02:00",
+  "Create Seconds Epoch": "1715449127.762",
+  "Trigger": "External",
+  "Subject Distance": "1.187191367 m",
+  "Exposure Time": "1/40",
+  "ISO": "112"
+}
