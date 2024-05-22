@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling with multiple tiles. The ceiling has a pattern that includes small, round lights at regular intervals, and the lights appear to be turned off. There are no visible fixtures or other objects on the floor, suggesting this is a high vantage point looking down from another level or area of the building. The image has a slightly blurred quality, which may indicate movement during the photo's capture or a lack of focus in the camera lens. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037520"
+  },
+  "File Name": "144656_289.jpg",
+  "Create Date": "2024-05-11 14:46:57.289+02:00",
+  "Create Seconds Epoch": "1715446017.289",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
