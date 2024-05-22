@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is an image of a person taking a selfie. The individual is holding up one finger, which often signifies 'number one' or can simply be a gesture for posing for a photo. They appear to be indoors with a ceiling that has a patterned design, and there are circular lights on the ceiling. In the foreground of the image, there is a phone screen visible, suggesting that the photo might have been taken using a smartphone's front camera. The background is out of focus, drawing attention to the person in the foreground. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038154"
+  },
+  "File Name": "155222_983.jpg",
+  "Create Date": "2024-05-11 15:52:24.983+02:00",
+  "Create Seconds Epoch": "1715449944.983",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
