@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view, specifically a ceiling. The ceiling features a patterned with what appear to be metal or aluminum panels. Within these panels are small circular lights, which could serve as lighting fixtures for the space below. There is no visible text or distinctive branding in this image. The style of the photograph is straightforward and utilitarian, likely taken to document the design or condition of the ceiling for some purpose, such as maintenance or construction. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037230"
+  },
+  "File Name": "142002_662.jpg",
+  "Create Date": "2024-05-11 14:20:04.662+02:00",
+  "Create Seconds Epoch": "1715444404.662",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
