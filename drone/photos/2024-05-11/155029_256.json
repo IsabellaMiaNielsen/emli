@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with a series of light fixtures and round ventilation units. There is also a patterned tile design visible on the ceiling. Below the ceiling, we can see a portion of what appears to be a floor or platform, but it's not fully visible in this angle. The image has an overexposed quality, with areas of the photo being very bright, which could indicate a glare or a setting where the lighting is high. There are no texts or distinctive features that provide context for the location or purpose of the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038025"
+  },
+  "File Name": "155029_256.jpg",
+  "Create Date": "2024-05-11 15:50:30.256+02:00",
+  "Create Seconds Epoch": "1715449830.256",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
