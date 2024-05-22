@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor space with a ceiling that features multiple circular recesses, possibly for light fixtures or decorative purposes. In the center of the ceiling, there is a patterned with dark tiles, providing a contrast to the lighter color of the surrounding area. There are no visible objects within these recesses. The walls and floor of the space appear to be made of gray material, which could be tiles or concrete, offering a uniform look across the room. In the foreground, there is a textured pattern on the floor that adds visual interest to the otherwise monochromatic environment. There are no people or objects in the space, giving it an unoccupied and minimalistic appearance. The image seems to have been taken from below, looking up at the ceiling, which creates a sense of perspective and scale for the viewer. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037983"
+  },
+  "File Name": "154955_973.jpg",
+  "Create Date": "2024-05-11 15:49:57.973+02:00",
+  "Create Seconds Epoch": "1715449797.973",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
