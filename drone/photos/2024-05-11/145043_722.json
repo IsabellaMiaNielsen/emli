@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling. It appears to be taken from a perspective slightly above the ceiling and is looking downwards towards it. The ceiling features a grid-like structure, possibly made up of small panels or tiles. There are two circular objects in the ceiling; one seems to be a light fixture with multiple lights, while the other could be a ventilation grate or another type of installation. The flooring visible below the grid is dark and uniform, providing a contrast to the lighter color of the ceiling structure. The overall appearance suggests this might be an industrial or institutional setting, such as a public building or a facility designed for some specific purpose. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037638"
+  },
+  "File Name": "145043_722.jpg",
+  "Create Date": "2024-05-11 14:50:45.722+02:00",
+  "Create Seconds Epoch": "1715446245.722",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
