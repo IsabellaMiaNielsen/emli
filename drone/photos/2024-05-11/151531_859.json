@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling with a pattern of acoustic tiles. There are three circular objects installed on the ceiling, which appear to be fire sprinklers or similar fire suppression devices, given their color and shape. The tiles are a light color, possibly white or off-white, and they cover the entire visible surface of the ceiling, providing a uniform appearance.  The image is taken from an angle below the ceiling that looks upwards, showing a perspective view of the ceiling structure. There is no other context provided, so it's not possible to determine the location or the specific purpose of this ceiling design. The color palette in the image is quite limited due to the grey and white tones of the ceiling tiles. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037761"
+  },
+  "File Name": "151531_859.jpg",
+  "Create Date": "2024-05-11 15:15:33.859+02:00",
+  "Create Seconds Epoch": "1715447733.859",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
