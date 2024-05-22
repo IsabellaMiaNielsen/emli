@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a person standing below a ceiling, which appears to be the interior of an airport terminal or a similar large indoor space. The ceiling is made up of a patterned metal mesh, and there are several circular lights embedded in it. On the right side of the photo, partially obscured by a text overlay, we can see a person wearing a cap facing away from the camera. The individual is standing near a column or pillar, which supports the ceiling structure. There's no text overlay on the left side of the image, where you would expect to see the person's face. The lighting in the space is artificial and evenly distributed across the area. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037915"
+  },
+  "File Name": "154813_284.jpg",
+  "Create Date": "2024-05-11 15:48:14.284+02:00",
+  "Create Seconds Epoch": "1715449694.284",
+  "Trigger": "Motion",
+  "Subject Distance": "0.5654089451 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
