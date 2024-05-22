@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image appears to be taken from a camera mounted on the ceiling, looking down through a translucent material. The perspective is somewhat distorted due to the angle of the camera lens. In the foreground, there are two small circular objects that resemble sprinklers or fire suppression systems commonly found in ceilings for fire safety. Behind these, the ceiling tiles have a patterned design and are gray in color. The background shows a part of a room with what looks like a door or opening on the right side. There are no people visible in this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037814"
+  },
+  "File Name": "153121_861.jpg",
+  "Create Date": "2024-05-11 15:31:23.861+02:00",
+  "Create Seconds Epoch": "1715448683.861",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "384"
+}
