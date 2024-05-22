@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to show a ceiling with metal tiles and circular perforations, likely in the interior of a building. There is an object in the foreground that looks like a person sitting down with their head lowered towards what seems to be a surface or equipment out of view. The background is blurred, which makes it difficult to discern any additional details about the setting. If you have specific questions about the image or need descriptions for certain elements within it, please let me know! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038054"
+  },
+  "File Name": "155058_838.jpg",
+  "Create Date": "2024-05-11 15:51:00.838+02:00",
+  "Create Seconds Epoch": "1715449860.838",
+  "Trigger": "Motion",
+  "Subject Distance": "0.5771726966 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
