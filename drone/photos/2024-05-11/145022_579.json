@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with three round objects. These objects are likely light fixtures or fire sprinklers, commonly found in commercial or public buildings such as shopping malls, offices, or theaters. The ceiling appears to be made of tiles, and there is no visible texture on the tiles themselves, suggesting that they could be metallic or have a reflective surface. The perspective of the photo is from below, looking up towards the center of the image where the fixtures are located. There is nothing else in the room that can be clearly seen due to the angle of the photograph. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037629"
+  },
+  "File Name": "145022_579.jpg",
+  "Create Date": "2024-05-11 14:50:23.579+02:00",
+  "Create Seconds Epoch": "1715446223.579",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
