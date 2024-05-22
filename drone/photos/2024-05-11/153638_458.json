@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a view upwards towards the ceiling. The ceiling features what appears to be a grid or paneling, which could suggest it's a modern building with industrial design elements, possibly in a large public space such as a train station or airport terminal due to the size and architecture of the room. There are circular objects, which might be lights or some form of ceiling-mounted equipment, visible along the edge of the grid. The photo seems to have been taken from ground level looking upwards, and it's taken with a wide-angle lens that results in distortion along the edges of the image, making the corners curved. There is no visible text or branding within the image itself. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037836"
+  },
+  "File Name": "153638_458.jpg",
+  "Create Date": "2024-05-11 15:36:39.458+02:00",
+  "Create Seconds Epoch": "1715448999.458",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "334"
+}
