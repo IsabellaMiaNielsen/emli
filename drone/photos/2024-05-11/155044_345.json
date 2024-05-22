@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, which appears to be in a building with an open floor plan. The ceiling is composed of acoustic tiles and features several circular light fixtures and a central, larger fixture. The color scheme includes shades of grey and black, and there are no visible people or objects that suggest activity. The lighting is diffused, providing even illumination across the space. There's a watermark or logo at the bottom right corner of the image, but it's not clear enough to identify what it represents. The style of the photograph is straightforward, capturing an everyday scene without any artistic filters applied. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038040"
+  },
+  "File Name": "155044_345.jpg",
+  "Create Date": "2024-05-11 15:50:45.345+02:00",
+  "Create Seconds Epoch": "1715449845.345",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
