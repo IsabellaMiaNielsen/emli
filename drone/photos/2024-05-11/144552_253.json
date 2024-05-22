@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a room with a white ceiling. On the left side of the ceiling, there is a circular object that appears to be an air freshener or some type of ventilation device. The right side of the ceiling features a grid pattern, which might be a design element or part of the building's infrastructure. Below the ceiling, the floor appears to be covered with dark tiles. There are no visible people or objects in motion within this space, contrary to the statement that something is blurry due to motion. The lighting in the room seems to be artificial, as suggested by the even illumination across the ceiling and the absence of any natural light sources. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037504"
+  },
+  "File Name": "144552_253.jpg",
+  "Create Date": "2024-05-11 14:45:53.253+02:00",
+  "Create Seconds Epoch": "1715445953.253",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
