@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling from the perspective of an individual standing on a ground level, looking up towards the ceiling. The ceiling features multiple panels that appear to be part of a grid or structural framework. There are circular fixtures that seem to be lights or possibly speakers. The color of the ceiling is a neutral tone, and there's no visible activity or people in this section of the image. It looks like an interior space that could be part of a building with modern architecture. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037587"
+  },
+  "File Name": "144901_358.jpg",
+  "Create Date": "2024-05-11 14:49:02.358+02:00",
+  "Create Seconds Epoch": "1715446142.358",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
