@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an overhead view of a ceiling, likely from a public building or facility. There are three fire sprinklers installed in the ceiling. Each sprinkler is connected to a pipe and has a white nozzle on the end. The pipes appear to be metallic and are part of a larger system for fire suppression. The background suggests an industrial setting with what looks like metal panels lining the floor, and there might be some kind of equipment or machinery in the foreground, but it's not fully visible due to the angle of the photo. There is no text present in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037555"
+  },
+  "File Name": "144804_574.jpg",
+  "Create Date": "2024-05-11 14:48:05.574+02:00",
+  "Create Seconds Epoch": "1715446085.574",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
