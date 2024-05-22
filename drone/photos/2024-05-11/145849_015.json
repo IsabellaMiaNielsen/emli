@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be taken from a low angle looking up at the ceiling of an indoor space. There is a grid-like pattern, possibly metal panels or ceiling tiles. Several circular elements are visible in the ceiling; these could be lights or fire sprinklers. The ceiling also seems to have some form of ventilation system with what looks like ductwork running across its span. The perspective suggests that this photo may have been taken from someone standing on the ground looking upwards, possibly in a room such as a lobby, conference center, or a public facility with high ceilings. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037715"
+  },
+  "File Name": "145849_015.jpg",
+  "Create Date": "2024-05-11 14:58:50.015+02:00",
+  "Create Seconds Epoch": "1715446730.015",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
