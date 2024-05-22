@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with a pattern of black tiles. There are three circular objects that appear to be lighting fixtures, each positioned at the intersection of two ceiling grid lines. The ceiling has a textured appearance and is likely made of a material that can withstand high levels of foot traffic, such as concrete or resin. The background of the image is indistinct, but there seems to be a large open space that could be part of a public building like a train station or an airport terminal, given the scale and design of the ceiling structure. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037922"
+  },
+  "File Name": "154820_672.jpg",
+  "Create Date": "2024-05-11 15:48:22.672+02:00",
+  "Create Seconds Epoch": "1715449702.672",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "379"
+}
