@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with a patterned design. There are several circular elements that appear to be light fixtures or perhaps speakers, evenly spaced across the expanse of the ceiling. The color scheme consists mainly of grey tones, possibly indicating a modern architectural style. On the left side of the image, there is a hint of what appears to be a person or an object, but it's not clear enough to discern any details. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037928"
+  },
+  "File Name": "154827_873.jpg",
+  "Create Date": "2024-05-11 15:48:29.873+02:00",
+  "Create Seconds Epoch": "1715449709.873",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "379"
+}
