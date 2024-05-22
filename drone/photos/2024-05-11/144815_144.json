@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided shows a ceiling with what appears to be fire sprinklers. There are several small round objects, which could be sprinklers, and possibly some circular lights or fixtures mounted on the ceiling tiles. The background is mostly out of focus, but it seems to be an interior space with walls that have a textured surface, and there's a hint of lighting in the upper part of the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037562"
+  },
+  "File Name": "144815_144.jpg",
+  "Create Date": "2024-05-11 14:48:16.144+02:00",
+  "Create Seconds Epoch": "1715446096.144",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
