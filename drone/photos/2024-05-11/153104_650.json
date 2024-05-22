@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the underside of a ceiling with a patterned design, resembling a honeycomb structure or possibly a pattern of tiles. There are two small objects that appear to be circular fixtures or lights embedded into the ceiling. The overall color scheme is monochromatic, with shades of gray and white dominating the scene. There is no visible text or context within the image, and it appears to be taken from a low angle looking upwards, possibly from a floor or a piece of equipment. The style of the ceiling suggests an industrial or modern interior design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037804"
+  },
+  "File Name": "153104_650.jpg",
+  "Create Date": "2024-05-11 15:31:06.650+02:00",
+  "Create Seconds Epoch": "1715448666.650",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "386"
+}
