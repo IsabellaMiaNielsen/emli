@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a building ceiling with a pattern of tiles. There are two circular objects, which appear to be ceiling-mounted lighting fixtures or perhaps smoke detectors, on the left side of the photo. The rest of the ceiling is gray, and there's a grid-like design where each section is a separate tile. On the right side, there's a slight distortion in the image that makes it seem as if the wall is not perpendicular to the floor but at an angle. This suggests that the photo might have been taken with a fish-eye lens or from a non-orthogonal viewpoint. The overall lighting in the room is soft and diffused, with no strong light sources visible. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037228"
+  },
+  "File Name": "141501_818.jpg",
+  "Create Date": "2024-05-11 14:15:03.818+02:00",
+  "Create Seconds Epoch": "1715444103.818",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
