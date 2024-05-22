@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a person taking a photo of the ceiling, which has a pattern of round perforations. The individual appears to be using a smartphone to capture the shot, and they are holding it steady to avoid any motion blur. The person is wearing a cap and casual attire, with the upper body visible in the frame. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037739"
+  },
+  "File Name": "150945_535.jpg",
+  "Create Date": "2024-05-11 15:09:46.535+02:00",
+  "Create Seconds Epoch": "1715447386.535",
+  "Trigger": "Motion",
+  "Subject Distance": "0.5740730166 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
