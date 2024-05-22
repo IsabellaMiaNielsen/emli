@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is taken from a low angle looking up. It shows the underside of a ceiling with several circular lights and fixtures. These appear to be part of an architectural feature, possibly a skylight or a ceiling with integrated lighting. The ceiling is made of what looks like metal panels or tiles. Below the ceiling, there's a partial view of another surface that might be a wall or partition, but it's not fully visible in the photo. There are no texts or distinctive features that could provide additional context about the location or purpose of the space. The image seems to have been taken with an intentional upward tilt, giving the impression that the ceiling is much larger than it actually is. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037650"
+  },
+  "File Name": "145111_900.jpg",
+  "Create Date": "2024-05-11 14:51:13.900+02:00",
+  "Create Seconds Epoch": "1715446273.900",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
