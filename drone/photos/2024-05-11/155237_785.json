@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph taken from a low angle, looking up at the ceiling. At the top of the photo, we can see the back of a person who seems to be standing or sitting on a high surface, possibly a platform or an elevated area within a building. This person is wearing a sleeveless dark top and has short hair.  The focus is on this individual's head and shoulders, with their hands positioned as if they are holding onto something above them or resting on their thighs. The ceiling in the background consists of a grid pattern and multiple circular lights, which suggests an indoor environment such as a gym, sports arena, or perhaps an educational institution with an auditorium or lecture hall.  The angle and composition of the photograph create a sense of depth and perspective, giving viewers a glimpse into a space that is not fully visible due to the framing. The person's pose and the lighting in the room contribute to a contemplative mood, as if the individual is taking a moment to rest or collect their thoughts.  Please note that this description is based on the visual information provided by the image, and no assumptions about the identity of the person are made. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038167"
+  },
+  "File Name": "155237_785.jpg",
+  "Create Date": "2024-05-11 15:52:39.785+02:00",
+  "Create Seconds Epoch": "1715449959.785",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
