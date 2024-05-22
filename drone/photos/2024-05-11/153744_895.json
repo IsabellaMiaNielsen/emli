@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be an aerial or top-down view of a ceiling in what looks like a public space, possibly a building with a large open area. The ceiling has a series of circular light fixtures installed at regular intervals, and there is one visible object that seems out of place, which could be debris or a foreign object. There are two circular objects hanging from the ceiling, but they are too small to discern any details about them. The background is very nondescript, with what might be part of an external structure, possibly a window or another architectural feature, visible in the bottom right corner of the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037847"
+  },
+  "File Name": "153744_895.jpg",
+  "Create Date": "2024-05-11 15:37:46.895+02:00",
+  "Create Seconds Epoch": "1715449066.895",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "339"
+}
