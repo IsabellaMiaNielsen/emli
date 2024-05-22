@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a close-up view of the ceiling, which appears to be a flat or sloped surface with some elements attached. There are four circular lights evenly spaced apart, providing illumination for the area below. The background is blurred and indistinct, but it suggests an interior setting that could be a commercial space or a large public area. The lighting fixtures have a simple design, typical of industrial or functional ceilings. There's no visible text on the image to provide additional context. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037502"
+  },
+  "File Name": "144548_986.jpg",
+  "Create Date": "2024-05-11 14:45:50.986+02:00",
+  "Create Seconds Epoch": "1715445950.986",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
