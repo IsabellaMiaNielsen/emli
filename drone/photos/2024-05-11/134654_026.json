@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view, likely from a building or room. The ceiling has a patterned grid or paneling, possibly for acoustics, and there are circular light fixtures mounted to the surface. Between these fixtures, the background appears to be a wall with a darker color scheme compared to the lighter ceiling, creating a contrast. There are no visible texts or distinguishing features that provide context about the location or purpose of the space shown in the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037194"
+  },
+  "File Name": "134654_026.jpg",
+  "Create Date": "2024-05-11 13:46:55.026+02:00",
+  "Create Seconds Epoch": "1715442415.026",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
