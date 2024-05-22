@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with a patterned tile design. There are several circular lights that appear to be recessed into the ceiling, providing illumination for the area beneath them. The tiles are arranged in a grid-like pattern, and there's a metallic or grayish texture to the material of the ceiling. Below the ceiling, we can see a section of what appears to be a tiled floor, but it is partially obscured by the lower part of the image being cropped out. The image itself is taken from an angle that provides a perspective view across the length of the ceiling. There are no people or distinctive objects in the foreground or background that would provide context for the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037580"
+  },
+  "File Name": "144851_925.jpg",
+  "Create Date": "2024-05-11 14:48:53.925+02:00",
+  "Create Seconds Epoch": "1715446133.925",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
