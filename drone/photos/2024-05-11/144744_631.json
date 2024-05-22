@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view, likely from a building or room with tiled or paneled surfaces. There are several circular light fixtures mounted on the tiles, providing illumination to the area below. The ceiling has a grid-like pattern of panels, which suggests a structured layout for the ceiling design. The lighting appears to be diffused and spread out across the panels, ensuring even illumination throughout the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037542"
+  },
+  "File Name": "144744_631.jpg",
+  "Create Date": "2024-05-11 14:47:46.631+02:00",
+  "Create Seconds Epoch": "1715446066.631",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
