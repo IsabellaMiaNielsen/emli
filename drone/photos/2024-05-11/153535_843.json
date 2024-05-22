@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling with a pattern of black and gray tiles. In the center, there appears to be a round object attached to one of the panels. Above this central object, there is another smaller round object mounted on the ceiling. The space looks like it could be part of a large room or hall, given the high, open ceilings typical for such structures. There are no people or other distinct features that stand out in the image, which focuses on the ceiling pattern and the objects attached to it. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037818"
+  },
+  "File Name": "153535_843.jpg",
+  "Create Date": "2024-05-11 15:35:37.843+02:00",
+  "Create Seconds Epoch": "1715448937.843",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "341"
+}
