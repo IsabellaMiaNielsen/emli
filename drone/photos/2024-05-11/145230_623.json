@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling with acoustic tiles, which are commonly used in commercial buildings to reduce noise levels. There are circular light fixtures visible on the tiles. The pattern of the tiles suggests a design that could be used to improve sound insulation or aesthetics within a space. The room appears to be empty and is taken from a perspective below the ceiling, looking upwards. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037689"
+  },
+  "File Name": "145230_623.jpg",
+  "Create Date": "2024-05-11 14:52:32.623+02:00",
+  "Create Seconds Epoch": "1715446352.623",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
