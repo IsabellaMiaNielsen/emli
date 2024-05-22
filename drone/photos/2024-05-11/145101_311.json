@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an overhead view of a ceiling that appears to be inside a building, possibly a public space or facility given the design and layout. There are several elements in the photo:  1. **Ceiling Tiles**: The ceiling is made up of white tiles which are common in institutional buildings for their ease of cleaning and durability.  2. **Fire Sprinklers**: These are installed to provide fire suppression within the building. They typically have a painted red color, indicating that they should not be painted over or tampered with.  3. **Smoke Detectors**: There are several round devices mounted on the ceiling tiles. These are likely smoke detectors designed to monitor for the presence of smoke and initiate an alarm if necessary.  4. **Recessed Lighting**: The lighting fixtures are recessed into the ceiling tiles, providing even illumination throughout the space.  5. **Ventilation Openings**: There appears to be at least one opening on the left side that could be a ventilation grate for air circulation within the building.  6. **Ceiling Design**: The ceiling design is simple and functional, with no decorative elements or patterns.  The photo has a gray overlay which makes it less vibrant than if the original colors were visible. This could be due to the use of a color filter during post-processing or editing of the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037645"
+  },
+  "File Name": "145101_311.jpg",
+  "Create Date": "2024-05-11 14:51:02.311+02:00",
+  "Create Seconds Epoch": "1715446262.311",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
