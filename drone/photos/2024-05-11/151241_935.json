@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view in a building, likely a public facility given the presence of smoke detectors and a sprinkler system. There are several circular lights mounted on the ceiling. The floor is visible below and appears to be made of tiles or similar material, typical for commercial spaces. The walls surrounding this area are not fully visible, but they seem to be tiled as well, in keeping with the design aesthetic often used in such environments. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037753"
+  },
+  "File Name": "151241_935.jpg",
+  "Create Date": "2024-05-11 15:12:43.935+02:00",
+  "Create Seconds Epoch": "1715447563.935",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
