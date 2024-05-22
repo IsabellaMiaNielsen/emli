@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view from a low angle, likely taken with a camera looking up. The ceiling appears to be tiled or composed of panels, and there are several fixtures that resemble smoke detectors or emergency lighting units mounted at regular intervals across the expanse. The ceiling also seems to have some kind of insulation or soundproofing material covering it, which is common in architectural design for acoustics and thermal performance. The floor below the ceiling is not visible in the image. There are no visible texts or distinguishing marks on the fixtures that would provide additional context about their purpose or location. The overall aesthetic of the photograph suggests a clean and possibly industrial setting, characterized by a focus on functional design over aesthetic appeal. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037614"
+  },
+  "File Name": "144955_377.jpg",
+  "Create Date": "2024-05-11 14:49:56.377+02:00",
+  "Create Seconds Epoch": "1715446196.377",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
