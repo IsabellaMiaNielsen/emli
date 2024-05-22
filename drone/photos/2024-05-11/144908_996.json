@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling. The ceiling appears to have a grid-like design with white tiles, and there are several circular objects that could be light fixtures or sprinklers. There is a white object, possibly a fire sprinkler, in the center of the grid. In the lower right corner, there's a small section of wall with what looks like a fire extinguisher mounted on it. The image has a flat perspective and seems to be taken from below, looking up at the ceiling. There are no people or other significant details visible in this shot. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037589"
+  },
+  "File Name": "144908_996.jpg",
+  "Create Date": "2024-05-11 14:49:10.996+02:00",
+  "Create Seconds Epoch": "1715446150.996",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
