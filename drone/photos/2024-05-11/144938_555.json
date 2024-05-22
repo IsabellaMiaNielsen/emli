@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be a photograph taken from an upward angle inside what looks like the ceiling of a building. There are three circular objects visible, which could be light fixtures or other types of equipment mounted on the ceiling. The surfaces around these objects are metallic and reflective, suggesting that this may be a part of the building with exposed ceiling elements. The lighting in the room is bright, possibly due to artificial sources not visible in the photo. There is also an object in the middle of the image that looks like a globe or lamp, but it's too far away and out of focus to provide any specific details. The overall color scheme is neutral with a mix of gray and white tones. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037606"
+  },
+  "File Name": "144938_555.jpg",
+  "Create Date": "2024-05-11 14:49:39.555+02:00",
+  "Create Seconds Epoch": "1715446179.555",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
