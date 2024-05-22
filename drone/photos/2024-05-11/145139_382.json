@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with tiles that appear to be made of acoustic foam, which is often used in recording studios or spaces where sound absorption is desired. There are three circular objects on the ceiling: two circular recessed lighting fixtures and one object that looks like a fire sprinkler. The sprinkler is white and seems to be positioned between the lights. The floor appears to be tiled as well, though the specific details are not clear due to the angle of the photo. There's no text present in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037663"
+  },
+  "File Name": "145139_382.jpg",
+  "Create Date": "2024-05-11 14:51:40.382+02:00",
+  "Create Seconds Epoch": "1715446300.382",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
