@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling in what appears to be a public building or space, possibly a lobby or an area with high ceilings. There are several features visible:  1. A patterned ceiling that gives the impression of a starry sky, which is designed to look aesthetically pleasing and could be a decorative element. 2. Two small circular light fixtures are mounted on the ceiling. They are evenly spaced from each other, providing illumination in the area below them. 3. The ceiling material looks like metal or plastic panels, which are common in modern architectural designs for their durability and ease of maintenance. 4. The color scheme is neutral with a mix of gray and black tones, which gives a clean and contemporary feel to the space. 5. There's an object resembling a fire sprinkler installed on one side, which indicates that this area likely adheres to safety regulations for fire suppression systems. 6. The ceiling meets at right angles, suggesting that it's a grid-style structure designed for easy maintenance and access to lighting or other fixtures. 7. There are no visible texts, logos, or any additional decorative elements in this view. 8. The image has a watermark text 'YOUR COMPANY NAME' over the bottom part of the photo, which is likely a placeholder for branding if this were taken by a company's photographer. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037787"
+  },
+  "File Name": "153019_145.jpg",
+  "Create Date": "2024-05-11 15:30:20.145+02:00",
+  "Create Seconds Epoch": "1715448620.145",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "390"
+}
