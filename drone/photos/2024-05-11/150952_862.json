@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the interior of a building, likely a lobby or an open area within a commercial or institutional space. The ceiling appears to be made up of tiles, possibly for acoustic purposes. There are several circular recesses in the ceiling that could house lighting fixtures or other equipment. In the center of one of these recesses, there is a small, round object that might be a light fixture or a ventilation duct. The walls are not clearly visible due to the perspective and angle of the photo, but they seem to be plain with no visible decoration or branding. There are no people in the image, giving it an empty appearance. The lighting in the room is bright and even, suggesting that it might be daytime with natural light coming from above, through skylights or windows not visible in this photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037742"
+  },
+  "File Name": "150952_862.jpg",
+  "Create Date": "2024-05-11 15:09:54.862+02:00",
+  "Create Seconds Epoch": "1715447394.862",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
