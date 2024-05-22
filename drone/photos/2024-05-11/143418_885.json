@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely the ceiling of a building. There are three circular objects that resemble lights or fixtures mounted on the ceiling. The background is not detailed but appears to be a plain surface with some texture. The lighting in the room is dim, and the photograph has a grainy quality which suggests it may have been taken without proper lighting conditions or using a camera with low light performance capabilities. There are no visible texts or distinctive branding in the image, and there's nothing that indicates the specific location or context of the space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037272"
+  },
+  "File Name": "143418_885.jpg",
+  "Create Date": "2024-05-11 14:34:20.885+02:00",
+  "Create Seconds Epoch": "1715445260.885",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
