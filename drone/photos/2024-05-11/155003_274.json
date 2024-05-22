@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows the underside of a ceiling with tiles that appear to be designed for acoustic purposes, possibly to dampen sound. The tiles are arranged in a pattern that provides visual interest and likely enhances the acoustics. There is also a visible track lighting system installed on the ceiling. The flooring isn't fully visible, but there appears to be some kind of raised platform or stage area in the foreground. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037991"
+  },
+  "File Name": "155003_274.jpg",
+  "Create Date": "2024-05-11 15:50:04.274+02:00",
+  "Create Seconds Epoch": "1715449804.274",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
