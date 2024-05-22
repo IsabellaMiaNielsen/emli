@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with an acoustic panel design. There are several round, perforated panels, which are typically used to reduce noise in spaces such as offices or meeting rooms. The photo appears to be taken from the perspective of someone standing on the floor looking up at the ceiling, and the angle of the shot is slightly distorted due to the wide-angle lens often used for surveillance cameras. There are no visible texts or objects that give specific information about the location or context of the photo. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037196"
+  },
+  "File Name": "134702_325.jpg",
+  "Create Date": "2024-05-11 13:47:03.325+02:00",
+  "Create Seconds Epoch": "1715442423.325",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
