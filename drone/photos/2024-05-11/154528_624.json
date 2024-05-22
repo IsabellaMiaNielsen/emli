@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a photograph of an interior ceiling, showing a pattern of perforations that might be part of a ventilation system. The ceiling is predominantly gray with circular holes in a symmetrical arrangement. There are no visible objects on the surface of the ceiling, and the lighting seems evenly distributed across the scene. If there's something specific you're curious about or need information on, please let me know! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037889"
+  },
+  "File Name": "154528_624.jpg",
+  "Create Date": "2024-05-11 15:45:30.624+02:00",
+  "Create Seconds Epoch": "1715449530.624",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "318"
+}
