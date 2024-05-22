@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from a top-down perspective of a ceiling. It shows a patterned design that could be a part of the flooring or a decorative element. There are four circular objects, which might be lights or fire sprinklers. The image is quite blurry and lacks detail, making it difficult to provide specific information about the items. If you have any questions or need more details, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037701"
+  },
+  "File Name": "145342_486.jpg",
+  "Create Date": "2024-05-11 14:53:44.486+02:00",
+  "Create Seconds Epoch": "1715446424.486",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
