@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken with a camera that is not level, as indicated by the orientation of the photo. It shows an interior space that looks like a ceiling view from inside a building, possibly an office or a public space. There are several ceiling tiles visible and what seems to be a light fixture in the upper right corner. The image is slightly blurry and has a low resolution, which makes it difficult to discern more details about the room or any activities happening there. If you have specific questions about the image or if you need assistance with something else, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038191"
+  },
+  "File Name": "155311_896.jpg",
+  "Create Date": "2024-05-11 15:53:13.896+02:00",
+  "Create Seconds Epoch": "1715449993.896",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
