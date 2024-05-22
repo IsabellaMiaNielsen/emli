@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with several circular light fixtures installed on it. The lights appear to be off or not in use at the time the photo was taken. The tiles on the ceiling are white, and there is a patterned design on one of them. Below the ceiling, part of what looks like a metal structure or ductwork is visible, indicating that this could be an industrial or institutional setting such as a building with open floor plans often seen in offices or labs. The image has a neutral tone with muted colors. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037518"
+  },
+  "File Name": "144649_056.jpg",
+  "Create Date": "2024-05-11 14:46:50.056+02:00",
+  "Create Seconds Epoch": "1715446010.056",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
