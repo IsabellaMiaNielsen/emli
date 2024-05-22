@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with several exposed mechanical or plumbing pipes and ducts. The pipes are arranged in a grid pattern and have a metallic appearance, possibly indicating insulation or structural elements. The ceiling itself is gray, and there is a noticeable shadow cast on it, suggesting the presence of a light source out of frame. The floor appears to be made of tiles, and the overall setting seems to be an industrial or utilitarian space, potentially under a larger structure such as a building or bridge. There are no visible texts or distinctive features that provide specific information about the location or context of this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037724"
+  },
+  "File Name": "150504_479.jpg",
+  "Create Date": "2024-05-11 15:05:05.479+02:00",
+  "Create Seconds Epoch": "1715447105.479",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
