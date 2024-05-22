@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view, likely from a camera mounted on the ceiling of a building. The view is angled slightly downwards, and it captures a section of a ceiling with acoustic tiles. The tiles have small perforations throughout them for sound absorption. There are three visible circular objects, which could be vents or access points for wiring or insulation. In the bottom right corner of the image, there is a watermark that reads 'RAMJIAN MUKERJI,' which suggests the photo may have been taken by Ramjian Mukerji or is associated with him. The style of the image seems to be a real-life photograph rather than a digital rendering or illustration. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037776"
+  },
+  "File Name": "152504_933.jpg",
+  "Create Date": "2024-05-11 15:25:06.933+02:00",
+  "Create Seconds Epoch": "1715448306.933",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
