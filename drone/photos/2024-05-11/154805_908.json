@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided shows an upside-down perspective of a person taking a photo. It appears as if the person is standing on the ceiling with their head facing downwards, holding a camera. They are wearing a red cap and have a beard. The floor, which would be the ceiling in this viewpoint, has grid-like patterns, and there's a vent or air duct visible. The lighting suggests it could be an indoor space, possibly a room with good natural light, as evidenced by the small spots on the ceiling that resemble sunlight. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037908"
+  },
+  "File Name": "154805_908.jpg",
+  "Create Date": "2024-05-11 15:48:07.908+02:00",
+  "Create Seconds Epoch": "1715449687.908",
+  "Trigger": "Motion",
+  "Subject Distance": "0.6300231814 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
