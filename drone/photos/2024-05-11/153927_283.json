@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view from above, likely taken by a drone or from a high angle. The perspective is that of looking down at the ceiling of a building. The ceiling features a pattern of circular metal elements, possibly panels or vents, in two shades of gray and a lighter one, which could be indicative of an architectural design for soundproofing, heat distribution, or aesthetic purposes.  There are three circular objects visible: one larger circular object and two smaller ones. They could be lighting fixtures, ventilation units, or decorative elements. The larger central object is positioned in the middle of the pattern.  The flooring appears to be a light-colored material, which contrasts with the darker ceiling elements. There are no visible texts or distinguishing marks that provide specific information about the location or purpose of this space. The style of the image suggests it could have been taken for architectural documentation or inspection purposes. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037873"
+  },
+  "File Name": "153927_283.jpg",
+  "Create Date": "2024-05-11 15:39:28.283+02:00",
+  "Create Seconds Epoch": "1715449168.283",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "334"
+}
