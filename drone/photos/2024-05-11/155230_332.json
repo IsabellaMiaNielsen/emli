@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be a composite of two photographs. In the top half, there is a photograph of a person taking a selfie. They are wearing a black baseball cap and a dark-colored t-shirt with a graphic or text on it, which is not visible in this description. The person seems to be inside a building with a ceiling that has some sort of mesh or paneling.  The bottom half of the image contains a plain gray surface without any discernible features or objects. There are no texts or other distinguishing marks that would provide further context about the location or purpose of the photo. The style of the image is digital, possibly created using an editing program to combine the two photographs into a single frame. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038160"
+  },
+  "File Name": "155230_332.jpg",
+  "Create Date": "2024-05-11 15:52:31.332+02:00",
+  "Create Seconds Epoch": "1715449951.332",
+  "Trigger": "Motion",
+  "Subject Distance": "0.4600385427 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
