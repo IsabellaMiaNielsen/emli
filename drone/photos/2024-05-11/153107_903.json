@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view. The ceiling is composed of large rectangular tiles, each containing a pattern that resembles a honeycomb structure. These tiles are mounted on what appears to be a metallic frame or grid system, creating a geometric pattern across the ceiling. The photo seems to have been taken in a space with an industrial or architectural aesthetic, possibly a warehouse, manufacturing facility, or a large room within a commercial building. The angle of the shot gives a sense of looking upwards from a lower vantage point, providing a unique perspective of the ceiling's design and construction. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037807"
+  },
+  "File Name": "153107_903.jpg",
+  "Create Date": "2024-05-11 15:31:09.903+02:00",
+  "Create Seconds Epoch": "1715448669.903",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "387"
+}
