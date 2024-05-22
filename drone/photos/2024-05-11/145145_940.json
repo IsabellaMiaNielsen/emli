@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor environment with a view from above. There are three circular fixtures on the ceiling, which could be lights or ventilation ducts. These fixtures appear to be evenly spaced along what seems to be a long wall or partition. The ceiling itself is made of panels that look like they might be metal or plastic, and there's no visible pattern on them. The lighting in the room suggests it might be daytime due to the brightness coming through the windows not visible in the image. There's also a slight reflection or glare in the lower part of the photo, which could be from sunlight entering through the windows. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037668"
+  },
+  "File Name": "145145_940.jpg",
+  "Create Date": "2024-05-11 14:51:47.940+02:00",
+  "Create Seconds Epoch": "1715446307.940",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
