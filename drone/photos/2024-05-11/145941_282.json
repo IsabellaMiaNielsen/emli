@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is an image showing a ceiling with several white circular objects. The photo appears to be taken from below, looking upwards towards the ceiling tiles. The lighting in the room is artificial, and the ceiling has a grid pattern of metal panels. There's a slight distortion at the bottom of the image, indicating it was likely taken with a wide-angle lens or panoramic camera. No people are visible in the photo, focusing solely on the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037718"
+  },
+  "File Name": "145941_282.jpg",
+  "Create Date": "2024-05-11 14:59:42.282+02:00",
+  "Create Seconds Epoch": "1715446782.282",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
