@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling of a room with an open grid or panel design, possibly indicating that it is not yet complete or has been intentionally exposed for some reason. There are circular elements on the grid, which might be lights or other fixtures, and no visible decorations or branding. In the foreground, there appears to be a reflection of what seems to be a ceiling-mounted camera or surveillance device. The image is taken at an angle that provides a view of the ceiling's structure without showing its entirety. There are no people or distinct objects within the frame. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037884"
+  },
+  "File Name": "154504_002.jpg",
+  "Create Date": "2024-05-11 15:45:05.002+02:00",
+  "Create Seconds Epoch": "1715449505.002",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "313"
+}
