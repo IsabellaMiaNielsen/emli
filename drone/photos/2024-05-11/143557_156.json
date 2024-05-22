@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior ceiling view from a slightly elevated angle. The ceiling appears to be a grid-like pattern with circular light fixtures positioned at regular intervals. There is no visible text or distinctive brands in the image, and it looks like a standard architectural feature of a modern building, possibly a public facility given the ceiling design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037428"
+  },
+  "File Name": "143557_156.jpg",
+  "Create Date": "2024-05-11 14:35:58.156+02:00",
+  "Create Seconds Epoch": "1715445358.156",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
