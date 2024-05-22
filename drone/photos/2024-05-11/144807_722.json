@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a view from above, looking down at what appears to be the underside of a ceiling. The ceiling is tiled with grey tiles and has several circular light fixtures. These lights are mounted on the ceiling's structure, which seems to be made of a metal framework. There are no visible people or objects in this perspective. The image is slightly blurred, suggesting it might have been taken from a moving vehicle or with an unsteady camera. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037558"
+  },
+  "File Name": "144807_722.jpg",
+  "Create Date": "2024-05-11 14:48:09.722+02:00",
+  "Create Seconds Epoch": "1715446089.722",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
