@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling with a patterned tile design. The ceiling appears to be in a building, possibly a public space or a large room, based on the openness and the visible ceiling tiles. There are no people or other objects in the frame that would provide additional context about the location or purpose of this area. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037796"
+  },
+  "File Name": "153055_271.jpg",
+  "Create Date": "2024-05-11 15:30:56.271+02:00",
+  "Create Seconds Epoch": "1715448656.271",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "390"
+}
