@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a section of a ceiling with a patterned tile design. There are four circular light fixtures installed at different heights and positions within the area pictured. The ceiling appears to be made up of square tiles, each bordered by a darker square frame. The overall tone of the image is neutral, with muted colors that give it an industrial or utilitarian look. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037400"
+  },
+  "File Name": "143549_826.jpg",
+  "Create Date": "2024-05-11 14:35:51.826+02:00",
+  "Create Seconds Epoch": "1715445351.826",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
