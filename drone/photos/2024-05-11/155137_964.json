@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a person taking a selfie in what appears to be an interior space with white tiles. They are looking up at the camera, and their reflection is visible on the ceiling. The individual is wearing a dark top and a cap, and there's a blue light on the ceiling above them. The background is nondescript and does not provide any specific details about the location. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038083"
+  },
+  "File Name": "155137_964.jpg",
+  "Create Date": "2024-05-11 15:51:38.964+02:00",
+  "Create Seconds Epoch": "1715449898.964",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
