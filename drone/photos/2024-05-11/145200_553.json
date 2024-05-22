@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows a view from above, looking down onto a patterned floor that resembles the bottom of a boat. The perspective suggests the photo was taken from a vantage point within an architectural structure, possibly a building or a transportation vehicle like a bus or train.  On the ceiling, there are circular objects that appear to be fixtures, and they have domed tops, which could indicate some sort of lighting or ventilation system. The floor is divided into geometric shapes with what looks like a metallic pattern, adding an interesting visual element to the space.  The walls in the foreground are tiled, and there's a sense of symmetry due to the repeated patterns on both the floor and ceiling. There are no texts or identifiable brands visible in this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037673"
+  },
+  "File Name": "145200_553.jpg",
+  "Create Date": "2024-05-11 14:52:01.553+02:00",
+  "Create Seconds Epoch": "1715446321.553",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
