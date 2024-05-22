@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a high ceiling that features a grid-like pattern, possibly indicating the support structure for the ceiling. The ceiling is covered by what appears to be metal panels. In the foreground, there are circular objects which could be light fixtures or some other type of ceiling feature. There are no people visible in the image. The lighting in the space creates a soft, diffused illumination on the ceiling. The photo is taken from an angle that provides a view looking up towards the ceiling, and it has been edited to include a watermark or overlay with text, which obscures the view of the ceiling itself. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037276"
+  },
+  "File Name": "143429_300.jpg",
+  "Create Date": "2024-05-11 14:34:30.300+02:00",
+  "Create Seconds Epoch": "1715445270.300",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
