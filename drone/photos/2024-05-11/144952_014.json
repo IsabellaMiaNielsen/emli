@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image appears to be taken from a perspective directly above the ceiling of an indoor space. The ceiling is tiled and features what looks like recessed lighting fixtures scattered across its surface. In the lower part of the image, there are objects that look like fire sprinklers, which suggests this could be a room designed for safety or where water supply is crucial. There is also a circular object that resembles a smoke detector, indicating a concern for fire safety in this area. The walls surrounding the ceiling are not clearly visible due to the angle of the shot, but they seem to be a uniform color, possibly white or light gray. The overall impression is of an industrial or institutional setting with attention given to safety and cleanliness. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037612"
+  },
+  "File Name": "144952_014.jpg",
+  "Create Date": "2024-05-11 14:49:53.014+02:00",
+  "Create Seconds Epoch": "1715446193.014",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
