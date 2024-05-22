@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling in a room with tiled walls. The ceiling appears to have three circular light fixtures evenly spaced, and the tiles are a neutral color, possibly gray or silver. There is no visible text or branding, and no people or moving objects are present. The style of the image suggests it might be used for architectural purposes, perhaps in a catalog or promotional material showcasing ceiling design options. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037569"
+  },
+  "File Name": "144827_995.jpg",
+  "Create Date": "2024-05-11 14:48:29.995+02:00",
+  "Create Seconds Epoch": "1715446109.995",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
