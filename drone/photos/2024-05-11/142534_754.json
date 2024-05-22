@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be an aerial view of a ceiling, possibly from a drone or similar technology. The ceiling looks like it could be the interior of a building, likely a public space given the presence of what appears to be a light fixture and possibly some speakers or other ceiling-mounted equipment. There are several circular elements on the ceiling, which might be ventilation ducts or recessed lighting fixtures. The photo is taken from an angle that provides a clear view of the underside of the structure. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037240"
+  },
+  "File Name": "142534_754.jpg",
+  "Create Date": "2024-05-11 14:25:36.754+02:00",
+  "Create Seconds Epoch": "1715444736.754",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
