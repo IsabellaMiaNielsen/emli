@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be a photograph of an interior space, possibly the ceiling of a building. There is a grid pattern that covers a significant portion of the ceiling, and the color of this material seems to be grey or white. On the right side of the photo, there are three circular objects mounted on the ceiling; they could be lights, speakers, or other types of fixtures. The lighting in the room is dim, and there appears to be a door or an opening on the far left side, suggesting that this space might have multiple levels or rooms above it. There's no text visible in the image to provide additional context about the location or purpose of this ceiling design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037564"
+  },
+  "File Name": "144819_434.jpg",
+  "Create Date": "2024-05-11 14:48:21.434+02:00",
+  "Create Seconds Epoch": "1715446101.434",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
