@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to show a close-up view of a ceiling with a tiled design. There are two visible fire sprinklers, one near the top left and another slightly below it in the center. The tiles seem to be rectangular, arranged in a grid pattern, and they have a uniform color that could be white or light grey. The image is taken from an angle where part of the ceiling is obscured by a beam or support structure. There are no visible texts, brands, or any distinguishing features that would allow for identification of the place or its purpose. The style of the image suggests it may have been taken with a camera phone due to the distortion and cropping which indicates a wide-angle lens was used during capture. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037536"
+  },
+  "File Name": "144730_726.jpg",
+  "Create Date": "2024-05-11 14:47:32.726+02:00",
+  "Create Seconds Epoch": "1715446052.726",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
