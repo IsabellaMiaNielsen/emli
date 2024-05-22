@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with multiple tiles. There is one prominent white tile in the center of the image, and it appears to have a light fixture attached to it. The surrounding tiles are metallic and may be made of metal or covered with a metallic material. The space seems to be part of a larger building with open ceilings, as suggested by the edge of the ceiling that is visible in the bottom left corner. There are no people or distinct features that allow for more context about the location or purpose of the room. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037189"
+  },
+  "File Name": "134219_034.jpg",
+  "Create Date": "2024-05-11 13:42:20.034+02:00",
+  "Create Seconds Epoch": "1715442140.034",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "400"
+}
