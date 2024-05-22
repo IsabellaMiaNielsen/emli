@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an overhead view of a ceiling in what appears to be a public or commercial building. The ceiling is tiled and has several circular fixtures that are likely lighting units. There are two prominent lights in the center, which are illuminated, while the surrounding areas have diffused lighting coming from these central units. The color scheme of the ceiling is primarily gray with white tiles, and it seems to be a modern, possibly contemporary design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037963"
+  },
+  "File Name": "154929_261.jpg",
+  "Create Date": "2024-05-11 15:49:30.261+02:00",
+  "Create Seconds Epoch": "1715449770.261",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
