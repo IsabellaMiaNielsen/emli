@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from a camera angle looking up into a ceiling. The ceiling is covered with metal panels, and there are circular objects that could potentially be lights or ventilation openings. There are no people or distinct objects in the frame, and the focus seems to be on the ceiling itself. The lighting in the image is diffused, suggesting an indoor environment with artificial lighting. The perspective and angle might suggest it's taken from a lower position, perhaps looking up into the ceiling for inspection or maintenance purposes. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037566"
+  },
+  "File Name": "144824_591.jpg",
+  "Create Date": "2024-05-11 14:48:26.591+02:00",
+  "Create Seconds Epoch": "1715446106.591",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
