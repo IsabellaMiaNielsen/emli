@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with an acoustic design featuring what appears to be perforated tiles and some circular elements that could be lights or speakers. Below the ceiling, there's a gray floor, and in the foreground, partially obscuring the bottom part of the photo, is a person who seems to be taking a picture. The perspective suggests that the camera is held at an upward angle towards the ceiling, giving the impression that the ceiling is closer than it actually is. There are no visible texts or distinctive brands in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037186"
+  },
+  "File Name": "134001_333.jpg",
+  "Create Date": "2024-05-11 13:40:02.333+02:00",
+  "Create Seconds Epoch": "1715442002.333",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "392"
+}
