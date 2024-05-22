@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor setting, possibly a ceiling of a building. There are several distinct elements:  1. A patterned acoustic tile ceiling that provides sound dampening properties. 2. An open area with exposed structural beams, suggesting the area may be under construction or in the process of being renovated. 3. A light fixture is mounted on one of the beams, providing illumination to the space below. 4. Two fire sprinklers are visible on the ceiling, indicating a focus on safety measures in this building. 5. There appears to be a small white object, possibly an air conditioning unit or some other piece of equipment, located on one side of the room. 6. The overall color scheme is neutral with shades of gray dominating the scene. 7. A person can be seen in the background, though their identity or activity are not clear from this angle.  The image does not provide any context as to what the building is used for, and there are no visible texts or markings that could provide additional information. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037823"
+  },
+  "File Name": "153542_215.jpg",
+  "Create Date": "2024-05-11 15:35:43.215+02:00",
+  "Create Seconds Epoch": "1715448943.215",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "339"
+}
