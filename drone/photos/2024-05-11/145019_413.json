@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be taken from an aerial or surveillance camera, given the wide-angle lens effect and the perspective from above. It shows the underside of what looks like a ceiling in an indoor space, likely a commercial building or shopping center. There are no visible people or activities, making it difficult to provide context or information about the location or the purpose of the space. The ceiling is made up of tiles that could be for thermal insulation, acoustic dampening, or aesthetic purposes. There are also several circular light fixtures embedded in the tiles, which are commonly used for ambient lighting in such spaces. The photo quality is relatively low, with visible pixelation, suggesting it may have been taken with a lower-quality camera or there might be image stabilization issues. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037626"
+  },
+  "File Name": "145019_413.jpg",
+  "Create Date": "2024-05-11 14:50:20.413+02:00",
+  "Create Seconds Epoch": "1715446220.413",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
