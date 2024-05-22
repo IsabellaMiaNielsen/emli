@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with several panels, which appear to be part of the ceiling's design or structure. There are no visible occupants in this particular area of the space. The ceiling is composed of what looks like metal panels interspersed with white tiles. Below these tiles and panels, there is a section of a wall that is grey in color. There are two small lights, possibly indicating fixtures or emergency lighting, mounted to the ceiling within this paneled area. The style of the image suggests it may have been taken from an angle or at a distance due to the perspective distortion, making the image seem slightly bent or warped. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037826"
+  },
+  "File Name": "153549_471.jpg",
+  "Create Date": "2024-05-11 15:35:50.471+02:00",
+  "Create Seconds Epoch": "1715448950.471",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "340"
+}
