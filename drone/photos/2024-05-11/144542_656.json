@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor ceiling with a series of white acoustic panels. These panels are commonly used to absorb sound in spaces like offices, conference rooms, or recording studios. They appear to be arranged in a pattern that covers the entire ceiling. Between these panels, there is visible ceiling structure and what seems to be a ductwork system or some form of pipe running along the underside of the tiles. The image is taken from an angle where part of the wall is visible on the left side. There are no people or identifiable objects in the frame that provide additional context about the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037497"
+  },
+  "File Name": "144542_656.jpg",
+  "Create Date": "2024-05-11 14:45:44.656+02:00",
+  "Create Seconds Epoch": "1715445944.656",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
