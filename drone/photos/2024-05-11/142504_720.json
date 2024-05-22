@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image is taken from a low angle looking up towards the ceiling. There is a patterned tile ceiling with a few tiles missing, revealing the structure beneath. There are circular objects on the ceiling that appear to be lights or light fixtures, and they are spaced out across the expanse of the ceiling. The lighting in the room suggests an indoor setting with artificial lighting. The image has a low resolution, which makes it difficult to discern finer details. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037232"
+  },
+  "File Name": "142504_720.jpg",
+  "Create Date": "2024-05-11 14:25:06.720+02:00",
+  "Create Seconds Epoch": "1715444706.720",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
