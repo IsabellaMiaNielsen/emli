@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from a very high angle looking down at the ceiling of what seems to be an interior space. The ceiling is covered with square tiles that give it a grid-like appearance, and there are three circular objects embedded in the tiles. These circular objects could be lights or speakers based on their shape and positioning, but it's not entirely clear from this angle. There are also some lines or cracks running horizontally across the tiles, which might suggest that this is a ceiling designed for a public space, possibly a lobby or an atrium, due to the open design. However, without more context or a wider view of the surroundings, it's difficult to provide a precise description of the location or its purpose. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037264"
+  },
+  "File Name": "143213_524.jpg",
+  "Create Date": "2024-05-11 14:32:14.524+02:00",
+  "Create Seconds Epoch": "1715445134.524",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
