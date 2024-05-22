@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be taken from a high angle looking down at the ceiling of an interior space. The ceiling has some light fixtures, and there are what seem to be circular objects, possibly lights or decorative elements, arranged in a pattern. Below the ceiling, there is a row of vents or air ducts along the wall. However, due to the angle and resolution of the image, it's difficult to discern any specific details about the space itself. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037602"
+  },
+  "File Name": "144928_052.jpg",
+  "Create Date": "2024-05-11 14:49:29.052+02:00",
+  "Create Seconds Epoch": "1715446169.052",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
