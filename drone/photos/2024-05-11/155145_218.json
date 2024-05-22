@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a person taking a selfie. The individual is standing in front of a ceiling with tiles, and the background appears to be an interior space with a low ceiling. There are several circular light fixtures on the ceiling. The person is wearing casual clothing and a cap, with one hand holding the camera. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038090"
+  },
+  "File Name": "155145_218.jpg",
+  "Create Date": "2024-05-11 15:51:46.218+02:00",
+  "Create Seconds Epoch": "1715449906.218",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
