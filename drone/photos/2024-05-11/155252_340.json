@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with several circular elements. It appears to be an industrial or architectural setting, possibly inside a building with an exposed ceiling structure. There are no visible texts or distinguishing marks that indicate the location or function of the space. The photo is taken from below and offers a perspective of the ceiling's design or construction. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038179"
+  },
+  "File Name": "155252_340.jpg",
+  "Create Date": "2024-05-11 15:52:53.340+02:00",
+  "Create Seconds Epoch": "1715449973.340",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
