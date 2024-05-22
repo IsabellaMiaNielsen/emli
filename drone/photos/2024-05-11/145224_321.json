@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor ceiling with a series of circular fixtures that appear to be lighting or some form of recessed installation. There is also what looks like a round, possibly reflective object in the center, which might be a light source, a ventilation unit, or another type of ceiling fixture. The ceiling has a grid-like pattern and seems to be made of metal or a composite material. On the right side of the image, there's a small portion of what looks like a white wall or partition, suggesting that this photo may have been taken in a commercial or institutional setting, such as an office or a large public space. The angle of the photo is from below, looking up towards the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037685"
+  },
+  "File Name": "145224_321.jpg",
+  "Create Date": "2024-05-11 14:52:25.321+02:00",
+  "Create Seconds Epoch": "1715446345.321",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
