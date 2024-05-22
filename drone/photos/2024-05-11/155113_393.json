@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a ceiling featuring various elements. There are circular lights, some of which appear to be off, and other items that may be acoustic panels or equipment hangers. The ceiling is grayish-white in color, suggesting it could be a tiled surface, possibly a suspended ceiling common in commercial buildings. Below the ceiling, there's a patterned floor that seems to have a geometric design. There are no visible texts or distinctive markings on the image that provide context about the location or purpose of the space. The photo is taken from a low angle and appears to be taken at night, as indicated by the darkness surrounding the interior. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038069"
+  },
+  "File Name": "155113_393.jpg",
+  "Create Date": "2024-05-11 15:51:14.393+02:00",
+  "Create Seconds Epoch": "1715449874.393",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
