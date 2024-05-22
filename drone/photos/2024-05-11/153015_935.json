@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with a patterned metal design. There is a light fixture in the center, and above it, there are two circular objects that appear to be air vents or diffusers. The background features what looks like a dark wall surface, and the photo appears to have been taken at an angle from below as the ceiling is shown. The lighting in the room is artificial, and the color scheme includes shades of gray and white, contributing to a modern and industrial aesthetic. There are no visible texts or distinctive marks that provide additional context about the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037784"
+  },
+  "File Name": "153015_935.jpg",
+  "Create Date": "2024-05-11 15:30:17.935+02:00",
+  "Create Seconds Epoch": "1715448617.935",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "392"
+}
