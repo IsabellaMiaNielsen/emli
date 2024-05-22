@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided shows a ceiling with a series of circular elements that appear to be lights or ceiling fixtures. These fixtures are arranged in a pattern, possibly for even illumination across the area they cover. In the center, there is one fixture that differs from the others, which may suggest it serves a different purpose, such as an emergency light. The background is neutral and indistinct, making it difficult to determine what kind of space this is, but the ceiling structure looks like it could be part of a commercial or public building due to its grid-like pattern and uniform design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037860"
+  },
+  "File Name": "153853_045.jpg",
+  "Create Date": "2024-05-11 15:38:54.045+02:00",
+  "Create Seconds Epoch": "1715449134.045",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "340"
+}
