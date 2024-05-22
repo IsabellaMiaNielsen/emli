@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided shows an interior ceiling of a building. The ceiling is made up of metal panels with perforations, which is a common material for ceiling tiles due to its durability and acoustic properties. There are no visible lights or light fixtures within the frame, suggesting that this might be a low-light area or perhaps it's daytime and the lighting is off or minimal. The ceiling also appears to have some sort of fire sprinkler system or emergency lighting equipment mounted on it. There is a small white object hanging from one of the metal panels, but its purpose is not clear from the image.  The floor in this area is visible as well, and it seems to be made up of larger tiles, possibly ceramic or stone, with a pattern that is consistent across the flooring. The overall impression is that of an institutional or commercial building, such as a library or office space, given the uniformity of the ceiling panels and the simple design of the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037839"
+  },
+  "File Name": "153646_360.jpg",
+  "Create Date": "2024-05-11 15:36:47.360+02:00",
+  "Create Seconds Epoch": "1715449007.360",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "335"
+}
