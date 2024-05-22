@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a ceiling that has multiple circular openings. These openings are likely part of an air conditioning or ventilation system. There's also a visible light fixture in one of the openings. The walls are tiled, and there is a dark floor surface that appears to be metal. On the left side of the image, there is an object with a round shape and what seems to be a protruding part or handle, which could be some kind of mechanical component or a piece of equipment related to ventilation or air conditioning. The overall setting suggests a technical or industrial environment, possibly a server room or a space with specialized equipment. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037595"
+  },
+  "File Name": "144918_504.jpg",
+  "Create Date": "2024-05-11 14:49:19.504+02:00",
+  "Create Seconds Epoch": "1715446159.504",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
