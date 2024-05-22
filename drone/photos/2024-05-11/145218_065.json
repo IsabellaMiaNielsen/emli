@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space with a ceiling that appears to be made of metal or similar material. There are three round objects visible on the ceiling: two circular lights and one circular object that could be a light or some other kind of fixture, but it's not clear from this angle. The color palette is muted, consisting mainly of gray and white tones, with the exception of the round yellowish-orange object which stands out against the ceiling background. There are no visible texts or distinctive branding that can be identified in the image. The style of the photo seems to be taken from a low angle looking up towards the ceiling, giving a perspective view of the space above. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037680"
+  },
+  "File Name": "145218_065.jpg",
+  "Create Date": "2024-05-11 14:52:19.065+02:00",
+  "Create Seconds Epoch": "1715446339.065",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
