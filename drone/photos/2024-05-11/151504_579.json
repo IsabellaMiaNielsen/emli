@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to show the interior of a room with a ceiling that has multiple panels. There are some circular objects, which might be lights or ceiling tiles, attached to the surface of the ceiling. However, due to the image quality and perspective, it's challenging to provide more detailed information about the room. If you have any specific questions about the features visible in the image, please feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037759"
+  },
+  "File Name": "151504_579.jpg",
+  "Create Date": "2024-05-11 15:15:05.579+02:00",
+  "Create Seconds Epoch": "1715447705.579",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
