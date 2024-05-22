@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be an interior view of a ceiling, likely from an elevated perspective such as standing or sitting on a high floor. The ceiling is tiled with what looks like tiles designed for acoustic absorption or insulation. There are three circular light fixtures visible; these might serve as downlights or spotlights in the room they're part of.  The photo seems to be taken from an angle where the focus is on the ceiling, and there's a shadow cast across the image, possibly by another object or light source out of frame. The lighting in the room is diffused, suggesting it might be a cloudy day or the room has soft light sources.  The photo is not high-resolution, so details about the specific environment (whether it's an office, home, or another type of building) are not clear. If you need more information based on this image, please provide additional context or clarify your question. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037582"
+  },
+  "File Name": "144855_093.jpg",
+  "Create Date": "2024-05-11 14:48:56.093+02:00",
+  "Create Seconds Epoch": "1715446136.093",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
