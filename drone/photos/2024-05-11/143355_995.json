@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided appears to be of a ceiling in an interior space. It features what looks like a metal or fiberglass panel with a grid-like pattern, possibly part of a false ceiling system for acoustic purposes or to conceal services such as wiring or pipes. There are two visible round objects, which could be circular lights or fixtures, mounted within the panels. The color palette is neutral with gray tones dominating the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037266"
+  },
+  "File Name": "143355_995.jpg",
+  "Create Date": "2024-05-11 14:33:57.995+02:00",
+  "Create Seconds Epoch": "1715445237.995",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
