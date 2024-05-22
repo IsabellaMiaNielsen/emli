@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a room with a ceiling that appears to be made of panels or tiles, possibly in a modern building or architectural space. There are three fire sprinklers visible on the ceiling, which are typically found for fire safety purposes. Each sprinkler is designed to release water in case of a fire emergency. The room has white walls and a gray floor, and there's an open door leading to another area. The lighting in the room is artificial, with lights installed on the ceiling, providing illumination throughout the space. There are no people or other significant objects visible in this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037624"
+  },
+  "File Name": "145016_281.jpg",
+  "Create Date": "2024-05-11 14:50:17.281+02:00",
+  "Create Seconds Epoch": "1715446217.281",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
