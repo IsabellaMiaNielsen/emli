@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to show an interior view of a ceiling with acoustic tiles, which are used to absorb sound in rooms such as offices or conference halls. These tiles typically have small holes or perforations that allow for airflow and improved sound absorption. There is also what looks like a small circular light fixture on the left side of the image, likely providing localized lighting for the space. The bottom right corner shows part of a wall with an object hanging on it, but the image is cropped and does not provide enough context to determine its purpose or type. The overall color scheme consists of shades of grey, which might suggest a professional or neutral environment commonly found in corporate or institutional buildings. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037768"
+  },
+  "File Name": "152004_717.jpg",
+  "Create Date": "2024-05-11 15:20:06.717+02:00",
+  "Create Seconds Epoch": "1715448006.717",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
