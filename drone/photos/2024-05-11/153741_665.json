@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image appears to show the underside of a ceiling with a pattern that might be intended for insulation or acoustic purposes. There are circular elements, possibly sound-dampening panels or part of a design feature, which are spaced evenly across the surface. The ceiling also has what looks like a central circular fixture, and there is a small object on one of the panels. The lighting in the photo seems to be coming from below, casting shadows that suggest the presence of another layer or structure directly beneath this viewpoint. There's no text present in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037845"
+  },
+  "File Name": "153741_665.jpg",
+  "Create Date": "2024-05-11 15:37:43.665+02:00",
+  "Create Seconds Epoch": "1715449063.665",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "339"
+}
