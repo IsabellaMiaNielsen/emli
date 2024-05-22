@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image on the left shows a blurry scene, which appears to be taken with a phone camera. The focus is out of order, causing the central subject and the person's hands in the foreground to be slightly blurred while the background is more sharply defined.  In the blurred foreground, there's a hand holding what looks like a smartphone or tablet device, possibly capturing the image of the ceiling. The central focus is on the ceiling, which has circular patterns, suggesting it might be a part of an architectural structure, such as a building.  The right image shows a clearer view of the same scene. The focus is now sharp, allowing us to see that the hand in the foreground belongs to someone who appears to be standing or sitting at a table with their back to the camera, looking at a device on the table. The person is wearing a jacket and the lighting suggests an indoor environment. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038033"
+  },
+  "File Name": "155036_958.jpg",
+  "Create Date": "2024-05-11 15:50:38.958+02:00",
+  "Create Seconds Epoch": "1715449838.958",
+  "Trigger": "Motion",
+  "Subject Distance": "0.6420029402 m",
+  "Exposure Time": "1/12",
+  "ISO": "400"
+}
