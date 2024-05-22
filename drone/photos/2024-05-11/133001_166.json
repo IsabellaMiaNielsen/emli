@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've shared appears to be a photograph of an interior space, likely part of a building. It shows a ceiling with a patterned in tiles or panels, which could be the underside of a roof or a false ceiling that might cover up pipes or ducts. There are circular elements that might be lighting fixtures or smoke detectors, although they're too far away to discern specific details. The walls seem to have some form of paneling, and there's a visible air-conditioning unit on the left side of the image. The photo is taken from a perspective that captures the ceiling and part of the wall structure, giving a sense of what might be an industrial or institutional building such as a school, library, or office space. There are no people visible in the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037179"
+  },
+  "File Name": "133001_166.jpg",
+  "Create Date": "2024-05-11 13:30:02.166+02:00",
+  "Create Seconds Epoch": "1715441402.166",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "380"
+}
