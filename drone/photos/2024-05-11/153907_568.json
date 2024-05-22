@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a close-up view of a ceiling with various elements. There is a patterned metal ceiling that appears to be acoustic, designed to dampen sound reverberations within the space. On the ceiling, there are circular light fixtures, which look modern and possibly recessed into the ceiling. Additionally, there are what appear to be round ceiling speakers or lighting elements, one of which is illuminated from below, creating a small spotlight effect on the ceiling.  The image has been edited with a gray gradient filter applied over the entire photo, giving it a faded, washed-out appearance. This filter effect reduces the contrast between lighter and darker areas, making it difficult to discern specific details of the ceiling's design or materials. The overall impression is that of a neutral, industrial aesthetic. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037865"
+  },
+  "File Name": "153907_568.jpg",
+  "Create Date": "2024-05-11 15:39:08.568+02:00",
+  "Create Seconds Epoch": "1715449148.568",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "342"
+}
