@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, possibly from an architectural or engineering perspective. It features a series of structural ribs forming a pattern that covers the entire ceiling surface. Two circular objects are embedded in the ceiling at different points: one near the center and the other towards the top right corner. The ceiling appears to be a composite material with a textured finish, which could suggest it's designed for sound absorption or insulation. The lighting in the room casts shadows on the ceiling, indicating a light source located above the field of view. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037802"
+  },
+  "File Name": "153101_532.jpg",
+  "Create Date": "2024-05-11 15:31:02.532+02:00",
+  "Create Seconds Epoch": "1715448662.532",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "387"
+}
