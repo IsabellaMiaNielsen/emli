@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is a bit blurry, but it appears to show an interior ceiling with some kind of pattern or design. There are four circular elements that could be lights or decorative items. The color scheme consists of shades of gray and white, giving the space a modern and possibly industrial feel. If there is any text or additional details in the image that you'd like to know about, please let me know! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037250"
+  },
+  "File Name": "143132_369.jpg",
+  "Create Date": "2024-05-11 14:31:33.369+02:00",
+  "Create Seconds Epoch": "1715445093.369",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
