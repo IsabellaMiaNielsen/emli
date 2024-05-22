@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely the ceiling of a building. It is designed with a grid-like pattern and appears to be made from metal panels or tiles, which could suggest a ceiling in a warehouse, industrial facility, or a similar large structure. There are circular cutouts within the panels that might allow for access or ventilation. The photo itself has a slight distortion, possibly due to the angle at which it was taken, and the lighting is uneven, with bright spots indicating light sources from above. The color scheme of the ceiling seems to be a monochromatic palette, predominantly shades of gray and white, with darker panels where the circles are cut out. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037950"
+  },
+  "File Name": "154914_811.jpg",
+  "Create Date": "2024-05-11 15:49:16.811+02:00",
+  "Create Seconds Epoch": "1715449756.811",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
