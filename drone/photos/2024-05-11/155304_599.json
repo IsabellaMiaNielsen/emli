@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows an interior view of a ceiling with a tiled pattern. There is one visible circular light fixture in the center, and three circular recessed areas that may be intended for lighting or ventilation fixtures. The ceiling appears to be constructed from what looks like corrugated metal panels. In the lower part of the image, there seems to be a blurred flooring material that could be carpet or tiles, and possibly some sort of markings or symbols on the surface. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038185"
+  },
+  "File Name": "155304_599.jpg",
+  "Create Date": "2024-05-11 15:53:06.599+02:00",
+  "Create Seconds Epoch": "1715449986.599",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
