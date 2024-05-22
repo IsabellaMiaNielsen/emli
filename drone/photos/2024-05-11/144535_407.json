@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a ceiling with several light fixtures. There are three visible lights, which appear to be recessed ceiling lights. The ceiling itself is white and tiled. In the bottom left corner of the image, there's a small part of what seems to be a window or skylight allowing natural light into the space. The walls surrounding the ceiling are not fully visible but seem to be painted in a light color, possibly white or off-white. There is no distinct text or objects that draw attention within this view of the interior space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037495"
+  },
+  "File Name": "144535_407.jpg",
+  "Create Date": "2024-05-11 14:45:36.407+02:00",
+  "Create Seconds Epoch": "1715445936.407",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
