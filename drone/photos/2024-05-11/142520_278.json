@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the interior of a room with a ceiling that has several circular lights. In the bottom left corner, there is a person's hand visible, possibly indicating the presence of someone taking the photo or interacting with the object in the foreground. The walls and floor appear to be white or light-colored tiles, which gives the space an industrial or modern aesthetic. There are no distinctive features or items that can be identified clearly, and there are no texts or significant actions occurring within this view. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037235"
+  },
+  "File Name": "142520_278.jpg",
+  "Create Date": "2024-05-11 14:25:21.278+02:00",
+  "Create Seconds Epoch": "1715444721.278",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
