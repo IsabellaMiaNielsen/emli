@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling with what appears to be a tiled design, although the tiles are not uniform and there is a pattern of varying shades of grey. There are at least four circular recesses in the ceiling that could potentially house lights or speakers. The photo has a slight tilt, making it clear that the image was taken from a lower angle. To the right of the photo, part of what looks like an office cubicle is visible, with some white walls and what seems to be a computer monitor mounted on the wall. The flooring is not clearly visible due to the angle of the shot. There are no people or other objects in the immediate vicinity of the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037524"
+  },
+  "File Name": "144710_918.jpg",
+  "Create Date": "2024-05-11 14:47:12.918+02:00",
+  "Create Seconds Epoch": "1715446032.918",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
