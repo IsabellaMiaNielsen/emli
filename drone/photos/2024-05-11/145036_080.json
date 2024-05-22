@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image appears to be taken from the perspective of a person standing in an overhead position, likely within an airplane cabin. From this vantage point, we see the ceiling of the aircraft, which is equipped with overhead compartments where luggage and other items are stored. The compartments have been checked, as indicated by the green tag on one of them. Additionally, there is a light fixture visible in the image. There are no windows or doors open from this angle, indicating that the photo was taken during a routine check or preparation for flight. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037636"
+  },
+  "File Name": "145036_080.jpg",
+  "Create Date": "2024-05-11 14:50:37.080+02:00",
+  "Create Seconds Epoch": "1715446237.080",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
