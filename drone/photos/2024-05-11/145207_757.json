@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is quite small and appears to be taken from an angle where the camera lens is visible, which distorts the perspective. It looks like a room with a ceiling that has some kind of pattern or tiles, possibly made of metal. There are three circular objects in the ceiling which could be fire sprinklers or some form of light fixture. The walls are also tiled and the overall impression is that of a utilitarian space, possibly a part of a larger building such as an airport terminal or a large office area. The photo seems to have been taken without much thought for composition, making it challenging to provide more detailed descriptions due to its quality. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037675"
+  },
+  "File Name": "145207_757.jpg",
+  "Create Date": "2024-05-11 14:52:09.757+02:00",
+  "Create Seconds Epoch": "1715446329.757",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
