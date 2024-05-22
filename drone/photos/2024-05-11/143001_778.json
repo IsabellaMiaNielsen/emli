@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a ceiling of a building, as indicated by the view from below. There are several round white objects on the ceiling that appear to be some kind of lighting or fixtures. The ceiling has a patterned design with a reflective surface, possibly made of metal or another shiny material. In the lower right corner, there's a partial view of a person's legs, suggesting they might be seated or standing in that area. There is no visible text or branding that provides context or information about the location. The style of the image is straightforward and appears to be taken for practical purposes such as documenting interior design or facility conditions. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037245"
+  },
+  "File Name": "143001_778.jpg",
+  "Create Date": "2024-05-11 14:30:03.778+02:00",
+  "Create Seconds Epoch": "1715445003.778",
+  "Trigger": "Time",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
