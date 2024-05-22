@@ -1,9 +1,10 @@
 #!/bin/bash
 
 
-CAM_SSID="EMLI-TEAM-7" # Camera's access point SSID
+CAM_SSIDS=("EMLI-TEAM-7") # Camera's access point SSID
 
 check_cam_ap() {
+    local CAM_SSID="$1"
     nmcli device wifi list | grep -q "$CAM_SSID" # Returns true if detected, otherwise false
 }
 
@@ -17,14 +18,16 @@ check_if_connected_to_cam() {
 
 # Main loop
 while true; do
-    if check_cam_ap; then
-        echo "Camera's access point detected. Connecting..."
-        connect_to_cam_ap
-        break  # Exit loop after successful connection
-    else
-        echo "camera's access point not detected. Waiting..."
-        sleep 2  # Wait for 2 seconds before scanning again
-    fi
+    for CAM_SSID in "${CAM_SSIDS[@]}"; do
+        if check_cam_ap "$CAM_SSID"; then
+            echo "Camera's access point detected. Connecting..."
+            connect_to_cam_ap "$CAM_SSID"
+            break 2  # Exit both loops after successful connection
+        else
+            echo "Camera's access point not detected. Waiting..."
+            sleep 2  # Wait for 2 seconds before scanning again
+        fi
+    done
 done
 
 echo "Connected to Camera's access point."
