@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a view from above into an interior space. The floor is not visible, but the ceiling appears to be a grid of tiles or panels with small circular lights embedded in some of them. There are also two small round objects that could be lights or fixtures on the left side of the ceiling. The walls of the space are covered with what looks like corrugated metal sheets, which might serve as acoustic barriers or part of an architectural design choice. The color palette is neutral with a mix of greys and whites. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037882"
+  },
+  "File Name": "154426_676.jpg",
+  "Create Date": "2024-05-11 15:44:28.676+02:00",
+  "Create Seconds Epoch": "1715449468.676",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "343"
+}
