@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with acoustic panels, which are designed to improve sound insulation and reduce noise levels within a space. The ceiling appears to be made up of these square-shaped panels arranged in a pattern that covers the entire visible area. In the foreground, there's an object that looks like a light or a fixture attached to one of the acoustic tiles. The floor is not fully visible but seems to be a dark color, possibly carpeted, and there are no other significant features to note from this angle. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037812"
+  },
+  "File Name": "153114_417.jpg",
+  "Create Date": "2024-05-11 15:31:15.417+02:00",
+  "Create Seconds Epoch": "1715448675.417",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "384"
+}
