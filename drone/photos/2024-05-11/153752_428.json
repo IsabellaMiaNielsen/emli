@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This is a photograph showing an interior view of a ceiling. The ceiling features a series of circular elements, which could be part of a ventilation system or lighting fixtures, but without more context, their exact purpose is unclear. In the center of these circles, there appears to be a small object or fixture that stands out due to its height and position. The rest of the image is dominated by a gray ceiling surface that looks like metal, suggesting an industrial or modern design aesthetic for the space where this photo was taken. There's no text visible in this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037850"
+  },
+  "File Name": "153752_428.jpg",
+  "Create Date": "2024-05-11 15:37:53.428+02:00",
+  "Create Seconds Epoch": "1715449073.428",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "337"
+}
