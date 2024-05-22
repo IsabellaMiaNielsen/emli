@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor ceiling, which appears to be a structural grid used for tile installation. There are three circular cutouts that could be used for light fixtures or ventilation. The ceiling is made up of what looks like metallic panels with some visible insulation material. The photo seems to have been taken from the perspective of someone standing on the floor looking upwards at the ceiling, as indicated by the slightly tilted angle of the image. The colors in the image are muted, with the ceiling and surrounding area primarily in shades of gray and white. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037699"
+  },
+  "File Name": "145339_259.jpg",
+  "Create Date": "2024-05-11 14:53:40.259+02:00",
+  "Create Seconds Epoch": "1715446420.259",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
