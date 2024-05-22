@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling with an open section. The area where the ceiling has been opened appears to have a gray, textured surface that is typical for acoustic or noise-reducing materials used in commercial buildings or offices. In the center of the image, there are three circular objects mounted on the wall, which could be lighting fixtures, smoke detectors, or other types of equipment. The rest of the ceiling is not visible due to the angle and framing of the photo. There are no people or distinguishable features in the foreground that would provide additional context about the location or purpose of this space. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037255"
+  },
+  "File Name": "143151_321.jpg",
+  "Create Date": "2024-05-11 14:31:52.321+02:00",
+  "Create Seconds Epoch": "1715445112.321",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
