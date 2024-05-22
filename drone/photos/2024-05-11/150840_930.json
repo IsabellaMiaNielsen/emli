@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is quite small and low resolution, making it difficult to discern specific details. However, I can tell you that the photo appears to be taken from an angle looking up at a ceiling or possibly the underside of a carport or similar structure. There are what seem to be circular objects in the center, which could be lights or some other type of installation, but due to the image's quality, it's hard to determine exactly what they are. The background is mostly gray and nondescript, and there appears to be a light source at the top left corner of the photo. If you have any specific questions about this image or if you need more detailed descriptions, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037731"
+  },
+  "File Name": "150840_930.jpg",
+  "Create Date": "2024-05-11 15:08:42.930+02:00",
+  "Create Seconds Epoch": "1715447322.930",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
