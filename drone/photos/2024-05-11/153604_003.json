@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of what appears to be a ceiling with tiles, likely a ceiling from a commercial or public building due to the architectural design. The perspective is slightly elevated, possibly taken from a higher vantage point. There are no people or identifiable objects in this shot, focusing on the ceiling and the pattern of the tiles. The quality of the photo suggests it may have been taken with a smartphone or similar device, given the angle and casual nature of the composition. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037831"
+  },
+  "File Name": "153604_003.jpg",
+  "Create Date": "2024-05-11 15:36:05.003+02:00",
+  "Create Seconds Epoch": "1715448965.003",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "341"
+}
