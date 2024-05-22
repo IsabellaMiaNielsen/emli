@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely the ceiling of a building. It features a patterned tile design that appears to be a perforated metal or composite material. There are two circular fixtures, possibly lights or vents, near the center of the image. The background is out of focus, but it seems to be a brightly lit room, and there's a sign in the corner that reads 'R15,' which might indicate a section or a type of ceiling tile. The overall impression is one of an industrial or commercial setting. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037192"
+  },
+  "File Name": "134227_184.jpg",
+  "Create Date": "2024-05-11 13:42:28.184+02:00",
+  "Create Seconds Epoch": "1715442148.184",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/17",
+  "ISO": "395"
+}
