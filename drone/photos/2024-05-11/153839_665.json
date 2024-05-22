@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is quite blurry, which makes it difficult to discern specific details. However, I can see two individuals who appear to be engaged in a conversation or meeting. They are seated at a table with a glass partition behind them, suggesting they are in an office environment. One person is facing the camera directly, while the other seems to be slightly turned away, looking out of the frame. They both seem to be involved in a discussion or presentation. If you need more detailed information or descriptions, please provide a clearer image or more context. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037852"
+  },
+  "File Name": "153839_665.jpg",
+  "Create Date": "2024-05-11 15:38:41.665+02:00",
+  "Create Seconds Epoch": "1715449121.665",
+  "Trigger": "External",
+  "Subject Distance": "1.204901934 m",
+  "Exposure Time": "1/47",
+  "ISO": "112"
+}
