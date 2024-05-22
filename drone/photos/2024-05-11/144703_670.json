@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows a perspective view from below, looking up at the ceiling of what appears to be an indoor area with a tiled floor. The ceiling is gray and seems to be made up of large hexagonal tiles with a pattern that could possibly be designed for acoustics or aesthetics. There are no people or objects in motion visible in this image. The photo quality is somewhat blurry, which makes it challenging to discern specific details on the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037522"
+  },
+  "File Name": "144703_670.jpg",
+  "Create Date": "2024-05-11 14:47:05.670+02:00",
+  "Create Seconds Epoch": "1715446025.670",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
