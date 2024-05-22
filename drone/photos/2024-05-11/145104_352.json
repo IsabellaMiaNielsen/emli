@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is too small to provide a detailed description. If you need help with something else, feel free to ask! "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037647"
+  },
+  "File Name": "145104_352.jpg",
+  "Create Date": "2024-05-11 14:51:05.352+02:00",
+  "Create Seconds Epoch": "1715446265.352",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
