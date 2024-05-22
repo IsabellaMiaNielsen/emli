@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image appears to be taken from a lower angle, looking up towards the ceiling of a room. The ceiling is fitted with metal tiles that have some dark circular stains or marks on them. There are also what seem to be light fixtures mounted on the tiles. In the center of the photo, there's a person partially visible, holding an object close to their face, but it's not clear what they are holding due to the angle and framing of the shot. The image is overlaid with a watermark or logo that obscures some of the details on the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037943"
+  },
+  "File Name": "154907_698.jpg",
+  "Create Date": "2024-05-11 15:49:09.698+02:00",
+  "Create Seconds Epoch": "1715449749.698",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
