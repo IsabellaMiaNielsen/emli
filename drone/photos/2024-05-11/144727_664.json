@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior view of a ceiling, which appears to be the underside of a tiled ceiling with a grid-like pattern. There are no visible decorations or lighting fixtures on this side. The photo seems to have been taken from a low angle or perhaps it is an upside-down view, as there is an inverted orientation at the bottom of the image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037534"
+  },
+  "File Name": "144727_664.jpg",
+  "Create Date": "2024-05-11 14:47:29.664+02:00",
+  "Create Seconds Epoch": "1715446049.664",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
