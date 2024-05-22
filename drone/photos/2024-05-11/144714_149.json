@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows the underside of a ceiling, which appears to be made up of a series of square panels. There are three circular objects that resemble speakers or lights mounted on the ceiling, evenly spaced apart from each other. Each panel has a small round protrusion in its center, and these protrusions seem to match with the circular items on the ceiling. The ceiling itself is made up of a pattern that looks like metal mesh. There are no visible texts or distinguishable marks on the ceiling panels. The floor beneath appears to be a neutral color, likely white or grey, providing a contrast to the ceiling. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037526"
+  },
+  "File Name": "144714_149.jpg",
+  "Create Date": "2024-05-11 14:47:15.149+02:00",
+  "Create Seconds Epoch": "1715446035.149",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
