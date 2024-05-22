@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an indoor ceiling that appears to be made of corrugated metal panels. There are several circular light fixtures embedded in the panels, illuminating the area below them. In the foreground, there is a blurred photograph of the same type of ceiling but viewed from below. This perspective provides a clear view of the underside of the ceiling, where the corrugation pattern is visible, and it also shows three circular objects that are not lights. The background of the image is dark and indistinct, which makes the ceiling stand out prominently. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038303"
+  },
+  "File Name": "155333_696.jpg",
+  "Create Date": "2024-05-11 15:53:35.696+02:00",
+  "Create Seconds Epoch": "1715450015.696",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
