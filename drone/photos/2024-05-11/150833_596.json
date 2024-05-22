@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " This image shows a view from the ground looking up into a ceiling with exposed metal rafters. The ceiling is supported by visible beams and there are what appear to be circular light fixtures attached to these beams. On the left side of the image, there's a partial view of what looks like a column or support post, which may be part of the structure that supports the roof or another level above the current viewpoint. The image has been edited with a gray overlay, which reduces the color saturation and contrast to emphasize certain elements or for artistic effect. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037727"
+  },
+  "File Name": "150833_596.jpg",
+  "Create Date": "2024-05-11 15:08:35.596+02:00",
+  "Create Seconds Epoch": "1715447315.596",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/14",
+  "ISO": "400"
+}
