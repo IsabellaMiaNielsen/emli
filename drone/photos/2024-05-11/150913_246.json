@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior ceiling view with a white ceiling and a grid-like pattern. There are two circular objects that appear to be fixtures or light fittings, one on the left and the other on the right side of the frame. The photo seems to have been taken from an angle where the top of the ceiling is visible. There are no people or distinctive features in this image. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037735"
+  },
+  "File Name": "150913_246.jpg",
+  "Create Date": "2024-05-11 15:09:14.246+02:00",
+  "Create Seconds Epoch": "1715447354.246",
+  "Trigger": "Motion",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/15",
+  "ISO": "400"
+}
