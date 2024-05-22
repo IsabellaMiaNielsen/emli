@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image you've provided is quite small and taken at a slight angle. It appears to be an overhead view of a ceiling, possibly from a surveillance camera or another security-related device given the circular nature of the images and the grid pattern that could suggest a motion detection system or similar.  The ceiling looks like it's made of tiles or panels, which is common in public spaces for easy cleaning and maintenance. There are no people or specific objects of interest clearly visible due to the low resolution and angle of the photo.  If there's something specific you're curious about within this image, please provide more details, and I can offer a more precise description. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716037545"
+  },
+  "File Name": "144747_853.jpg",
+  "Create Date": "2024-05-11 14:47:49.853+02:00",
+  "Create Seconds Epoch": "1715446069.853",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/13",
+  "ISO": "400"
+}
