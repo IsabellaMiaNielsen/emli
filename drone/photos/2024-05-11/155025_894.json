@@ -1,0 +1,17 @@
+{
+  "Annotation": {
+    "Source": "Ollama:7b",
+    "Text": " The image shows an interior space, likely a ceiling view from an overhead position. The ceiling is tiled with a pattern that creates rectangular panels. There are two circular fixtures, which appear to be lighting or possibly smoke detectors, located on opposite sides of the image. The lighting in the room is off, and there's no visible activity or people present in the area. The color scheme is neutral, with shades of gray dominating the scene. The perspective provides a sense of the scale and layout of the ceiling design. "
+  },
+  "Drone Copy": {
+    "Drone ID": "WILDDRONE-001",
+    "Seconds Epoch": "1716038018"
+  },
+  "File Name": "155025_894.jpg",
+  "Create Date": "2024-05-11 15:50:27.894+02:00",
+  "Create Seconds Epoch": "1715449827.894",
+  "Trigger": "External",
+  "Subject Distance": "1 m",
+  "Exposure Time": "1/16",
+  "ISO": "400"
+}
